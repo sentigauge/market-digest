@@ -1,128 +1,136 @@
 {
   "overall_tone": "positive",
   "counts": {
-    "positive": 6,
+    "positive": 10,
     "negative": 3,
-    "neutral": 5
+    "neutral": 2
   },
   "summary_lines": [
-    "6 of 14 headlines lean positive today.",
-    "3 of 14 headlines lean negative today.",
-    "5 of 14 headlines are neutral/mixed today."
+    "10 of 15 headlines lean positive today.",
+    "3 of 15 headlines lean negative today.",
+    "2 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Stocks rise as oil falls, bonds steady ahead of Fed decision",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/stocks-rise-oil-falls-bonds-steady-ahead-fed-decision-6387681",
-      "publishedAt": "2026-09-16T11:52:28Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "title": "Global Bonds Recover as Warsh\u2019s Inflation Fight Calms Market - Bloomberg.com",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185679126",
+      "publishedAt": "2026-09-17T11:53:55Z",
+      "sentiment": "negative",
+      "score": -0.077
     },
     {
-      "title": "Stock futures rise ahead of Fed interest rate decision Sept. 2026",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/87c3d5dc1b2fe409",
-      "publishedAt": "2026-09-16T11:48:17Z",
-      "sentiment": "positive",
-      "score": 0.459
-    },
-    {
-      "title": "Benchmarks recover after recent sell-off; Nifty ends above 23,200",
+      "title": "Nifty closes above 23,250 as selective buying offsets rate hike concerns",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/benchmarks-recover-after-recent-sell-off-nifty-ends-above-23-200-126091600881_1.html",
-      "publishedAt": "2026-09-16T11:46:17Z",
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-closes-above-23-250-as-selective-buying-offsets-rate-hike-concerns-126091700944_1.html",
+      "publishedAt": "2026-09-17T11:46:30Z",
       "sentiment": "positive",
       "score": 0.402
     },
     {
-      "title": "Congress debates crypto tax exemption, Bitcoin reserve bills",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/congress-debates-crypto-tax-exemption-bitcoin-reserve-bills/",
-      "publishedAt": "2026-09-16T11:35:37Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "title": "Financial markets are signalling danger. What does it all mean?",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/your-money/2026/09/17/financial-markets-are-signalling-danger-what-does-it-all-mean/",
+      "publishedAt": "2026-09-17T11:43:26Z",
+      "sentiment": "negative",
+      "score": -0.527
     },
     {
-      "title": "Stock futures rise ahead of Fed interest rate decision Sept. 2026",
-      "source": "Quartz India",
-      "url": "https://qz.com/stock-futures-fed-rate-decision-september-091626",
-      "publishedAt": "2026-09-16T11:30:59Z",
+      "title": "The 5 Best Outdoor Gear of September 2026",
+      "source": "Yanko Design",
+      "url": "https://www.yankodesign.com/2026/09/17/the-5-best-outdoor-gear-of-september-2026/",
+      "publishedAt": "2026-09-17T11:40:04Z",
+      "sentiment": "positive",
+      "score": 0.637
+    },
+    {
+      "title": "Equity investors warned of rising interest rates amid energy price surge",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/equity-investors-rising-rates-oil-prices/",
+      "publishedAt": "2026-09-17T11:14:38Z",
       "sentiment": "positive",
       "score": 0.459
     },
     {
-      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/db7996ece2924a98",
-      "publishedAt": "2026-09-16T10:47:23Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex gains 333 points, Nifty rises 99 points; FMCG, PSU banks outperform",
+      "title": "Tata Sons board for Chandra's reappointment, moves to list co; Trusts may challenge decision",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16th-september-2026/article71468722.ece",
-      "publishedAt": "2026-09-16T10:42:35Z",
+      "url": "https://www.thehindubusinessline.com/companies/tata-sons-board-for-chandras-reappointment-moves-to-list-co-trusts-may-challenge-decision/article71476352.ece",
+      "publishedAt": "2026-09-17T11:12:21Z",
       "sentiment": "positive",
-      "score": 0.625
+      "score": 0.527
     },
     {
-      "title": "Indices snap 2-day losses; FMCG shares rally",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/indices-snap-2-day-losses-fmcg-shares-rally-126091600763_1.html",
-      "publishedAt": "2026-09-16T10:34:01Z",
-      "sentiment": "negative",
-      "score": -0.128
-    },
-    {
-      "title": "\u2018Dead money\u2019: Your savings account is losing a fight with inflation. Here\u2019s where 3 financial advisors put cash instead",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/articles/dead-money-savings-account-losing-101500222.html",
-      "publishedAt": "2026-09-16T10:15:00Z",
-      "sentiment": "negative",
-      "score": -0.637
-    },
-    {
-      "title": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/16/openai-ipo-sam-altman-vc-funding-valuation-1-2-trillion/",
-      "publishedAt": "2026-09-16T09:28:35Z",
-      "sentiment": "positive",
-      "score": 0.599
-    },
-    {
-      "title": "Indices trade higher; realty shares plunge",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/indices-trade-higher-realty-shares-plunge-126091600625_1.html",
-      "publishedAt": "2026-09-16T09:20:41Z",
-      "sentiment": "positive",
-      "score": 0.296
-    },
-    {
-      "title": "Why hedge funds are leaving London\u2019s City for Athens",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/09/16/why-hedge-funds-are-leaving-londons-city-for-athens/",
-      "publishedAt": "2026-09-16T09:09:12Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Time for a fraud risk index? Credible readings could help investors track the risk of corporate fraud",
+      "title": "Tata Sons board meeting: What happened inside the Tata Sons boardroom that brought Chandrasekaran | Full statement here",
       "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/time-for-fraud-risk-index-credible-readings-investors-track-the-risk-of-corporate-fraud-11789543357673.html",
-      "publishedAt": "2026-09-16T09:03:12Z",
-      "sentiment": "negative",
-      "score": -0.844
-    },
-    {
-      "title": "Asian stocks mostly higher ahead of Fed decision",
-      "source": "Boston 25 News",
-      "url": "https://www.boston25news.com/news/business/asian-stocks-mostly/P4WFCW4HDU32FI3XLLBDUPLPGE/",
-      "publishedAt": "2026-09-16T08:45:09Z",
+      "url": "https://www.livemint.com/companies/news/tata-sons-board-meeting-what-happened-as-chandrasekaran-gets-5-year-extension-read-full-statement-here-11789641813137.html",
+      "publishedAt": "2026-09-17T11:07:19Z",
       "sentiment": "neutral",
       "score": 0.0
+    },
+    {
+      "title": "Did Mitch McConnell vote against sick leave during 4 separate years?",
+      "source": "Snopes.com",
+      "url": "https://www.snopes.com//fact-check/mcconnell-sick-leave-votes/",
+      "publishedAt": "2026-09-17T11:00:00Z",
+      "sentiment": "negative",
+      "score": -0.542
+    },
+    {
+      "title": "Tata Sons to go public: A look at years of legal and regulatory hurdles",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/tata-sons-ipo-listing-legal-regulatory-challenges-public-timeline-rbi-legal-126091700823_1.html",
+      "publishedAt": "2026-09-17T10:58:57Z",
+      "sentiment": "positive",
+      "score": 0.128
+    },
+    {
+      "title": "N Chandrasekaran reverses decision, agrees to five more years as Tata Sons chairman",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/n-chandrasekaran-reverses-decision-agrees-to-five-more-years-as-tata-sons-chairman/articleshow/134309068.cms",
+      "publishedAt": "2026-09-17T10:53:38Z",
+      "sentiment": "positive",
+      "score": 0.202
+    },
+    {
+      "title": "Tata Sons Board Approves 5-Yr Extension For Chair N Chandrasekaran: Sources",
+      "source": "Deccan Chronicle",
+      "url": "https://www.deccanchronicle.com/business/five-year-extension-for-chairman-n-chandrasekaran-approved-by-tata-sons-board-sources-1988176",
+      "publishedAt": "2026-09-17T10:52:22Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "NSE enables India\u2019s first tokenised corporate bond issuances",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/nse-enables-indias-first-tokenised-corporate-bond-issuances/article71476201.ece",
+      "publishedAt": "2026-09-17T10:47:02Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Nifty holds above 23,250 mark; broader mkt outperforms",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-holds-above-23-250-mark-broader-mkt-outperforms-126091700802_1.html",
+      "publishedAt": "2026-09-17T10:46:07Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "Nifty settles above 23,250 mark; broader mrkt outperforms",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-settles-above-23-250-mark-broader-mrkt-outperforms-126091700802_1.html",
+      "publishedAt": "2026-09-17T10:46:07Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Nifty, Sensex close flat as high crude price concerns offset value buying",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-17th-september-2026/article71472777.ece",
+      "publishedAt": "2026-09-17T10:43:25Z",
+      "sentiment": "positive",
+      "score": 0.103
     }
   ],
-  "fetched_at": "2026-09-17T12:03:22.122842"
+  "fetched_at": "2026-09-18T12:03:06.858577"
 }

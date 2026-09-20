@@ -1,136 +1,136 @@
 {
-  "overall_tone": "positive",
+  "overall_tone": "neutral",
   "counts": {
-    "positive": 6,
-    "negative": 4,
-    "neutral": 5
+    "positive": 4,
+    "negative": 3,
+    "neutral": 8
   },
   "summary_lines": [
-    "6 of 15 headlines lean positive today.",
-    "4 of 15 headlines lean negative today.",
-    "5 of 15 headlines are neutral/mixed today."
+    "4 of 15 headlines lean positive today.",
+    "3 of 15 headlines lean negative today.",
+    "8 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "The Fed Just Raised Interest Rates: Here\u2019s What It Means for Your Wallet",
-      "source": "The Root",
-      "url": "https://www.theroot.com/the-fed-just-raised-interest-rates-here-s-what-it-mean-2000126595",
-      "publishedAt": "2026-09-18T11:55:19Z",
-      "sentiment": "positive",
-      "score": 0.459
+      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+      "publishedAt": "2026-09-19T11:59:55Z",
+      "sentiment": "neutral",
+      "score": 0.0
     },
     {
-      "title": "India's forex reserves drop $4.92 billion to $780.78 billion as of September 11",
+      "title": "MarketBeat Week in Review \u2013 09/14 - 09/18",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-14-09-18/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "publishedAt": "2026-09-19T11:00:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Bank of India MF CIO Alok Singh sees banks poised for a re-rating. Here\u2019s what could trigger it",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-drops-4-92-billion-to-780-78-billion-as-of-september-11/articleshow/134334294.cms",
-      "publishedAt": "2026-09-18T11:49:35Z",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/bank-of-india-mf-cio-alok-singh-sees-banks-poised-for-a-re-rating-heres-what-could-trigger-it/articleshow/134351586.cms",
+      "publishedAt": "2026-09-19T09:52:27Z",
+      "sentiment": "positive",
+      "score": 0.25
+    },
+    {
+      "title": "Strategy Stock\u2019s 16% Jump Yesterday Traces Back to a House Committee Vote.",
+      "source": "Tikr.com",
+      "url": "https://www.tikr.com/blog/strategy-stocks-16-jump-yesterday-traces-back-to-a-house-committee-vote?ref=yahoofinance",
+      "publishedAt": "2026-09-19T08:59:03Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Tata Sons-Tata Trusts row: Harish Salve backs listing, says company's legal position 'legally perfect'",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/tata-sons-tata-trusts-row-harish-salve-backs-listing-says-companys-legal-position-legally-perfect-11789792619105.html",
+      "publishedAt": "2026-09-19T04:53:18Z",
+      "sentiment": "positive",
+      "score": 0.818
+    },
+    {
+      "title": "Rupee snaps losing streak on RBI support, oil retreat",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-losing-streak-on-rbi-support-oil-retreat/articleshow/134347574.cms",
+      "publishedAt": "2026-09-19T04:11:56Z",
+      "sentiment": "positive",
+      "score": 0.226
+    },
+    {
+      "title": "Wall Street Week Ahead: Investors focus on rate path, AI slowdown after Fed hike",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-investors-focus-on-rate-path-ai-slowdown-after-fed-hike/articleshow/134347611.cms",
+      "publishedAt": "2026-09-19T04:11:05Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "India's forex reserves drop by $4.9 billion",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-drop-by-4-9-billion/articleshow/134347449.cms",
+      "publishedAt": "2026-09-19T04:07:15Z",
       "sentiment": "negative",
       "score": -0.273
     },
     {
-      "title": "AI trade rebound sparks flurry of unusually bullish options activity",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/ai-trade-rebound-sparks-flurry-of-unusually-bullish-options-activity.html",
-      "publishedAt": "2026-09-18T11:20:56Z",
+      "title": "Economic Digest: A Snapshot of Nepal\u2019s Business News",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/19/568312/",
+      "publishedAt": "2026-09-19T02:15:25Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "From GIFT City to Europe: India INX GA to launch tax-efficient UCITS for Indian investors",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/from-gift-city-to-europe-india-inx-ga-to-launch-tax-efficient-ucits-for-indian-investors/article71480345.ece",
-      "publishedAt": "2026-09-18T10:56:22Z",
-      "sentiment": "positive",
-      "score": 0.562
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex slips but Nifty gains 75 points by closing as easing crude offers relief",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-18th-september-2026/article71477821.ece",
-      "publishedAt": "2026-09-18T10:48:57Z",
-      "sentiment": "positive",
-      "score": 0.805
-    },
-    {
-      "title": "Stock Market Today (Sept. 18, 2026): Nasdaq futures rise after Fed rate hike lifts stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/524d8d94bd997060",
-      "publishedAt": "2026-09-18T10:46:52Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Rupee slips 0.3% on-week, traders reckon \u2018line in sand\u2019 near 96/$ will hold",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-slips-03-on-week-traders-reckon-line-in-sand-near-96-will-hold/article71480270.ece",
-      "publishedAt": "2026-09-18T10:32:22Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "US Treasury yields remain above 5% amid ongoing selloff",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-treasury-yields-above-5-percent-selloff/",
-      "publishedAt": "2026-09-18T10:30:32Z",
-      "sentiment": "positive",
-      "score": 0.202
-    },
-    {
-      "title": "Rupee logs weekly decline; traders expect losses to be capped near 96 against USD",
+      "title": "Tata Sons set ball rolling for listing after RBI diktat; February 2027 emerges as approximate internal target",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-logs-weekly-decline-traders-expect-losses-to-be-capped-near-96-against-usd/articleshow/134332448.cms",
-      "publishedAt": "2026-09-18T10:27:39Z",
-      "sentiment": "negative",
-      "score": -0.402
-    },
-    {
-      "title": "The Bear\u2019s Den: Health concerns for Bears, Minnesota Vikings remain",
-      "source": "Windy City Gridiron",
-      "url": "https://www.windycitygridiron.com/chicago-bears-news/123044/chicago-bears-news-health-concerns-for-bears-minnesota-vikings-remain",
-      "publishedAt": "2026-09-18T10:00:00Z",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-set-ball-rolling-for-listing-after-rbi-diktat-noel-tata-n-chandrasekaran/articleshow/134346169.cms",
+      "publishedAt": "2026-09-19T01:18:19Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Tata Group\u2019s boardroom tussle: All you need to know",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/tata-groups-boardroom-tussle-all-you-need-to-know/article71480141.ece",
-      "publishedAt": "2026-09-18T09:57:52Z",
+      "title": "Breitbart Business Digest: Trump Refuses to Launch World War Warsh",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/economy/2026/09/18/breitbart-business-digest-trump-refuses-to-launch-world-war-warsh/",
+      "publishedAt": "2026-09-19T00:19:16Z",
+      "sentiment": "negative",
+      "score": -0.599
+    },
+    {
+      "title": "Bitwise CIO Matt Hougan Adjusts His Crypto Outlook After the Senate Vote. Here\u2019s What He Changed",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/bitwise-cio-matt-hougan-adjusts-his-crypto-outlook-after-the-senate-vote-heres-what-he-changed/",
+      "publishedAt": "2026-09-18T23:30:10Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Why risk a smart contract exploit when safe US Treasuries pay better crypto yields?",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/why-risk-a-smart-contract-exploit-when-safe-us-treasuries-pay-better-crypto-yields/",
-      "publishedAt": "2026-09-18T08:50:29Z",
-      "sentiment": "positive",
-      "score": 0.758
-    },
-    {
-      "title": "Inside the Tata power struggle: Who controls the group, and who calls the shots?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/inside-the-tata-power-struggle-who-controls-the-group-and-who-calls-the-shots/articleshow/134330016.cms",
-      "publishedAt": "2026-09-18T08:24:49Z",
+      "title": "Ethereum Reclaims $2,600 After Key Trendline Holds, Following Two Failed Attempts",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/ethereum-reclaims-2600-after-key-trendline-holds-following-two-failed-attempts/",
+      "publishedAt": "2026-09-18T23:18:51Z",
       "sentiment": "negative",
-      "score": -0.318
+      "score": -0.511
     },
     {
-      "title": "Rob Urie: Hack-Bots Gone Wild \u2013 Agentic AI Does What it Was Created to Do (and Revisiting the Fake Bond Market Panic)",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/rob-urie-hack-bots-gone-wild-agentic-ai-does-what-it-was-created-to-do-and-revisiting-the-fake-bond-market-panic.html",
-      "publishedAt": "2026-09-18T08:10:30Z",
-      "sentiment": "negative",
-      "score": -0.84
-    },
-    {
-      "title": "Tata Sons IPO: Why Tata Chemicals may be the biggest beneficiary although Tata Motors, Tata Steel own bigger stake",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-why-tata-chemicals-may-be-the-biggest-beneficiary-although-tata-motors-tata-steel-own-bigger-stake/articleshow/134329137.cms",
-      "publishedAt": "2026-09-18T07:31:51Z",
+      "title": "What Is a Stablecoin Reward, and Why Did the CLARITY Act\u2019s Failure Keep It Alive?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/what-is-a-stablecoin-reward-and-why-did-the-clarity-acts-failure-keep-it-alive/",
+      "publishedAt": "2026-09-18T23:10:49Z",
       "sentiment": "positive",
-      "score": 0.477
+      "score": 0.753
+    },
+    {
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o",
+      "publishedAt": "2026-09-18T23:07:16Z",
+      "sentiment": "neutral",
+      "score": 0.0
     }
   ],
-  "fetched_at": "2026-09-19T12:03:27.334433"
+  "fetched_at": "2026-09-20T12:02:53.026257"
 }

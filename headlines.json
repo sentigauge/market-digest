@@ -1,95 +1,89 @@
 {
-  "fetched_at": "2026-09-22T12:03:04.491803",
+  "fetched_at": "2026-09-23T12:03:51.551444",
   "headlines": [
     {
-      "title": "Vulnerability Summary for the Week of September 14, 2026",
-      "source": "Cisa.gov",
-      "url": "https://www.cisa.gov/news-events/bulletins/sb26-264",
-      "publishedAt": "2026-09-21T11:58:01Z"
-    },
-    {
-      "title": "The Retirees Who Left Florida for Good Say the Bill That Broke Them Was Not the One They Feared",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/09/21/the-retirees-who-left-florida-for-good-say-the-bill-that-broke-them-was-not-the-one-they-feared/",
-      "publishedAt": "2026-09-21T11:17:36Z"
-    },
-    {
-      "title": "Australia's ASX 200 ends flat as investors await key data",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/australia-s-asx-200-ends-flat-as-investors-await-key-data-126092100757_1.html",
-      "publishedAt": "2026-09-21T11:01:16Z"
-    },
-    {
-      "title": "Stock Market Today (Sept. 21, 2026): Dow futures climb as oil prices retreat",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/02d39ce1e12a543e",
-      "publishedAt": "2026-09-21T10:56:57Z"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex rises 564 pts, Nifty closes at 23,414; Rupee ends at 95.81 in subdued trade",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-september-2026/article71488721.ece",
-      "publishedAt": "2026-09-21T10:38:06Z"
-    },
-    {
-      "title": "Bitcoin surges to $85,000 as $648M in shorts liquidated",
+      "title": "ARK Invest CEO Cathie Wood downplays Fed rate-hike fears, says tech boom will crush inflation",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitcoin-surges-85000-shorts-liquidated/",
-      "publishedAt": "2026-09-21T10:34:37Z"
+      "url": "https://cryptobriefing.com/cathie-wood-downplays-fed-rate-hike-fears/",
+      "publishedAt": "2026-09-22T11:23:39Z"
     },
     {
-      "title": "Rupee ends marginally higher in subdued trade, forward premiums ease",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-marginally-higher-in-subdued-trade-forward-premiums-ease/articleshow/134387037.cms",
-      "publishedAt": "2026-09-21T10:26:07Z"
+      "title": "The 2026 Esquire Spirit Awards",
+      "source": "esquire.com",
+      "url": "https://www.esquire.com/food-drink/drinks/a73651897/best-spirits-whiskey-vodka-tequila-2026/",
+      "publishedAt": "2026-09-22T11:00:00Z"
     },
     {
-      "title": "Bitcoin trades above $84,000 after regulatory developments boost market sentiment",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-above-84000-after-regulatory-developments-boost-market-sentiment/articleshow/134386892.cms",
-      "publishedAt": "2026-09-21T10:17:57Z"
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "publishedAt": "2026-09-22T10:59:03Z"
     },
     {
-      "title": "Bitcoin and Crypto Face a \u201cLose Lose\u201d Fed Trap as Stocks Reach Historic Extremes, Mike McGlone Warns",
-      "source": "Crypto Coins News",
-      "url": "https://www.ccn.com/news/crypto/mike-mcglone-bitcoin-lose-lose-fed-hikes-shiller-cape/",
-      "publishedAt": "2026-09-21T10:17:19Z"
-    },
-    {
-      "title": "Rupee ends at 95.81 in subdued trade, forward premiums ease",
+      "title": "Aastha Spintex fixes Monday as record date for bonus issue",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-ends-at-9581-in-subdued-trade-forward-premiums-ease/article71490993.ece",
-      "publishedAt": "2026-09-21T10:15:17Z"
+      "url": "https://www.thehindubusinessline.com/markets/aastha-spintex-fixes-monday-as-record-date-for-bonus-issue/article71495106.ece",
+      "publishedAt": "2026-09-22T10:51:21Z"
     },
     {
-      "title": "Capstone Copper Announces Sale of Cozamin for Total Consideration of up to $385 Million",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/capstone-copper-announces-sale-of-cozamin-for-total-consideration-of-up-to-385-million",
-      "publishedAt": "2026-09-21T10:01:16Z"
-    },
-    {
-      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+      "title": "Home Depot CFO issues chilling alarm over \u2018frozen\u2019 US housing market \u2014 crucial metric plunges to historic low",
       "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
-      "publishedAt": "2026-09-21T10:00:00Z"
+      "url": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+      "publishedAt": "2026-09-22T10:45:00Z"
     },
     {
-      "title": "Best high-yield savings interest rates today, Tuesday, September 22, 2026: Earn up to 4.10% APY",
+      "title": "Sensex today | Stock Market Highlights: Sensex falls 330 pts, Nifty closes at 23,329; oil fell to $98.9 ahead of potential US-Iran talks",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-september-2026/article71492546.ece",
+      "publishedAt": "2026-09-22T10:44:36Z"
+    },
+    {
+      "title": "Your house is worth Rs 2 crore, but are you really retirement ready?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/plan/your-house-is-worth-rs-2-crore-but-are-you-really-retirement-ready/articleshow/134406689.cms",
+      "publishedAt": "2026-09-22T10:42:56Z"
+    },
+    {
+      "title": "Bulls and doomers are both right, says Ray Dalio\u2014AI will be \u2018miraculous\u2019 for productivity but fuel a \u2018devastating\u2019 bubble and wealth inequality",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/22/ray-dalio-optimists-pessimists-both-correct-ai-calls-productivity-inequality/",
+      "publishedAt": "2026-09-22T10:42:51Z"
+    },
+    {
+      "title": "Moe warns 'blood potash' is part of Trump's planned deal with Belarus to thwart Canada",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2026/09/22/news/moe-warns-blood-potash-part-trumps-planned-deal-belarus-thwart-canada",
+      "publishedAt": "2026-09-22T10:42:34Z"
+    },
+    {
+      "title": "Morning Bid: As oil swoons, AI recharges",
       "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-22-2026-earn-up-to-410-apy-100000921.html",
-      "publishedAt": "2026-09-21T10:00:00Z"
+      "url": "https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
+      "publishedAt": "2026-09-22T10:39:25Z"
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
-      "publishedAt": "2026-09-21T10:00:00Z"
+      "title": "New DapuStor SSD pairs high-capacity QLC with a permanent pSLC region \u2014 trades 6% to 20% of its QLC capacity for more than 7x faster random writes",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes",
+      "publishedAt": "2026-09-22T10:30:00Z"
     },
     {
-      "title": "Crypto Tax Bill Just Changed: What the New US Rules Could Mean for Bitcoin, Stablecoins and Staking",
-      "source": "Bitcoinfoundation.org",
-      "url": "https://bitcoinfoundation.org/news/regulation/crypto-tax-bill-just-changed/",
-      "publishedAt": "2026-09-21T09:29:42Z"
+      "title": "THOR INDUSTRIES ANNOUNCES FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/thor-industries-announces-fiscal-2026-fourth-quarter-and-full-year-results-302885391.html",
+      "publishedAt": "2026-09-22T10:30:00Z"
+    },
+    {
+      "title": "Our Fashion Editors Found 56% Off on Menswear Deals Ahead of Prime Day",
+      "source": "menshealth.com",
+      "url": "https://www.menshealth.com/style/a73820707/prime-big-deal-days-menswear-sales-2026/",
+      "publishedAt": "2026-09-22T10:00:00Z"
+    },
+    {
+      "title": "Strategy Swings From $10B Unrealized Loss to $8B Profit as Bitcoin Hits $85K",
+      "source": "Crypto Coins News",
+      "url": "https://www.ccn.com/news/crypto/strategy-bitcoin-holdings-8-billion-profit-85k-btc-rally/",
+      "publishedAt": "2026-09-22T09:58:54Z"
     }
   ]
 }

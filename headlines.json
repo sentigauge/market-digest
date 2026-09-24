@@ -1,89 +1,95 @@
 {
-  "fetched_at": "2026-09-23T12:03:51.551444",
+  "fetched_at": "2026-09-24T12:03:23.160231",
   "headlines": [
     {
-      "title": "ARK Invest CEO Cathie Wood downplays Fed rate-hike fears, says tech boom will crush inflation",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/cathie-wood-downplays-fed-rate-hike-fears/",
-      "publishedAt": "2026-09-22T11:23:39Z"
-    },
-    {
-      "title": "The 2026 Esquire Spirit Awards",
-      "source": "esquire.com",
-      "url": "https://www.esquire.com/food-drink/drinks/a73651897/best-spirits-whiskey-vodka-tequila-2026/",
-      "publishedAt": "2026-09-22T11:00:00Z"
-    },
-    {
-      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
-      "publishedAt": "2026-09-22T10:59:03Z"
-    },
-    {
-      "title": "Aastha Spintex fixes Monday as record date for bonus issue",
+      "title": "Sensex today | Stock Market Highlights: Nifty closes at 23,446, gains 118 points, Sensex ends at 74,828 on stronger domestic growth momentum",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/aastha-spintex-fixes-monday-as-record-date-for-bonus-issue/article71495106.ece",
-      "publishedAt": "2026-09-22T10:51:21Z"
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-september-2026/article71495500.ece",
+      "publishedAt": "2026-09-23T10:49:05Z"
     },
     {
-      "title": "Home Depot CFO issues chilling alarm over \u2018frozen\u2019 US housing market \u2014 crucial metric plunges to historic low",
+      "title": "Bitcoin Is Down Just 1.2% for 2026 After Clearing $86,000. Can It End the Year Green?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/23/bitcoin-is-down-just-1-2-for-2026-after-clearing-86000-can-it-end-the-year-green/",
+      "publishedAt": "2026-09-23T10:37:14Z"
+    },
+    {
+      "title": "Federal Reserve delivers warning to all Americans with a savings account: \u2018There will be a reckoning.\u2019 Are you ready?",
       "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
-      "publishedAt": "2026-09-22T10:45:00Z"
+      "url": "https://finance.yahoo.com/economy/policy/articles/federal-delivers-warning-americans-savings-103500121.html",
+      "publishedAt": "2026-09-23T10:35:00Z"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex falls 330 pts, Nifty closes at 23,329; oil fell to $98.9 ahead of potential US-Iran talks",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-september-2026/article71492546.ece",
-      "publishedAt": "2026-09-22T10:44:36Z"
+      "title": "Super Bowl stock report for Week 3: Bengals are total package, Chargers' season over before it started",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-nfl-week-3/",
+      "publishedAt": "2026-09-23T10:00:50Z"
     },
     {
-      "title": "Your house is worth Rs 2 crore, but are you really retirement ready?",
+      "title": "What Is the Best Crypto to Buy Before the Trump and Xi Meeting on September 24?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/23/what-is-the-best-crypto-to-buy-before-the-trump-and-xi-meeting-on-september-24/",
+      "publishedAt": "2026-09-23T09:40:46Z"
+    },
+    {
+      "title": "Tune out geopolitics because Q3 earnings are going to be stellar, Deutsche's US stock chief says",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-q3-earnings-outlook-trump-xi-china-geopolitical-risks-2026-9#article",
+      "publishedAt": "2026-09-23T09:30:01Z"
+    },
+    {
+      "title": "ONGC lags Oil India as mid-cap rally drives stock divergence: Kotak",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/ongc-lags-oil-india-as-mid-cap-rally-drives-stock-divergence-kotak-126092300659_1.html",
+      "publishedAt": "2026-09-23T09:08:52Z"
+    },
+    {
+      "title": "The NSLC has gone through about 90% of its American alcohol stockpile",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nslc-american-alcohol-stockpile-first-quarter-results-2026-27-9.7353757",
+      "publishedAt": "2026-09-23T09:00:00Z"
+    },
+    {
+      "title": "11:11 | Donald Trump says he could annihilate Iran, Apollo Global caps private credit, AI updates and more",
+      "source": "CNBCTV18",
+      "url": "https://www.cnbctv18.com/business/1111-donald-trump-says-he-could-annihilate-iran-apollo-global-caps-private-credit-ai-updates-and-more-19996304.htm",
+      "publishedAt": "2026-09-23T08:32:15Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+      "publishedAt": "2026-09-23T08:05:56Z"
+    },
+    {
+      "title": "For Sale: A Vintage Suzuki LT250R QuadRacer From 1992",
+      "source": "Silodrome.com",
+      "url": "https://silodrome.com/suzuki-lt250r-quadracer/",
+      "publishedAt": "2026-09-23T06:30:32Z"
+    },
+    {
+      "title": "Arvind SmartSpaces shares rally 11% as bookings cross Rs 500 crore in Bengaluru project",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/plan/your-house-is-worth-rs-2-crore-but-are-you-really-retirement-ready/articleshow/134406689.cms",
-      "publishedAt": "2026-09-22T10:42:56Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/arvind-smartspaces-shares-rally-11-as-bookings-cross-rs-500-crore-in-bengaluru-project/articleshow/134425999.cms",
+      "publishedAt": "2026-09-23T04:45:09Z"
     },
     {
-      "title": "Bulls and doomers are both right, says Ray Dalio\u2014AI will be \u2018miraculous\u2019 for productivity but fuel a \u2018devastating\u2019 bubble and wealth inequality",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/22/ray-dalio-optimists-pessimists-both-correct-ai-calls-productivity-inequality/",
-      "publishedAt": "2026-09-22T10:42:51Z"
+      "title": "Stock Alert: 360 One Wam, IRB Infra, Arvind Smartspace, Aditya Infotech, Cupid",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/stock-alert-360-one-wam-irb-infra-arvind-smartspace-aditya-infotech-cupid-126092300159_1.html",
+      "publishedAt": "2026-09-23T03:34:01Z"
     },
     {
-      "title": "Moe warns 'blood potash' is part of Trump's planned deal with Belarus to thwart Canada",
-      "source": "National Observer",
-      "url": "https://www.nationalobserver.com/2026/09/22/news/moe-warns-blood-potash-part-trumps-planned-deal-belarus-thwart-canada",
-      "publishedAt": "2026-09-22T10:42:34Z"
-    },
-    {
-      "title": "Morning Bid: As oil swoons, AI recharges",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
-      "publishedAt": "2026-09-22T10:39:25Z"
-    },
-    {
-      "title": "New DapuStor SSD pairs high-capacity QLC with a permanent pSLC region \u2014 trades 6% to 20% of its QLC capacity for more than 7x faster random writes",
-      "source": "Tom's Hardware UK",
-      "url": "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes",
-      "publishedAt": "2026-09-22T10:30:00Z"
-    },
-    {
-      "title": "THOR INDUSTRIES ANNOUNCES FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS",
+      "title": "Silvercorp Announces Amendments to Meeting Proposal and Postponement of Annual General and Special Meeting",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/thor-industries-announces-fiscal-2026-fourth-quarter-and-full-year-results-302885391.html",
-      "publishedAt": "2026-09-22T10:30:00Z"
+      "url": "https://www.prnewswire.com/news-releases/silvercorp-announces-amendments-to-meeting-proposal-and-postponement-of-annual-general-and-special-meeting-302886899.html",
+      "publishedAt": "2026-09-23T02:00:00Z"
     },
     {
-      "title": "Our Fashion Editors Found 56% Off on Menswear Deals Ahead of Prime Day",
-      "source": "menshealth.com",
-      "url": "https://www.menshealth.com/style/a73820707/prime-big-deal-days-menswear-sales-2026/",
-      "publishedAt": "2026-09-22T10:00:00Z"
-    },
-    {
-      "title": "Strategy Swings From $10B Unrealized Loss to $8B Profit as Bitcoin Hits $85K",
-      "source": "Crypto Coins News",
-      "url": "https://www.ccn.com/news/crypto/strategy-bitcoin-holdings-8-billion-profit-85k-btc-rally/",
-      "publishedAt": "2026-09-22T09:58:54Z"
+      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+      "publishedAt": "2026-09-23T01:52:26Z"
     }
   ]
 }

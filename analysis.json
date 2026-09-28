@@ -1,16 +1,104 @@
 {
   "overall_tone": "positive",
   "counts": {
-    "positive": 6,
-    "negative": 5,
+    "positive": 8,
+    "negative": 3,
     "neutral": 4
   },
   "summary_lines": [
-    "6 of 15 headlines lean positive today.",
-    "5 of 15 headlines lean negative today.",
+    "8 of 15 headlines lean positive today.",
+    "3 of 15 headlines lean negative today.",
     "4 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
+    {
+      "title": "Why the Coldcard and Liquid Network Hacks Were the Worst in Bitcoin\u2019s History",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/why-the-coldcard-and-liquid-network-hacks-were-the-worst-in-bitcoins-history-2000810617",
+      "publishedAt": "2026-09-27T12:00:41Z",
+      "sentiment": "negative",
+      "score": -0.625
+    },
+    {
+      "title": "Ranking every NFL backup quarterback after wave of injuries",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/09/27/nfl-backup-quarterbacks-ranked-jaxson-dart-caleb-williams-jayden-daniels/91964224007/",
+      "publishedAt": "2026-09-27T11:08:47Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "No, Private Equity Isn't Ruining Your Sandwiches, Your Apartment, or Grandma's Nursing Home",
+      "source": "Reason",
+      "url": "https://reason.com/2026/09/27/private-equity-isnt-ruining-your-sandwiches/",
+      "publishedAt": "2026-09-27T10:00:18Z",
+      "sentiment": "positive",
+      "score": 0.188
+    },
+    {
+      "title": "UPI MDR row reaches SC: Plea against merchant charges on payments above \u20b92,000 to be heard on Monday",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/upi-mdr-row-reaches-sc-plea-against-merchant-charges-on-payments-above-2-000-to-be-heard-on-monday-11790499371135.html",
+      "publishedAt": "2026-09-27T09:36:58Z",
+      "sentiment": "negative",
+      "score": -0.226
+    },
+    {
+      "title": "Let\u2019s take stock of India's Insolvency and Bankruptcy Code: is it aligned with the economy\u2019s interests?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/how-india-should-revise-the-insolvency-and-bankruptcy-code-spur-private-cape-aligned-with-the-economy-s-interests-11790487173537.html",
+      "publishedAt": "2026-09-27T07:30:44Z",
+      "sentiment": "positive",
+      "score": 0.25
+    },
+    {
+      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #39",
+      "source": "Skepticalscience.com",
+      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_39.html",
+      "publishedAt": "2026-09-27T06:07:58Z",
+      "sentiment": "positive",
+      "score": 0.153
+    },
+    {
+      "title": "The family that grifts together...",
+      "source": "The Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/opinion/editorials/trump-family-profit-conflicts-greed-crypto-diplomacy-melania-windfalls-20260926.html",
+      "publishedAt": "2026-09-26T19:00:13Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "College professor who resolved to end the loneliness epidemic crippling his students reveals secret to building friendships",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16158485/professor-loneliness-epidemic-friendships.html",
+      "publishedAt": "2026-09-26T18:20:33Z",
+      "sentiment": "positive",
+      "score": 0.128
+    },
+    {
+      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+      "publishedAt": "2026-09-26T16:06:03Z",
+      "sentiment": "positive",
+      "score": 0.511
+    },
+    {
+      "title": "U.S. Stock Market personal finance tips: Wall Street investors may think over these key 5 points during weekend before Monday trading",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-personal-finance-tips-wall-street-investors-may-think-over-these-key-5-points-during-weekend-before-monday-trading/articleshow/134505204.cms",
+      "publishedAt": "2026-09-26T13:16:02Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "11 great miles and points buying opportunities available as of September 26, 2026",
+      "source": "Livefromalounge.com",
+      "url": "https://livefromalounge.com/miles-points-buying-opportunities-september-26-2026/",
+      "publishedAt": "2026-09-26T12:28:26Z",
+      "sentiment": "positive",
+      "score": 0.772
+    },
     {
       "title": "Defying higher bond yields: Consumers keep spending and the economy keeps booming",
       "source": "Yahoo Entertainment",
@@ -42,95 +130,7 @@
       "publishedAt": "2026-09-26T07:31:26Z",
       "sentiment": "positive",
       "score": 0.853
-    },
-    {
-      "title": "Dubai Real Estate Now: A Global Assessment",
-      "source": "Dubaichronicle.com",
-      "url": "https://www.dubaichronicle.com/?p=195284",
-      "publishedAt": "2026-09-26T07:12:53Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Wall Street Week Ahead: Jobs report, inflation data to test US rate path, economic strength",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength/articleshow/134497643.cms",
-      "publishedAt": "2026-09-26T05:03:46Z",
-      "sentiment": "positive",
-      "score": 0.494
-    },
-    {
-      "title": "Bond market performed well, equities less so: RBI Deputy Governor Poonam Gupta on what lies ahead",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/bond-market-performed-well-equities-less-so-rbi-deputy-governor-poonam-gupta-on-what-lies-ahead-11790392083806.html",
-      "publishedAt": "2026-09-26T04:36:24Z",
-      "sentiment": "negative",
-      "score": -0.178
-    },
-    {
-      "title": "Battered bonds draw support from falling oil prices",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/battered-bonds-draw-support-from-falling-oil-prices/articleshow/134496754.cms",
-      "publishedAt": "2026-09-26T04:04:45Z",
-      "sentiment": "positive",
-      "score": 0.273
-    },
-    {
-      "title": "Wall Street rises as Microsoft and AI stocks rally",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-investors-buy-ai-stocks-microsoft-rallies",
-      "publishedAt": "2026-09-25T21:09:14Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Egypt\u2019s Warning to Israel",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/national-security/2026/09/egypt-israel-gaza-hamas-palestinian-october-7/688720/?utm_source=feed",
-      "publishedAt": "2026-09-25T21:03:32Z",
-      "sentiment": "negative",
-      "score": -0.34
-    },
-    {
-      "title": "Original-Owner 1984 Oldsmobile Cutlass Hurst/Olds at No Reserve",
-      "source": "Bringatrailer.com",
-      "url": "https://bringatrailer.com/listing/1984-oldsmobile-cutlass-21/",
-      "publishedAt": "2026-09-25T20:50:55Z",
-      "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "Dow ends 400 points higher as investors buy AI stocks; Microsoft rallies",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-ends-400-points-higher-as-investors-buy-ai-stocks-microsoft-rallies/articleshow/134492147.cms",
-      "publishedAt": "2026-09-25T20:11:14Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "FEDS Note: Decoupling Direct Investment: American Firms\u2019 Retreat from China",
-      "source": "Federalreserve.gov",
-      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/decoupling-direct-investment-american-firms-retreat-from-china-20260925.html",
-      "publishedAt": "2026-09-25T18:15:00Z",
-      "sentiment": "positive",
-      "score": 0.202
-    },
-    {
-      "title": "The market's new 'super-cycle' hedges for world whipsawed by supply shocks and inflation",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/25/oil-prices-inflation-energy-ai-stocks.html",
-      "publishedAt": "2026-09-25T18:11:20Z",
-      "sentiment": "negative",
-      "score": -0.382
-    },
-    {
-      "title": "Smart rice policy would be nice",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/smart-rice-policy-would-be-nice/articleshow/134490143.cms",
-      "publishedAt": "2026-09-25T17:27:15Z",
-      "sentiment": "positive",
-      "score": 0.67
     }
   ],
-  "fetched_at": "2026-09-27T12:03:27.552712"
+  "fetched_at": "2026-09-28T12:03:31.799327"
 }

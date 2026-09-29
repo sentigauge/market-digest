@@ -1,136 +1,136 @@
 {
-  "overall_tone": "positive",
+  "overall_tone": "negative",
   "counts": {
-    "positive": 8,
-    "negative": 3,
-    "neutral": 4
+    "positive": 4,
+    "negative": 8,
+    "neutral": 3
   },
   "summary_lines": [
-    "8 of 15 headlines lean positive today.",
-    "3 of 15 headlines lean negative today.",
-    "4 of 15 headlines are neutral/mixed today."
+    "4 of 15 headlines lean positive today.",
+    "8 of 15 headlines lean negative today.",
+    "3 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Why the Coldcard and Liquid Network Hacks Were the Worst in Bitcoin\u2019s History",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/why-the-coldcard-and-liquid-network-hacks-were-the-worst-in-bitcoins-history-2000810617",
-      "publishedAt": "2026-09-27T12:00:41Z",
-      "sentiment": "negative",
-      "score": -0.625
+      "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
+      "publishedAt": "2026-09-28T12:03:21Z",
+      "sentiment": "positive",
+      "score": 0.077
     },
     {
-      "title": "Ranking every NFL backup quarterback after wave of injuries",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/09/27/nfl-backup-quarterbacks-ranked-jaxson-dart-caleb-williams-jayden-daniels/91964224007/",
-      "publishedAt": "2026-09-27T11:08:47Z",
+      "title": "Strategy buys 1,665 Bitcoin for $143 million as holdings near 848,000 BTC",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strategy-buys-1665-bitcoin-for-143-million-as-holdings-near-848000-btc/",
+      "publishedAt": "2026-09-28T12:02:58Z",
+      "sentiment": "positive",
+      "score": 0.637
+    },
+    {
+      "title": "Prediction: Tesla Stock Will Plunge to $100 if the S&P 500 Enters a Bear Market",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c151a07582104d8b",
+      "publishedAt": "2026-09-28T11:46:22Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "No, Private Equity Isn't Ruining Your Sandwiches, Your Apartment, or Grandma's Nursing Home",
-      "source": "Reason",
-      "url": "https://reason.com/2026/09/27/private-equity-isnt-ruining-your-sandwiches/",
-      "publishedAt": "2026-09-27T10:00:18Z",
-      "sentiment": "positive",
-      "score": 0.188
-    },
-    {
-      "title": "UPI MDR row reaches SC: Plea against merchant charges on payments above \u20b92,000 to be heard on Monday",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/upi-mdr-row-reaches-sc-plea-against-merchant-charges-on-payments-above-2-000-to-be-heard-on-monday-11790499371135.html",
-      "publishedAt": "2026-09-27T09:36:58Z",
+      "title": "Vulnerability Summary for the Week of September 21, 2026",
+      "source": "Cisa.gov",
+      "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
+      "publishedAt": "2026-09-28T11:32:46Z",
       "sentiment": "negative",
       "score": -0.226
     },
     {
-      "title": "Let\u2019s take stock of India's Insolvency and Bankruptcy Code: is it aligned with the economy\u2019s interests?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/how-india-should-revise-the-insolvency-and-bankruptcy-code-spur-private-cape-aligned-with-the-economy-s-interests-11790487173537.html",
-      "publishedAt": "2026-09-27T07:30:44Z",
-      "sentiment": "positive",
-      "score": 0.25
-    },
-    {
-      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #39",
-      "source": "Skepticalscience.com",
-      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_39.html",
-      "publishedAt": "2026-09-27T06:07:58Z",
-      "sentiment": "positive",
-      "score": 0.153
-    },
-    {
-      "title": "The family that grifts together...",
-      "source": "The Philadelphia Inquirer",
-      "url": "https://www.inquirer.com/opinion/editorials/trump-family-profit-conflicts-greed-crypto-diplomacy-melania-windfalls-20260926.html",
-      "publishedAt": "2026-09-26T19:00:13Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "College professor who resolved to end the loneliness epidemic crippling his students reveals secret to building friendships",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16158485/professor-loneliness-epidemic-friendships.html",
-      "publishedAt": "2026-09-26T18:20:33Z",
-      "sentiment": "positive",
-      "score": 0.128
-    },
-    {
-      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
-      "publishedAt": "2026-09-26T16:06:03Z",
-      "sentiment": "positive",
-      "score": 0.511
-    },
-    {
-      "title": "U.S. Stock Market personal finance tips: Wall Street investors may think over these key 5 points during weekend before Monday trading",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-personal-finance-tips-wall-street-investors-may-think-over-these-key-5-points-during-weekend-before-monday-trading/articleshow/134505204.cms",
-      "publishedAt": "2026-09-26T13:16:02Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "11 great miles and points buying opportunities available as of September 26, 2026",
-      "source": "Livefromalounge.com",
-      "url": "https://livefromalounge.com/miles-points-buying-opportunities-september-26-2026/",
-      "publishedAt": "2026-09-26T12:28:26Z",
-      "sentiment": "positive",
-      "score": 0.772
-    },
-    {
-      "title": "Defying higher bond yields: Consumers keep spending and the economy keeps booming",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/article/defying-higher-bond-yields-consumers-keep-spending-and-the-economy-keeps-booming-114059027.html",
-      "publishedAt": "2026-09-26T11:40:59Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "How Japan went from a rice shortage to a rice surplus in two years, as climate change, tourism, and a U.S. trade fight collided",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/26/japan-rice-shortage-surplus-drought-heat-tourism-us-exports-imports/",
-      "publishedAt": "2026-09-26T10:00:00Z",
+      "title": "Amber International Holding Limited Schedules 2026 Annual General Meeting for October 23, 2026",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/amber-international-holding-limited-schedules-2026-annual-general-meeting-for-october-23-2026-302891422.html",
+      "publishedAt": "2026-09-28T11:31:00Z",
       "sentiment": "negative",
-      "score": -0.557
+      "score": -0.226
     },
     {
-      "title": "Indonesia secures 4.8 million tons of rice stock through year-end",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/432979/indonesia-secures-48-million-tons-of-rice-stock-through-year-end",
-      "publishedAt": "2026-09-26T09:51:17Z",
-      "sentiment": "positive",
-      "score": 0.318
-    },
-    {
-      "title": "GIFT Nifty goes into overdrive, hits all-time high in volume and open interest",
+      "title": "U.S Stock Market prediction for Monday: Dow, S&P, Nasdaq, Russell 2000 set for low opening, Meta, Tesla, other stocks, factors to watch out today",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-goes-into-overdrive-hits-all-time-high-in-volume-and-open-interest/articleshow/134499784.cms",
-      "publishedAt": "2026-09-26T07:31:26Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-prediction-for-monday-dow-sp-nasdaq-russell-2000-set-for-low-opening-meta-tesla-other-stocks-factors-to-watch-out-today/articleshow/134540874.cms",
+      "publishedAt": "2026-09-28T11:25:34Z",
+      "sentiment": "negative",
+      "score": -0.273
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex tanks 1,124 points, Nifty ends below 22,800",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-28-septmeber-2026/article71515691.ece",
+      "publishedAt": "2026-09-28T11:03:35Z",
       "sentiment": "positive",
-      "score": 0.853
+      "score": 0.402
+    },
+    {
+      "title": "Oil woes push rupee to over one-week low, RBI caps fall near 96/USD",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-woes-push-rupee-to-over-one-week-low-rbi-caps-fall-near-96/usd/articleshow/134539275.cms",
+      "publishedAt": "2026-09-28T10:27:19Z",
+      "sentiment": "negative",
+      "score": -0.612
+    },
+    {
+      "title": "Great Eastern Shipping rises 3% as Nomura retains Buy; projects up to 28%. Here's why",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/great-eastern-shipping-rises-3-as-nomura-retains-buy-projects-up-to-28-heres-why/articleshow/134537272.cms",
+      "publishedAt": "2026-09-28T09:11:01Z",
+      "sentiment": "positive",
+      "score": 0.625
+    },
+    {
+      "title": "International Petroleum Corporation Announces Results of Normal Course Issuer Bid",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/international-petroleum-corporation-announces-results-of-normal-course-issuer-bid-101",
+      "publishedAt": "2026-09-28T09:04:54Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "As Stock Market Warning Signs Pile Up, Here's What History Says Comes Next",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/32a969d04408cbb2",
+      "publishedAt": "2026-09-28T08:59:08Z",
+      "sentiment": "negative",
+      "score": -0.34
+    },
+    {
+      "title": "Oil prices spike after Trump rejects Iran truce offer",
+      "source": "The Punch",
+      "url": "https://punchng.com/oil-prices-spike-after-trump-rejects-iran-truce-offer/",
+      "publishedAt": "2026-09-28T08:37:41Z",
+      "sentiment": "negative",
+      "score": -0.494
+    },
+    {
+      "title": "South Korean KOSPI Falls 2.7 Percent to 6,889.74 After Holiday as Foreigners Dump Chip Heavyweights",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/south-korea-kospi-falls-chip-stocks-chuseok-1875949",
+      "publishedAt": "2026-09-28T07:36:50Z",
+      "sentiment": "neutral",
+      "score": 0.026
+    },
+    {
+      "title": "RIL, Jio Fin, Maruti, Tata Consumer, TaMo PV, HUL, Wipro hit 52-week lows",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/ril-jio-fin-maruti-tata-consumer-tamo-pv-hul-wipro-hit-52-week-lows-126092800389_1.html",
+      "publishedAt": "2026-09-28T07:31:36Z",
+      "sentiment": "negative",
+      "score": -0.202
+    },
+    {
+      "title": "Rupee pinned just shy of 96/USD as RBI intervention counters oil woes",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-pinned-just-shy-of-96/usd-as-rbi-intervention-counters-oil-woes/articleshow/134535315.cms",
+      "publishedAt": "2026-09-28T07:15:16Z",
+      "sentiment": "negative",
+      "score": -0.599
     }
   ],
-  "fetched_at": "2026-09-28T12:03:31.799327"
+  "fetched_at": "2026-09-29T12:04:24.644092"
 }

@@ -1,16 +1,80 @@
 {
-  "overall_tone": "neutral",
+  "overall_tone": "negative",
   "counts": {
-    "positive": 3,
-    "negative": 5,
-    "neutral": 7
+    "positive": 2,
+    "negative": 6,
+    "neutral": 6
   },
   "summary_lines": [
-    "3 of 15 headlines lean positive today.",
-    "5 of 15 headlines lean negative today.",
-    "7 of 15 headlines are neutral/mixed today."
+    "2 of 14 headlines lean positive today.",
+    "6 of 14 headlines lean negative today.",
+    "6 of 14 headlines are neutral/mixed today."
   ],
   "headlines": [
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134673452.cms",
+      "publishedAt": "2026-10-04T10:47:40Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Stock market outlook: RBI rate decision, earnings, oil & more, here's what will drive D-street this week",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-rbi-rate-decision-earnings-oil-more-heres-what-will-drive-d-street-this-week/articleshow/134672977.cms",
+      "publishedAt": "2026-10-04T10:15:15Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Manu Joseph: The mystery of who exactly is controlling the Tata boardroom",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/manu-joseph-tata-boardroom-mystery-of-who-exactly-is-controlling-the-tata-group-chandrasekaran-noel-tata-11790850098202.html",
+      "publishedAt": "2026-10-04T08:55:14Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Iraq Says It Transported 2 Million Barrels of Crude Through Strait of Hormuz",
+      "source": "Aawsat.com",
+      "url": "https://english.aawsat.com/business/5325598-iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz",
+      "publishedAt": "2026-10-04T07:30:23Z",
+      "sentiment": "negative",
+      "score": -0.572
+    },
+    {
+      "title": "Nifty 50 correction: why fund managers see more value in large caps now",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/stock-markets-india-fund-managers-large-caps-mutual-funds-fpi-11791050741233.html",
+      "publishedAt": "2026-10-04T07:02:21Z",
+      "sentiment": "positive",
+      "score": 0.659
+    },
+    {
+      "title": "Fed, ECB minutes to show inflation fears as near-term rate hike bets fade",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/fed-ecb-minutes-to-show-inflation-fears-as-near-term-rate-hike-bets-fade-126100400046_1.html",
+      "publishedAt": "2026-10-04T02:26:40Z",
+      "sentiment": "negative",
+      "score": -0.421
+    },
+    {
+      "title": "Billy Wagner is Tazewell\u2019s \u201cMain Street Man\u201d on October 17",
+      "source": "Bdtonline.com",
+      "url": "https://www.bdtonline.com/opinion/columns/billy-wagner-is-tazewell-s-main-street-man-on-october-17/article_caf9684a-2caa-4847-a938-f33cbcc7a217.html",
+      "publishedAt": "2026-10-03T21:46:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "1975 Yamaha RD350 at No Reserve",
+      "source": "Bringatrailer.com",
+      "url": "https://bringatrailer.com/listing/1975-yamaha-rd350-17/",
+      "publishedAt": "2026-10-03T19:45:06Z",
+      "sentiment": "negative",
+      "score": -0.296
+    },
     {
       "title": "America In Focus: Unemployment rate climbs, mortgage rate hits nearly 3 year high",
       "source": "The Times of India",
@@ -58,79 +122,7 @@
       "publishedAt": "2026-10-03T08:38:16Z",
       "sentiment": "neutral",
       "score": 0.0
-    },
-    {
-      "title": "SEBI to soon issue framework on Closing Auction Session; receives over 3,500 comments",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sebi-to-soon-issue-framework-on-closing-auction-session-receives-over-3500-comments/article71540080.ece",
-      "publishedAt": "2026-10-03T08:32:25Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Sebi to soon issue framework on CAS mechanism after receiving 3.5K comments",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/sebi-to-soon-issue-framework-on-cas-mechanism-after-receiving-3-5k-comments-126100300348_1.html",
-      "publishedAt": "2026-10-03T08:31:04Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "FPI investments driven by net returns; working to simplify access: SEBI chief Tuhin Kanta Pandey",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/news/business/markets/fpi-investments-driven-by-net-returns-working-to-simplify-access-sebi-chief-tuhin-kanta-pandey-14043790.html",
-      "publishedAt": "2026-10-03T08:19:25Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Leads Charge On Rate Hopes; Nvidia Hits Highs",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2dd7ff00bfc46891",
-      "publishedAt": "2026-10-03T08:12:27Z",
-      "sentiment": "positive",
-      "score": 0.421
-    },
-    {
-      "title": "Barings bets on Ires\u2019s 20% rental upside and softer ECB rate hikes",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/markets/2026/10/03/barings-bets-on-iress-20-rental-upside-and-softer-ecb-rate-hikes/",
-      "publishedAt": "2026-10-03T05:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Wall Street Week Ahead: Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks-typical-fourth-quarter-strength/articleshow/134651438.cms",
-      "publishedAt": "2026-10-03T03:52:00Z",
-      "sentiment": "positive",
-      "score": 0.494
-    },
-    {
-      "title": "AI earnings shield US stocks, but bond risks rise: Jefferies' Wood",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-earnings-shield-us-stocks-but-bond-risks-rise-jefferies-wood/articleshow/134650285.cms",
-      "publishedAt": "2026-10-03T02:26:05Z",
-      "sentiment": "negative",
-      "score": -0.392
-    },
-    {
-      "title": "What a hiring slowdown signals about the state of the U.S. economy",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy",
-      "publishedAt": "2026-10-02T22:55:34Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Cramer's warning to investors: Making money in this stock market is a lot harder than before",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/cramers-warning-to-investors-making-money-in-this-stock-market-is-a-lot-harder-than-before.html",
-      "publishedAt": "2026-10-02T22:12:51Z",
-      "sentiment": "negative",
-      "score": -0.34
     }
   ],
-  "fetched_at": "2026-10-04T18:08:38.037054"
+  "fetched_at": "2026-10-05T12:05:09.039344"
 }

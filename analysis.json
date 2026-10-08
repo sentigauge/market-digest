@@ -1,136 +1,136 @@
 {
   "overall_tone": "positive",
   "counts": {
-    "positive": 6,
-    "negative": 4,
-    "neutral": 5
+    "positive": 7,
+    "negative": 6,
+    "neutral": 2
   },
   "summary_lines": [
-    "6 of 15 headlines lean positive today.",
-    "4 of 15 headlines lean negative today.",
-    "5 of 15 headlines are neutral/mixed today."
+    "7 of 15 headlines lean positive today.",
+    "6 of 15 headlines lean negative today.",
+    "2 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Fantasy football waiver wire Week 5: Add/drop Will Shipley or Tyreek Hill?",
-      "source": "USA Today",
-      "url": "https://ftw.usatoday.com/story/sports/nfl/2026/10/06/fantasy-football-waiver-wire-week-5-add-drop-will-shipley-tyreek-hill/92106627007/",
-      "publishedAt": "2026-10-06T12:03:56Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Indian bonds rangebound as traders await a hawkish RBI verdict",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rangebound-as-traders-await-a-hawkish-rbi-verdict/articleshow/134739826.cms",
-      "publishedAt": "2026-10-06T12:00:25Z",
-      "sentiment": "positive",
-      "score": 0.25
-    },
-    {
-      "title": "Posthaste: This is no ordinary oil shock \u2014 it\u2019s much worse",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/news/diesel-shock-drive-inflation-through-supply-chain",
-      "publishedAt": "2026-10-06T11:59:28Z",
+      "title": "World shares, euro slide as energy shock, fiscal worries bite",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/world-shares-euro-slide-energy-shock-fiscal-worries-bite-6438121",
+      "publishedAt": "2026-10-07T12:00:28Z",
       "sentiment": "negative",
-      "score": -0.784
+      "score": -0.273
     },
     {
-      "title": "G7 Releases 100 Million Barrels as Diesel Tops $6 a Gallon",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/g7-releases-100-million-barrels-as-diesel-tops-6-a-gallon-302899544.html",
-      "publishedAt": "2026-10-06T11:12:00Z",
-      "sentiment": "positive",
-      "score": 0.511
+      "title": "European shares, euro slide as energy shock, fiscal worries bite",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/european-shares-euro-slide-energy-shock-fiscal-worries-bite-6438121",
+      "publishedAt": "2026-10-07T12:00:28Z",
+      "sentiment": "negative",
+      "score": -0.273
     },
     {
-      "title": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/unsure-how-long-this-ai-bull-has-bonds-now-offer-a-cushion-at-the-best-values-in-years.html",
-      "publishedAt": "2026-10-06T11:08:28Z",
-      "sentiment": "positive",
-      "score": 0.71
-    },
-    {
-      "title": "Hyperscale Data reports about 220 Bitcoin and $37.4 million in cash",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hyperscale-data-bitcoin-cash-holdings-october/",
-      "publishedAt": "2026-10-06T11:03:55Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Monad Price Drops 12%: Is MON\u2019s Breakout Already Falling Apart?",
-      "source": "Bitcoinfoundation.org",
-      "url": "https://bitcoinfoundation.org/news/analysis/monad-price-drops-12-is-mons-breakout-already-falling-apart/",
-      "publishedAt": "2026-10-06T10:02:47Z",
+      "title": "World shares, euro slide as high oil prices, fiscal worries linger",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/world-shares-euro-slide-high-oil-prices-fiscal-worries-linger-6438121",
+      "publishedAt": "2026-10-07T12:00:28Z",
       "sentiment": "negative",
       "score": -0.153
     },
     {
-      "title": "Brent Once Again Toiling Around $100 Mark",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/brent_once_again_toiling_around_100_mark-06-oct-2026-184779-article/",
-      "publishedAt": "2026-10-06T09:09:27Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Democrats' advantage is clear with less than a month to go in the midterm elections",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
-      "publishedAt": "2026-10-06T09:00:00Z",
-      "sentiment": "positive",
-      "score": 0.557
-    },
-    {
-      "title": "Wall Street on track for record-smashing $90B year: New York State comptroller",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/06/business/wall-street-on-track-for-record-smashing-90b-year-new-york-state-comptroller/",
-      "publishedAt": "2026-10-06T09:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Indonesia says will halt forest destruction for rice paddies",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-halts-deforestation-land-clearing-rice-farming-6435861",
-      "publishedAt": "2026-10-06T08:52:00Z",
-      "sentiment": "negative",
-      "score": -0.572
-    },
-    {
-      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "publishedAt": "2026-10-06T08:47:30Z",
-      "sentiment": "negative",
-      "score": -0.421
-    },
-    {
-      "title": "Nikkei Tops 70,000 at Close, Hits Three-Month High as Wall Street Rally and Cheaper Oil Lift Tokyo Stocks",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/japan-nikkei-closes-above-70000-1876319",
-      "publishedAt": "2026-10-06T08:02:29Z",
-      "sentiment": "positive",
-      "score": 0.511
-    },
-    {
-      "title": "ASX 200 Rises for Third Day as Property Stocks Rebound Despite Consumer Sentiment Plunge After RBA Hike",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/australian-shares-rise-consumer-confidence-collapse-1876308",
-      "publishedAt": "2026-10-06T06:23:14Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "How Jefferies is reshuffling its portfolio as soaring bond yields give Nifty bulls sleepless nights",
+      "title": "Credit growth may ease after rate hike but remain strong: RBI",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-jefferies-is-reshuffling-its-portfolio-as-soaring-bond-yields-give-nifty-bulls-sleepless-nights/articleshow/134724801.cms",
-      "publishedAt": "2026-10-06T06:01:49Z",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/credit-growth-may-ease-after-rate-hike-but-remain-strong-rbi/articleshow/134777235.cms",
+      "publishedAt": "2026-10-07T11:34:19Z",
       "sentiment": "positive",
-      "score": 0.402
+      "score": 0.832
+    },
+    {
+      "title": "Nikkei Falls as Profit-Taking Hits AI and Chip Shares",
+      "source": "Newsonjapan.com",
+      "url": "https://newsonjapan.com/article/150979.php",
+      "publishedAt": "2026-10-07T10:54:04Z",
+      "sentiment": "positive",
+      "score": 0.296
+    },
+    {
+      "title": "Third Coast Bancshares, Inc. and Great Plains Bancshares, Inc. Announce Definitive Merger Agreement",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/third-coast-bancshares-inc-and-great-plains-bancshares-inc-announce-definitive-merger-agreement-302900499.html",
+      "publishedAt": "2026-10-07T10:30:00Z",
+      "sentiment": "positive",
+      "score": 0.807
+    },
+    {
+      "title": "Why Did Crypto Just Drop? $12.5M Bitcoin Shorts, Iran Tensions and $500M in Liquidations Explain the Crash",
+      "source": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/analysis/why-did-crypto-just-drop-12-5m-bitcoin-shorts-iran-tensions-and-500m-in-liquidations-explain-the-crash/",
+      "publishedAt": "2026-10-07T10:02:33Z",
+      "sentiment": "negative",
+      "score": -0.758
+    },
+    {
+      "title": "Why Warren Buffett considers interest rates key to stock valuations",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-warren-buffett-considers-interest-rates-key-to-stock-valuations/articleshow/134761762.cms",
+      "publishedAt": "2026-10-07T09:19:44Z",
+      "sentiment": "positive",
+      "score": 0.459
+    },
+    {
+      "title": "Why Warren Buffett considers interest rates key to stock valuations",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-warren-buffett-considers-interest-rates-key-to-stock-valuations/articleshow/134761762.cms",
+      "publishedAt": "2026-10-07T09:19:44Z",
+      "sentiment": "positive",
+      "score": 0.459
+    },
+    {
+      "title": "Getting winter ready: Northwich defences put to the test",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/news/getting-winter-ready-northwich-defences-put-to-the-test",
+      "publishedAt": "2026-10-07T08:55:21Z",
+      "sentiment": "positive",
+      "score": 0.318
+    },
+    {
+      "title": "Bessent says inflation and bond yields will drop after the Iran war. Others aren't so sure.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/article/bessent-says-inflation-and-bond-yields-will-drop-when-the-iran-war-ends-others-arent-so-sure-202312285.html",
+      "publishedAt": "2026-10-07T08:34:07Z",
+      "sentiment": "negative",
+      "score": -0.816
+    },
+    {
+      "title": "India's FX reserves fall for fourth week, down $50 billion from September peak",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-fx-reserves-fall-for-fourth-week-down-50-billion-from-september-peak/articleshow/134760065.cms",
+      "publishedAt": "2026-10-07T07:56:57Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Nvidia vs Tesla vs SK Hynix: Which AI Stock Wins 2026 as Nvidia Nears $6 Trillion and Tesla Earnings Loom",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/nvidia-tesla-sk-hynix-ai-boom-stocks-1876379",
+      "publishedAt": "2026-10-07T07:44:09Z",
+      "sentiment": "positive",
+      "score": 0.421
+    },
+    {
+      "title": "RBI hike reinforces stock selection, not broad equity caution: Ajit Mishra",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/rbi-hike-reinforces-stock-selection-not-broad-equity-caution-ajit-mishra-126100700497_1.html",
+      "publishedAt": "2026-10-07T07:19:43Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Australia Fuel Crisis Update: Diesel Nears $3 a Litre as Bowen Says G7 Release Won't Help Much at Bowser",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/australian-fuel-prices-middle-east-energy-shock-1876374",
+      "publishedAt": "2026-10-07T07:15:55Z",
+      "sentiment": "negative",
+      "score": -0.748
     }
   ],
-  "fetched_at": "2026-10-07T12:06:10.420668"
+  "fetched_at": "2026-10-08T12:05:49.661286"
 }

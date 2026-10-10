@@ -1,136 +1,136 @@
 {
   "overall_tone": "neutral",
   "counts": {
-    "positive": 4,
-    "negative": 4,
+    "positive": 5,
+    "negative": 3,
     "neutral": 7
   },
   "summary_lines": [
-    "4 of 15 headlines lean positive today.",
-    "4 of 15 headlines lean negative today.",
+    "5 of 15 headlines lean positive today.",
+    "3 of 15 headlines lean negative today.",
     "7 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "RBC\u2019s decade of growth puts it in Goldman\u2019s market-value league",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/fp-finance/banking/rbc-growth-goldman-market-value-league",
-      "publishedAt": "2026-10-08T17:20:46Z",
-      "sentiment": "positive",
-      "score": 0.382
-    },
-    {
-      "title": "$2.6 Trillion and Climbing: Where the AI Spending Is Going",
+      "title": "Defense Stockpile Orders Send Explorers Back to Old Tungsten Camps",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/2-6-trillion-and-climbing-where-the-ai-spending-is-going-302902217.html",
-      "publishedAt": "2026-10-08T15:47:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Markets fall to new 52-week low as West Asia tensions push crude up",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/markets-fall-to-new-52-week-low-as-west-asia-tensions-push-crude-up-126100801376_1.html",
-      "publishedAt": "2026-10-08T15:34:25Z",
-      "sentiment": "negative",
-      "score": -0.818
-    },
-    {
-      "title": "Why Hypersonic Programs Are Running Out of Test Time",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/why-hypersonic-programs-are-running-out-of-test-time-302902600.html",
-      "publishedAt": "2026-10-08T14:33:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Can We Finally Face Up to America\u2019s Bankruptcy? Monetary Reform for the 2028 Election. Part I",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/america-bankruptcy-monetary-reform-2028-election-part-i/5943086",
-      "publishedAt": "2026-10-08T14:28:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Hypersonic Testing Bottleneck Pushes Defense Primes Toward Flight Data",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/hypersonic-testing-bottleneck-pushes-defense-primes-toward-flight-data",
-      "publishedAt": "2026-10-08T13:48:01Z",
+      "url": "https://www.prnewswire.com/news-releases/defense-stockpile-orders-send-explorers-back-to-old-tungsten-camps-302903400.html",
+      "publishedAt": "2026-10-09T15:51:00Z",
       "sentiment": "positive",
       "score": 0.128
     },
     {
-      "title": "Wall Street opens lower as rate hike prospects grow",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/928e1a465c00a481",
-      "publishedAt": "2026-10-08T13:45:29Z",
+      "title": "USA Crude Oil Stocks Drop Over 3MM Barrels Week on Week",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_over_3mm_barrels_week_on_week-09-oct-2026-184816-article/?rss=true",
+      "publishedAt": "2026-10-09T14:04:28Z",
+      "sentiment": "negative",
+      "score": -0.7
+    },
+    {
+      "title": "FEDS Note: Heterogeneity in the Marginal Propensity to Consume among U.S. Households",
+      "source": "Federalreserve.gov",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/heterogeneity-in-the-marginal-propensity-to-consume-among-u-s-households-20261009.html",
+      "publishedAt": "2026-10-09T14:00:00Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Evening news wrap: Nana Patekar passes away, stock market crash, Rahul Gandhi's Day 3 protest and more",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-nana-patekar-passes-away-stock-market-crash-rahul-gandhis-day-3-protest-and-more/articleshow/134785932.cms",
-      "publishedAt": "2026-10-08T12:58:38Z",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "source": "Federalreserve.gov",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "publishedAt": "2026-10-09T14:00:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "\u20b93 cr per month salary? Meet India's 'highest-paid' bank CEO - ICICI veteran and HDFC's Anup Bagchi",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/people/rs-3-cr-per-month-salary-meet-indias-highest-paid-bank-ceo-icici-veteran-and-hdfcs-anup-bagchi-11791545564481.html",
+      "publishedAt": "2026-10-09T12:34:12Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Wall St Sees Ominous Sign in Bond Market's Latest Selloff...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/articles/wall-street-sees-ominous-sign-090000374.html",
+      "publishedAt": "2026-10-09T12:00:06Z",
       "sentiment": "negative",
-      "score": -0.572
+      "score": -0.34
     },
     {
-      "title": "No rate cuts, but big GST relief: 8 reforms on refunds, ITC, registration and enforcement | Explained",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/gst-council-2026-8-key-reforms-on-registration-refunds-itc-and-enforcement/articleshow/134789303.cms",
-      "publishedAt": "2026-10-08T12:58:38Z",
+      "title": "Four Energy Deals in Four Days as Brent Holds Above $100",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/four-energy-deals-in-four-days-as-brent-holds-above-100-302903442.html",
+      "publishedAt": "2026-10-09T12:00:00Z",
       "sentiment": "positive",
-      "score": 0.612
+      "score": 0.273
     },
     {
-      "title": "Dollar Reset 2.0: Stablecoins, Treasury Bills and the Case for Public Banks",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/dollar-reset-stablecoins-treasury-bills-public-banks/5943070",
-      "publishedAt": "2026-10-08T12:50:10Z",
+      "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+      "publishedAt": "2026-10-09T11:41:15Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "India's forex reserves fall $12.95 billion to $734.60 billion in week ended October 2",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-fall-12-95-billion-to-734-60-billion-in-week-ended-october-2/articleshow/134832407.cms",
+      "publishedAt": "2026-10-09T11:40:46Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "The SEC Just Created a Five-Year Sandbox for Trading Tokenized Stocks on Public Blockchains",
+      "source": "Forkast.news",
+      "url": "https://forkast.news/the-sec-just-created-a-five-year-sandbox-for-trading-tokenized-stocks-on-public-blockchains/",
+      "publishedAt": "2026-10-09T11:27:12Z",
+      "sentiment": "positive",
+      "score": 0.25
+    },
+    {
+      "title": "Delta Air Lines Announces September Quarter 2026 Financial Results",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/delta-air-lines-announces-september-quarter-2026-financial-results-302903456.html",
+      "publishedAt": "2026-10-09T10:30:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "NFL Week 5 odds, predictions, expert picks: Who has edge in Eagles vs. Jaguars in London? Will Texans win?",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-odds-predictions-expert-picks/",
+      "publishedAt": "2026-10-09T10:01:13Z",
+      "sentiment": "positive",
+      "score": 0.632
+    },
+    {
+      "title": "The SEC Just Opened the Floodgates to Fraud",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/216442/sec-just-opened-floodgates-fraud",
+      "publishedAt": "2026-10-09T10:00:00Z",
+      "sentiment": "negative",
+      "score": -0.586
+    },
+    {
+      "title": "Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-investors-pull-23-5-billion-from-asian-equities-in-september-as-us-yields-surge/articleshow/134829780.cms",
+      "publishedAt": "2026-10-09T09:56:02Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "The Top 5 Bond Watches Of All Time",
+      "source": "Fratellowatches.com",
+      "url": "https://www.fratellowatches.com/the-top-5-bond-watches-of-all-time/",
+      "publishedAt": "2026-10-09T09:00:41Z",
       "sentiment": "positive",
       "score": 0.202
-    },
-    {
-      "title": "The Unconventional Route to Fusion Power Just Hit a World First",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/the-unconventional-route-to-fusion-power-just-hit-a-world-first-302901973.html",
-      "publishedAt": "2026-10-08T12:47:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "HDFC Bank's Anup Bagchi set to become India's highest-paid bank CEO",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/industry/banking/hdfc-bank-s-anup-bagchi-set-to-become-india-s-highest-paid-bank-ceo-126100801076_1.html",
-      "publishedAt": "2026-10-08T12:21:54Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "NOVAGOLD Files Third Quarter 2026 Report Unlocking Donlin Gold\u2019s Full Potential and Advancing the Path To Development",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/novagold-files-third-quarter-2026-report-unlocking-donlin-golds-full-potential-and-advancing-the-path-to-development",
-      "publishedAt": "2026-10-08T12:13:42Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "India's 10-year yield hits Dec 2023 peak as US debt rout, oil spike hurt",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-hits-dec-2023-peak-as-us-debt-rout-oil-spike-hurt/articleshow/134789626.cms",
-      "publishedAt": "2026-10-08T11:53:53Z",
-      "sentiment": "negative",
-      "score": -0.71
-    },
-    {
-      "title": "The deposit debate\u2019s blind spot",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/the-deposit-debates-blind-spot/article71559533.ece",
-      "publishedAt": "2026-10-08T11:35:18Z",
-      "sentiment": "negative",
-      "score": -0.402
     }
   ],
-  "fetched_at": "2026-10-09T17:40:19.361128"
+  "fetched_at": "2026-10-10T16:31:41.034887"
 }

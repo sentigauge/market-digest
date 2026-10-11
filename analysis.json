@@ -1,136 +1,136 @@
 {
   "overall_tone": "neutral",
   "counts": {
-    "positive": 5,
-    "negative": 3,
+    "positive": 6,
+    "negative": 2,
     "neutral": 7
   },
   "summary_lines": [
-    "5 of 15 headlines lean positive today.",
-    "3 of 15 headlines lean negative today.",
+    "6 of 15 headlines lean positive today.",
+    "2 of 15 headlines lean negative today.",
     "7 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Defense Stockpile Orders Send Explorers Back to Old Tungsten Camps",
+      "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/defense-stockpile-orders-send-explorers-back-to-old-tungsten-camps-302903400.html",
-      "publishedAt": "2026-10-09T15:51:00Z",
+      "url": "https://www.prnewswire.com/news-releases/ai-revenue-questions-pull-semiconductor-stocks-off-october-highs-302905067.html",
+      "publishedAt": "2026-10-10T16:38:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "netweir added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/netweir/",
+      "publishedAt": "2026-10-10T13:40:33Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Americans\u2019 Incomes, Net Worth Climbed in Post-Pandemic Years: Federal Reserve",
+      "source": "Theepochtimes.com",
+      "url": "https://www.theepochtimes.com/business/americans-incomes-net-worth-climbed-in-post-pandemic-years-federal-reserve-6101984",
+      "publishedAt": "2026-10-10T12:13:07Z",
       "sentiment": "positive",
-      "score": 0.128
+      "score": 0.226
     },
     {
-      "title": "USA Crude Oil Stocks Drop Over 3MM Barrels Week on Week",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_over_3mm_barrels_week_on_week-09-oct-2026-184816-article/?rss=true",
-      "publishedAt": "2026-10-09T14:04:28Z",
-      "sentiment": "negative",
-      "score": -0.7
+      "title": "RBI steps in to support rupee as currency nears record low; tightens forex rules",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-steps-in-to-support-rupee-as-currency-nears-record-low-tightens-forex-rules/articleshow/134851766.cms",
+      "publishedAt": "2026-10-10T10:05:13Z",
+      "sentiment": "positive",
+      "score": 0.153
     },
     {
-      "title": "FEDS Note: Heterogeneity in the Marginal Propensity to Consume among U.S. Households",
-      "source": "Federalreserve.gov",
-      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/heterogeneity-in-the-marginal-propensity-to-consume-among-u-s-households-20261009.html",
-      "publishedAt": "2026-10-09T14:00:00Z",
+      "title": "William Watson: What Statistics Canada data said one day in October",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/opinion/william-watson-what-statistics-canada-data-said-one-day-in-october",
+      "publishedAt": "2026-10-10T10:00:33Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "source": "Federalreserve.gov",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "publishedAt": "2026-10-09T14:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "title": "2 Inflation reports, retail sales and big bank profits all arrive in the coming week",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/2-inflation-reports-retail-sales-big-bank-profits-137154357",
+      "publishedAt": "2026-10-10T08:48:58Z",
+      "sentiment": "positive",
+      "score": 0.44
     },
     {
-      "title": "\u20b93 cr per month salary? Meet India's 'highest-paid' bank CEO - ICICI veteran and HDFC's Anup Bagchi",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/people/rs-3-cr-per-month-salary-meet-indias-highest-paid-bank-ceo-icici-veteran-and-hdfcs-anup-bagchi-11791545564481.html",
-      "publishedAt": "2026-10-09T12:34:12Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Wall St Sees Ominous Sign in Bond Market's Latest Selloff...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/policy/articles/wall-street-sees-ominous-sign-090000374.html",
-      "publishedAt": "2026-10-09T12:00:06Z",
-      "sentiment": "negative",
-      "score": -0.34
-    },
-    {
-      "title": "Four Energy Deals in Four Days as Brent Holds Above $100",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/four-energy-deals-in-four-days-as-brent-holds-above-100-302903442.html",
-      "publishedAt": "2026-10-09T12:00:00Z",
+      "title": "How U.S. know-how is fracking Australia into a gas boom, from Texas oilmen to Trump\u2019s energy secretary",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/10/us-fracking-australia-gas-boom-texas-trump-energy/",
+      "publishedAt": "2026-10-10T07:13:00Z",
       "sentiment": "positive",
       "score": 0.273
     },
     {
-      "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-      "publishedAt": "2026-10-09T11:41:15Z",
+      "title": "Untouched For 27 Years! A \u201cNew Old Stock\u201d Chevrolet ZZ430 Crate Engine",
+      "source": "Silodrome.com",
+      "url": "https://silodrome.com/gm-chevrolet-zz430-crate-engine/",
+      "publishedAt": "2026-10-10T06:30:03Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "India's forex reserves fall $12.95 billion to $734.60 billion in week ended October 2",
+      "title": "Michael Hudson on the Oil Markets",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/michael-hudson-on-the-oil-markets.html",
+      "publishedAt": "2026-10-10T06:17:41Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "RBI tightens forex derivatives framework to ensure orderly functioning of market",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rbi-tightens-forex-derivatives-framework-to-ensure-orderly-functioning-of-market/article71567174.ece",
+      "publishedAt": "2026-10-10T06:17:00Z",
+      "sentiment": "positive",
+      "score": 0.382
+    },
+    {
+      "title": "RBI opens special dollar window for oil firms as rupee comes under pressure",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/finance/news/rbi-dollar-window-oil-companies-rupee-forex-derivatives-rules-126101000232_1.html",
+      "publishedAt": "2026-10-10T05:24:53Z",
+      "sentiment": "positive",
+      "score": 0.128
+    },
+    {
+      "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-fall-12-95-billion-to-734-60-billion-in-week-ended-october-2/articleshow/134832407.cms",
-      "publishedAt": "2026-10-09T11:40:46Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "The SEC Just Created a Five-Year Sandbox for Trading Tokenized Stocks on Public Blockchains",
-      "source": "Forkast.news",
-      "url": "https://forkast.news/the-sec-just-created-a-five-year-sandbox-for-trading-tokenized-stocks-on-public-blockchains/",
-      "publishedAt": "2026-10-09T11:27:12Z",
-      "sentiment": "positive",
-      "score": 0.25
-    },
-    {
-      "title": "Delta Air Lines Announces September Quarter 2026 Financial Results",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/delta-air-lines-announces-september-quarter-2026-financial-results-302903456.html",
-      "publishedAt": "2026-10-09T10:30:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "NFL Week 5 odds, predictions, expert picks: Who has edge in Eagles vs. Jaguars in London? Will Texans win?",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-odds-predictions-expert-picks/",
-      "publishedAt": "2026-10-09T10:01:13Z",
-      "sentiment": "positive",
-      "score": 0.632
-    },
-    {
-      "title": "The SEC Just Opened the Floodgates to Fraud",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/article/216442/sec-just-opened-floodgates-fraud",
-      "publishedAt": "2026-10-09T10:00:00Z",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
+      "publishedAt": "2026-10-10T04:35:34Z",
       "sentiment": "negative",
-      "score": -0.586
+      "score": -0.25
     },
     {
-      "title": "Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-investors-pull-23-5-billion-from-asian-equities-in-september-as-us-yields-surge/articleshow/134829780.cms",
-      "publishedAt": "2026-10-09T09:56:02Z",
+      "title": "odoo-addon-stock-reserve 16.0.1.3.1.22",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/odoo-addon-stock-reserve/16.0.1.3.1.22/",
+      "publishedAt": "2026-10-10T04:29:48Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "The Top 5 Bond Watches Of All Time",
-      "source": "Fratellowatches.com",
-      "url": "https://www.fratellowatches.com/the-top-5-bond-watches-of-all-time/",
-      "publishedAt": "2026-10-09T09:00:41Z",
-      "sentiment": "positive",
-      "score": 0.202
+      "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
+      "publishedAt": "2026-10-10T04:29:09Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Rupee rises to intra-day high, then slips on dollar demand",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-to-intra-day-high-then-slips-on-dollar-demand/articleshow/134847163.cms",
+      "publishedAt": "2026-10-10T04:10:30Z",
+      "sentiment": "negative",
+      "score": -0.128
     }
   ],
-  "fetched_at": "2026-10-10T16:31:41.034887"
+  "fetched_at": "2026-10-11T16:56:43.572610"
 }

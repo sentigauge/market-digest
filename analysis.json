@@ -1,136 +1,136 @@
 {
-  "overall_tone": "neutral",
+  "overall_tone": "positive",
   "counts": {
-    "positive": 3,
-    "negative": 5,
-    "neutral": 7
+    "positive": 8,
+    "negative": 4,
+    "neutral": 3
   },
   "summary_lines": [
-    "3 of 15 headlines lean positive today.",
-    "5 of 15 headlines lean negative today.",
-    "7 of 15 headlines are neutral/mixed today."
+    "8 of 15 headlines lean positive today.",
+    "4 of 15 headlines lean negative today.",
+    "3 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
-      "publishedAt": "2026-10-11T19:00:00Z",
-      "sentiment": "negative",
-      "score": -0.273
-    },
-    {
-      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks",
-      "publishedAt": "2026-10-11T17:03:00Z",
-      "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "RBI's rupee defence may drain banking liquidity, ease currency pressure",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbis-rupee-defence-may-drain-banking-liquidity-ease-currency-pressure/articleshow/134873258.cms",
-      "publishedAt": "2026-10-11T16:01:37Z",
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "publishedAt": "2026-10-12T18:18:39Z",
       "sentiment": "positive",
-      "score": 0.178
+      "score": 0.34
     },
     {
-      "title": "Road map set for ramping up development",
-      "source": "\u4e2d\u56fd\u65e5\u62a5",
-      "url": "https://www.chinadaily.com.cn/a/202610/11/WS6acba448e4b06d4aa0562302.html",
-      "publishedAt": "2026-10-11T15:03:59Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Inflation data, IT earnings, crude oil to steer stock markets this week, say experts",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/inflation-data-it-earnings-crude-oil-to-steer-stock-markets-this-week-say-experts/articleshow/134871184.cms",
-      "publishedAt": "2026-10-11T13:23:59Z",
+      "title": "America's debt nightmare deepens as number of US families falling behind on bills hits highest level since Great Recession",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/yourmoney/article-16202643/americans-debt-crisis-great-recession-fed-survey.html",
+      "publishedAt": "2026-10-12T18:10:24Z",
       "sentiment": "negative",
-      "score": -0.572
+      "score": -0.128
     },
     {
-      "title": "Eagles News: Saquon Barkley and Landon Dickerson mentioned in NFL trade deadline buzz",
-      "source": "Bleeding Green Nation",
-      "url": "https://www.bleedinggreennation.com/news/186316/eagles-news-saquon-barkley-and-landon-dickerson-mentioned-in-nfl-trade-deadline-buzz",
-      "publishedAt": "2026-10-11T10:25:54Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "HSBC leads international banks in financing India Inc across debt, equity",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/finance/news/finance-news-hsbc-leads-international-banks-in-financing-india-inc-126101100378_1.html",
-      "publishedAt": "2026-10-11T10:24:39Z",
+      "title": "Is the Firmus fiasco a crack in the AI boom?",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-10-13/australia-ai-hopes-hit-as-firmus-data-centre-float-tanks/107256400",
+      "publishedAt": "2026-10-12T18:00:00Z",
       "sentiment": "negative",
-      "score": -0.361
+      "score": -0.511
     },
     {
-      "title": "\u201cRepeated And Persistent Supply-Side Shocks\u201d Are Here To Stay",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/repeated-and-persistent-supply-side-shocks-are-here-to-stay/",
-      "publishedAt": "2026-10-11T10:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Should you invest in contra funds?",
+      "title": "Will RBI\u2019s new measures to support rupee affect overseas investments? Experts explain",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/contra-funds-contrarian-investing-mutual-funds-equity-funds-11791702127100.html",
-      "publishedAt": "2026-10-11T09:40:26Z",
+      "url": "https://www.livemint.com/money/personal-finance/will-rbi-s-new-measures-to-support-rupee-affect-overseas-investments-experts-explain-11791818855227.html",
+      "publishedAt": "2026-10-12T17:28:20Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "One of 200 BMW M3 Lime Rock Park Editions Is Up for Auction",
+      "source": "BMWBLOG",
+      "url": "https://www.bmwblog.com/2026/10/12/bmw-m3-lime-rock-park-edition-auction/",
+      "publishedAt": "2026-10-12T17:26:04Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Industry Professionals Celebrate Dressage And Western Dressage For Stock Horse Breeds",
-      "source": "Equinechronicle.com",
-      "url": "http://www.equinechronicle.com/industry-professionals-celebrate-dressage-and-western-dressage-for-stock-horse-breeds/",
-      "publishedAt": "2026-10-11T08:00:42Z",
+      "title": "Why older Americans' wealth may be helping keep consumer spending strong",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
+      "publishedAt": "2026-10-12T17:23:35Z",
+      "sentiment": "positive",
+      "score": 0.827
+    },
+    {
+      "title": "Want affordability? California home prices must fall",
+      "source": "Medianewsgroup.com",
+      "url": "https://wpdash.medianewsgroup.com/2026/10/12/want-affordability-california-home-prices-must-fall/",
+      "publishedAt": "2026-10-12T17:22:23Z",
+      "sentiment": "positive",
+      "score": 0.077
+    },
+    {
+      "title": "Desperate moves to shore up rupee",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/opinion/desperate-moves-to-shore-up-rupee/article71574982.ece",
+      "publishedAt": "2026-10-12T16:41:58Z",
+      "sentiment": "negative",
+      "score": -0.318
+    },
+    {
+      "title": "Denver Broncos Stock Up, Stock Down: Week 5 victory over the Los Angeles Chargers",
+      "source": "Mile High Report",
+      "url": "https://www.milehighreport.com/denver-broncos-news/188624/broncos-stock-up-stock-down-week-5-chargers",
+      "publishedAt": "2026-10-12T16:32:46Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "HDB FINAL DEADLINE ALERT: HDFC Bank Limited Investors with Substantial Losses Have Opportunity to Lead Shareholder Class Action Lawsuit",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hdb-final-deadline-alert-hdfc-bank-limited-investors-with-substantial-losses-have-opportunity-to-lead-shareholder-class-action-lawsuit-302905805.html",
+      "publishedAt": "2026-10-12T15:44:00Z",
+      "sentiment": "positive",
+      "score": 0.258
+    },
+    {
+      "title": "Fantasy Football Waiver Wire Week 6: Woody Marks and Germie Bernard step up",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-waiver-wire-week-6-woody-marks-and-germie-bernard-step-up",
+      "publishedAt": "2026-10-12T15:24:53Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Citi Readies Audit to Seek End of Federal Oversight and Speed Growth",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/news/banking/2026/citi-readies-audit-to-seek-end-of-federal-oversight-and-speed-growth/",
+      "publishedAt": "2026-10-12T15:08:56Z",
+      "sentiment": "positive",
+      "score": 0.382
+    },
+    {
+      "title": "Top Business & Market Headlines Today \u2014 BL Morning Report, October 13, 2026",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-october-13-2026/article71575379.ece",
+      "publishedAt": "2026-10-12T14:59:07Z",
+      "sentiment": "positive",
+      "score": 0.703
+    },
+    {
+      "title": "The Walmart Recession Signal is hinting that a Fed rate cut is near",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/walmart-recession-signal-fed-rate-cut-economy-jim-paulsen-wmt-2026-10#article",
+      "publishedAt": "2026-10-12T14:57:46Z",
+      "sentiment": "negative",
+      "score": -0.599
+    },
+    {
+      "title": "The Battle for the Centre, the Rhetoric About the Right\u2019s \u2018Soul\u2019, Tsipras vs Androulakis, a Lord to Rescue the Kypseli Metro Project and Indian Interest in Greek Ports",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/10/12/the-battle-for-the-centre-the-rhetoric-about-the-rights-soul-tsipras-vs-androulakis-a-lord-to-rescue-the-kypseli-metro-project-and-indian-interest-in-greek-ports/",
+      "publishedAt": "2026-10-12T14:10:47Z",
       "sentiment": "positive",
       "score": 0.572
-    },
-    {
-      "title": "Bitcoin companies are learning that holding forever takes cash",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoin-companies-are-learning-that-holding-forever-takes-cash/",
-      "publishedAt": "2026-10-11T07:00:24Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "mrm-ai-detector added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/mrm-ai-detector/",
-      "publishedAt": "2026-10-11T02:11:46Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "GIFT City funds or direct overseas investing? Experts explain the costs, tax rules and risks investors should know",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gift-city-funds-or-direct-overseas-investing-experts-explain-the-costs-tax-rules-and-risks-investors-should-know-11791682680328.html",
-      "publishedAt": "2026-10-11T01:45:43Z",
-      "sentiment": "positive",
-      "score": 0.368
-    },
-    {
-      "title": "RBI tightens rules for forex bets to shield bruised rupee",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-tightens-rules-for-forex-bets-to-shield-bruised-rupee/articleshow/134860362.cms",
-      "publishedAt": "2026-10-11T00:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "2018 Ford Performance 50th Anniversary Mustang Cobra Jet at No Reserve",
-      "source": "Bringatrailer.com",
-      "url": "https://bringatrailer.com/listing/2018-ford-cobra-jet-mustang-2/",
-      "publishedAt": "2026-10-10T23:17:12Z",
-      "sentiment": "negative",
-      "score": -0.296
     }
   ],
-  "fetched_at": "2026-10-12T20:32:45.176217"
+  "fetched_at": "2026-10-13T18:37:19.625843"
 }

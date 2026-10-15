@@ -1,89 +1,95 @@
 {
-  "fetched_at": "2026-10-14T16:06:48.843713",
+  "fetched_at": "2026-10-15T15:54:43.022307",
   "headlines": [
     {
-      "title": "Great Basin Drill Season Delivers High-Grade Silver and Gold as a Historic Nevada Tungsten Camp Lines Up Six Drill Holes",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/great-basin-drill-season-delivers-high-grade-silver-and-gold-as-a-historic-nevada-tungsten-camp-lines-up-six-drill-holes-302907061.html",
-      "publishedAt": "2026-10-13T15:29:00Z"
+      "title": "Fairfax to pick 60.72% stake in IDBI Bank: Can the Canadian firm own 2 Indian lenders and what next for CSB Bank?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/fairfax-to-pick-60-72-stake-in-idbi-bank-can-the-canadian-firm-own-2-indian-lenders-and-what-next-for-csb-bank-11791985716468.html",
+      "publishedAt": "2026-10-14T15:45:27Z"
     },
     {
-      "title": "JPMorgan, Goldman Sachs, Citigroup and Wells Fargo post strong profits, but warn rising interest rates and \u2018sticky inflation\u2019 will bite",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/13/jpmorgan-goldman-sachs-citigroup-wells-fargo-interest-inflation/",
-      "publishedAt": "2026-10-13T15:09:28Z"
+      "title": "IDBI Bank sale: Govt releases FAQs on Fairfax deal, board exit and valuation",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/banking/idbi-bank-sale-govt-releases-faqs-on-fairfax-deal-board-exit-and-valuation-11791988813228.html",
+      "publishedAt": "2026-10-14T15:14:11Z"
     },
     {
-      "title": "Saudi Arabia Becomes the Oil Market\u2019s Biggest Wild Card",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabia-Becomes-the-Oil-Markets-Biggest-Wild-Card.html",
-      "publishedAt": "2026-10-13T15:00:00Z"
-    },
-    {
-      "title": "Air Launch Is Back on the Space Industry's Flight Plan",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/air-launch-is-back-on-the-space-industrys-flight-plan-302901604.html",
-      "publishedAt": "2026-10-13T13:45:00Z"
-    },
-    {
-      "title": "Anthropic\u2019s IPO and Our Collective Leap of Faith",
-      "source": "CMSWire",
-      "url": "https://www.cmswire.com/digital-experience/anthropics-ipo-and-our-collective-leap-of-faith/",
-      "publishedAt": "2026-10-13T13:05:43Z"
-    },
-    {
-      "title": "Sky\u2019s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger/",
-      "publishedAt": "2026-10-13T13:00:58Z"
-    },
-    {
-      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-      "publishedAt": "2026-10-13T12:54:27Z"
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
+      "publishedAt": "2026-10-14T14:44:05Z"
     },
     {
-      "title": "JPMorgan's earnings miss, Delta delays Riyadh route, McDonald's chicken plans and more in Morning Squawk",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/5-things-to-know-before-the-stock-market-opens.html",
-      "publishedAt": "2026-10-13T12:42:33Z"
+      "title": "Inflation Jumps Higher In Final Report Before Midterm Elections",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/14/inflation-soars-to-37-as-gas-prices-batter-americans",
+      "publishedAt": "2026-10-14T14:32:18Z"
     },
     {
-      "title": "Dow Jones Today: Dow Futures Gain 0.18% to 51,943 as Bank Earnings Offer Support, Chip Stocks Slide & Oil Prices Ease; Check What Investors Should Know",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/business/dow-jones-today-dow-futures-gain-018-to-51943-as-bank-earnings-offer-support-chip-stocks-slide-oil-prices-ease-check-what-investors-should-know-304909/",
-      "publishedAt": "2026-10-13T12:33:22Z"
-    },
-    {
-      "title": "JPMorgan posts rare profit miss as dealmaking, bond trading lose momentum",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-posts-rare-profit-miss-as-dealmaking-bond-trading-lose-momentum/articleshow/134918192.cms",
-      "publishedAt": "2026-10-13T12:32:26Z"
-    },
-    {
-      "title": "US stocks: Citi profit jumps 40% with higher investment banking, services and wealth revenue",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/citi-profit-jumps-40-with-higher-investment-banking-services-and-wealth-revenue/articleshow/134918104.cms",
-      "publishedAt": "2026-10-13T12:28:56Z"
-    },
-    {
-      "title": "Strategy spent nearly nine times as much on STRC buybacks as Bitcoin last week",
+      "title": "Low East Coast diesel stocks could delay inflation relief for Bitcoin investors",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/strategys-bitcoin-buying-hits-lowest-level-since-december-as-strc-buybacks-reach-record-192-million/",
-      "publishedAt": "2026-10-13T11:00:38Z"
+      "url": "https://cryptoslate.com/bitcoins-inflation-relief-case-faces-an-east-coast-winter-diesel-stock-gap/",
+      "publishedAt": "2026-10-14T14:30:46Z"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex jumps 1,109 points, Nifty rises 1.6% as IT stocks rally",
+      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation",
+      "publishedAt": "2026-10-14T14:21:15Z"
+    },
+    {
+      "title": "Q2 Results Today Highlights: Groww Q2 profit jumps 54%, Canara Bank up 8.4%; HDB Financial profit rises, Tata Tech revenue surges 28%, Leela net profit up 27%",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-13-october-2026/article71574859.ece",
-      "publishedAt": "2026-10-13T10:41:29Z"
+      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-bhel-bilionbrains-garage-ventures-canara-bank-icicigi-ceat-hdb-financial-tata-tech-company-results-14-october-2026/article71579002.ece",
+      "publishedAt": "2026-10-14T14:15:22Z"
     },
     {
-      "title": "HDB DEADLINE ALERT: HDFC Bank Limited Investors Alerted to Today's Lead Plaintiff Deadline in Securities Class Action",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hdb-deadline-alert-hdfc-bank-limited-investors-alerted-to-todays-lead-plaintiff-deadline-in-securities-class-action-302906612.html",
-      "publishedAt": "2026-10-13T09:50:00Z"
+      "title": "Dow Edges Up as S&P 500 and Nasdaq Slip on Hotter-Than-Expected Inflation, Bank of America Shares Tumble",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-stocks-mixed-hotter-inflation-bank-america-penalty-1876692",
+      "publishedAt": "2026-10-14T14:02:20Z"
+    },
+    {
+      "title": "FEDS Note: The Rise of Semiliquid Funds for Retail Investors",
+      "source": "Federalreserve.gov",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html",
+      "publishedAt": "2026-10-14T14:00:00Z"
+    },
+    {
+      "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
+      "source": "WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale",
+      "url": "https://wsvn.com/news/us-world/us-inflation-accelerates-september/",
+      "publishedAt": "2026-10-14T13:46:52Z"
+    },
+    {
+      "title": "Fantasy Football Start 'Em, Sit 'Em Week 6: TE Edition",
+      "source": "USA Today",
+      "url": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2026/10/14/fantasy-football-start-em-sit-em-week-6-te-edition/92243890007/",
+      "publishedAt": "2026-10-14T13:25:25Z"
+    },
+    {
+      "title": "Stock Quotes Are Free Almost Everywhere Now. Investors Are Paying for What Comes After Them.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/stock-quotes-are-free-almost-everywhere-now-investors-are-paying-for-what-comes-after-them",
+      "publishedAt": "2026-10-14T13:17:56Z"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/20fbb524e802bd41",
+      "publishedAt": "2026-10-14T13:17:56Z"
+    },
+    {
+      "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
+      "publishedAt": "2026-10-14T12:45:09Z"
+    },
+    {
+      "title": "Strive bought $280 million in Bitcoin, but Bitcoin per common share rose just 1.72%",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/strives-bitcoin-buying-diverges-from-strategys-preferred-buyback-focus/",
+      "publishedAt": "2026-10-14T11:10:07Z"
     }
   ]
 }

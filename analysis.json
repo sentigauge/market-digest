@@ -1,136 +1,136 @@
 {
-  "overall_tone": "positive",
+  "overall_tone": "neutral",
   "counts": {
-    "positive": 9,
-    "negative": 5,
-    "neutral": 1
+    "positive": 6,
+    "negative": 2,
+    "neutral": 7
   },
   "summary_lines": [
-    "9 of 15 headlines lean positive today.",
-    "5 of 15 headlines lean negative today.",
-    "1 of 15 headlines are neutral/mixed today."
+    "6 of 15 headlines lean positive today.",
+    "2 of 15 headlines lean negative today.",
+    "7 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "SC upholds Bombay HC order quashing Yes Bank AT-1 write-off",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/sc-upholds-bombay-hc-order-quashing-yes-bank-at-1-write-off/article71589079.ece",
-      "publishedAt": "2026-10-15T15:35:13Z",
-      "sentiment": "positive",
-      "score": 0.402
-    },
-    {
-      "title": "RBI clarifies interbank trades, ECBs coupons not part of FERR",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-clarifies-interbank-trades-ecbs-coupons-not-part-of-ferr/articleshow/134979553.cms",
-      "publishedAt": "2026-10-15T15:14:53Z",
-      "sentiment": "positive",
-      "score": 0.226
-    },
-    {
-      "title": "AMD Shares Fall Sharply as AI Infrastructure Spending Concerns Weigh on Chip Stocks",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/amd-shares-fall-ai-spending-debt-concerns-1876777",
-      "publishedAt": "2026-10-15T14:41:50Z",
-      "sentiment": "positive",
-      "score": 0.296
-    },
-    {
-      "title": "Nvidia Stock Falls Again as AI Chip Sell-Off Deepens Despite TSMC's Record Profit and Robust Demand Outlook",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/nvidia-shares-fall-global-ai-chip-selloff-1876772",
-      "publishedAt": "2026-10-15T14:25:23Z",
+      "title": "USA Crude Oil Stocks Drop Almost 9MM Barrels WoW",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_almost_9mm_barrels_wow-16-oct-2026-184869-article/",
+      "publishedAt": "2026-10-16T14:09:23Z",
       "sentiment": "negative",
-      "score": -0.13
+      "score": -0.31
     },
     {
-      "title": "SEBI seeks IRDAI coordination to make insurance details available on e-CAS",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sebi-seeks-irdai-coordination-to-make-insurance-details-available-on-e-cas/article71588557.ece",
-      "publishedAt": "2026-10-15T14:03:15Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Monetary Reform for the 2028 Election: American Constitutional Confusion. Part 1.3",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/monetary-reform-2028-election-american-constitutional-confusion-part-1-3/5943882",
-      "publishedAt": "2026-10-15T13:54:34Z",
-      "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "Bendigo and Adelaide Bank Shares Climb Nearly 4% as Weak Jobs Data Cools Rate Hike Bets Ahead of AGM",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/bendigo-bank-shares-rise-weak-jobs-data-1876758",
-      "publishedAt": "2026-10-15T13:52:03Z",
-      "sentiment": "negative",
-      "score": -0.178
-    },
-    {
-      "title": "A 20% Drop in Smartphone Shipments Shows Who Wins When Memory Gets Expensive",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/a-20-drop-in-smartphone-shipments-shows-who-wins-when-memory-gets-expensive-302910152.html",
-      "publishedAt": "2026-10-15T13:28:00Z",
-      "sentiment": "positive",
-      "score": 0.382
-    },
-    {
-      "title": "Rupee strengthens to 95.05 a dollar while forward premiums hit four-year high amid RBI measures",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rupee-strengthens-to-95-05-a-dollar-as-forward-premiums-hit-four-year-high-amid-rbi-measures/articleshow/134979657.cms",
-      "publishedAt": "2026-10-15T13:08:20Z",
-      "sentiment": "positive",
-      "score": 0.459
-    },
-    {
-      "title": "SpaceX Stock Price Today: Falling $7.99 (-5.10%)",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/business/spacex-stock-price-today-falling-799-510-check-market-snapshot-trajectory-wall-street-projections-what-investors-should-know-more-306355/",
-      "publishedAt": "2026-10-15T12:55:20Z",
-      "sentiment": "negative",
-      "score": -0.153
-    },
-    {
-      "title": "For Sale: A 1969 Triumph TR6C \u201cDesert Sled\u201d",
-      "source": "Silodrome.com",
-      "url": "https://silodrome.com/triumph-tr6c-trophy/",
-      "publishedAt": "2026-10-15T12:30:18Z",
-      "sentiment": "positive",
-      "score": 0.477
-    },
-    {
-      "title": "YES Bank examining SC ruling on Rs 8,415 crore AT1 bond write-off",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/yes-bank-examining-sc-ruling-on-rs-8415-crore-at1-bond-write-off/articleshow/134967887.cms",
-      "publishedAt": "2026-10-15T12:25:13Z",
-      "sentiment": "positive",
-      "score": 0.532
-    },
-    {
-      "title": "Samsung Stock Plunges Nearly 10% as Kospi Triggers Circuit Breaker on China Chip Threat and Hot US Inflation",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/samsung-shares-south-korea-chip-selloff-circuit-breakers-1876747",
-      "publishedAt": "2026-10-15T11:00:23Z",
-      "sentiment": "negative",
-      "score": -0.527
-    },
-    {
-      "title": "Rupee extends winning streak as dollar, oil ease and stocks rally",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-extends-winning-streak-as-dollar-oil-ease-and-stocks-rally/articleshow/134965552.cms",
-      "publishedAt": "2026-10-15T10:54:52Z",
+      "title": "Anglotopia Podcast: I Walked Hadrian\u2019s Wall Coast to Coast \u2014 Here\u2019s What It Was Actually Like \u2013 Blisters, Meat Pies & Beautiful Countryside",
+      "source": "Anglotopia.net",
+      "url": "https://anglotopia.net/anglotopia-podcast/i-walked-hadrians-wall-coast-to-coast-heres-what-it-was-actually-like-blisters-meat-pies-beautiful-countryside/",
+      "publishedAt": "2026-10-16T14:00:00Z",
       "sentiment": "positive",
       "score": 0.751
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex jumps over 1,500 points, Nifty nears 23,000; rupee extends gains",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-15-october-2026/article71583334.ece",
-      "publishedAt": "2026-10-15T10:52:38Z",
+      "title": "RBI approves merger of Emirates NBD's India branches with RBL Bank",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-merger-of-emirates-nbds-india-branches-with-rbl-bank/articleshow/134996840.cms",
+      "publishedAt": "2026-10-16T13:44:18Z",
       "sentiment": "positive",
-      "score": 0.681
+      "score": 0.402
+    },
+    {
+      "title": "RBI approves merger of Emirates NBD\u2019s India branches with RBL Bank from December 1",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-approves-merger-of-emirates-nbds-india-branches-with-rbl-bank-from-december-1/article71592681.ece",
+      "publishedAt": "2026-10-16T13:21:20Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "Health Care and Crude Led the Week While Tech Lost Its Grip",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/health-care-and-crude-led-the-week-while-tech-lost-its-grip-302911195.html",
+      "publishedAt": "2026-10-16T13:10:00Z",
+      "sentiment": "negative",
+      "score": -0.421
+    },
+    {
+      "title": "Show HN: I made an MCP Agents can reason every finance data the first time",
+      "source": "Github.com",
+      "url": "https://github.com/PreReason/mcp",
+      "publishedAt": "2026-10-16T13:04:39Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/5-things-to-know-before-the-stock-market-opens.html",
+      "publishedAt": "2026-10-16T12:38:58Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Rocket Thrusters on a Road Car Arrive as EV Makers Split Into Winners and Laggards",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/rocket-thrusters-on-a-road-car-arrive-as-ev-makers-split-into-winners-and-laggards-302911124.html",
+      "publishedAt": "2026-10-16T12:30:00Z",
+      "sentiment": "positive",
+      "score": 0.477
+    },
+    {
+      "title": "Why is China buying up gold?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold",
+      "publishedAt": "2026-10-16T11:38:11Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Halfway Through October, Diesel Is Setting the Terms for the Entire Energy Market",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/halfway-through-october-diesel-is-setting-the-terms-for-the-entire-energy-market-302911073.html",
+      "publishedAt": "2026-10-16T11:30:00Z",
+      "sentiment": "positive",
+      "score": 0.273
+    },
+    {
+      "title": "Bajaj Housing Finance Q2 Results: PAT rises 18% YoY to Rs 757 crore, AUM grows 25%",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-finance-q2-results-pat-rises-18-yoy-to-rs-757-crore-aum-grows-25/articleshow/134993051.cms",
+      "publishedAt": "2026-10-16T11:22:16Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "He Joined the Military. They Reported His Wife to ICE.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/10/army-wife-ice-deportation-texas/689012/?utm_source=feed",
+      "publishedAt": "2026-10-16T11:05:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex gains 413 pts, Nifty ends at 23,146 led by strong buying in IT firms",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-october-2026/article71587755.ece",
+      "publishedAt": "2026-10-16T10:41:15Z",
+      "sentiment": "positive",
+      "score": 0.813
+    },
+    {
+      "title": "Hyperscale Data Completes Tokenization of 5,000 Troy Ounces of Physical Silver; Tokens Are Listed on Ault Markets with Trading Anticipated to Commence Within Weeks",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hyperscale-data-completes-tokenization-of-5-000-troy-ounces-of-physical-silver-tokens-are-listed-on-ault-markets-with-trading-anticipated-to-commence-within-weeks-302910894.html",
+      "publishedAt": "2026-10-16T10:30:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "As AI rally wobbles, stock market's spotlight turns to earnings",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/ai-rally-wobbles-stock-markets-spotlight-turns-earnings-6465661",
+      "publishedAt": "2026-10-16T10:03:05Z",
+      "sentiment": "neutral",
+      "score": 0.0
     }
   ],
-  "fetched_at": "2026-10-16T15:43:03.340476"
+  "fetched_at": "2026-10-17T14:35:05.984885"
 }

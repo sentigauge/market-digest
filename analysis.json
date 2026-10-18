@@ -1,136 +1,120 @@
 {
-  "overall_tone": "neutral",
+  "overall_tone": "positive",
   "counts": {
     "positive": 6,
-    "negative": 2,
-    "neutral": 7
+    "negative": 1,
+    "neutral": 6
   },
   "summary_lines": [
-    "6 of 15 headlines lean positive today.",
-    "2 of 15 headlines lean negative today.",
-    "7 of 15 headlines are neutral/mixed today."
+    "6 of 13 headlines lean positive today.",
+    "1 of 13 headlines lean negative today.",
+    "6 of 13 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "USA Crude Oil Stocks Drop Almost 9MM Barrels WoW",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_almost_9mm_barrels_wow-16-oct-2026-184869-article/",
-      "publishedAt": "2026-10-16T14:09:23Z",
-      "sentiment": "negative",
-      "score": -0.31
-    },
-    {
-      "title": "Anglotopia Podcast: I Walked Hadrian\u2019s Wall Coast to Coast \u2014 Here\u2019s What It Was Actually Like \u2013 Blisters, Meat Pies & Beautiful Countryside",
-      "source": "Anglotopia.net",
-      "url": "https://anglotopia.net/anglotopia-podcast/i-walked-hadrians-wall-coast-to-coast-heres-what-it-was-actually-like-blisters-meat-pies-beautiful-countryside/",
-      "publishedAt": "2026-10-16T14:00:00Z",
-      "sentiment": "positive",
-      "score": 0.751
-    },
-    {
-      "title": "RBI approves merger of Emirates NBD's India branches with RBL Bank",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-merger-of-emirates-nbds-india-branches-with-rbl-bank/articleshow/134996840.cms",
-      "publishedAt": "2026-10-16T13:44:18Z",
-      "sentiment": "positive",
-      "score": 0.402
-    },
-    {
-      "title": "RBI approves merger of Emirates NBD\u2019s India branches with RBL Bank from December 1",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-approves-merger-of-emirates-nbds-india-branches-with-rbl-bank-from-december-1/article71592681.ece",
-      "publishedAt": "2026-10-16T13:21:20Z",
-      "sentiment": "positive",
-      "score": 0.402
-    },
-    {
-      "title": "Health Care and Crude Led the Week While Tech Lost Its Grip",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/health-care-and-crude-led-the-week-while-tech-lost-its-grip-302911195.html",
-      "publishedAt": "2026-10-16T13:10:00Z",
-      "sentiment": "negative",
-      "score": -0.421
-    },
-    {
-      "title": "Show HN: I made an MCP Agents can reason every finance data the first time",
-      "source": "Github.com",
-      "url": "https://github.com/PreReason/mcp",
-      "publishedAt": "2026-10-16T13:04:39Z",
+      "title": "The hidden trade behind Strive\u2019s 16.7% Bitcoin income offer",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/",
+      "publishedAt": "2026-10-17T11:00:07Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/5-things-to-know-before-the-stock-market-opens.html",
-      "publishedAt": "2026-10-16T12:38:58Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Rocket Thrusters on a Road Car Arrive as EV Makers Split Into Winners and Laggards",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/rocket-thrusters-on-a-road-car-arrive-as-ev-makers-split-into-winners-and-laggards-302911124.html",
-      "publishedAt": "2026-10-16T12:30:00Z",
-      "sentiment": "positive",
-      "score": 0.477
-    },
-    {
-      "title": "Why is China buying up gold?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold",
-      "publishedAt": "2026-10-16T11:38:11Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Halfway Through October, Diesel Is Setting the Terms for the Entire Energy Market",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/halfway-through-october-diesel-is-setting-the-terms-for-the-entire-energy-market-302911073.html",
-      "publishedAt": "2026-10-16T11:30:00Z",
+      "title": "Kremlin praises Trump's 'historic' decision to suspend sanctions on Russia a day before they were due to take effect",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16216565/Kremlin-praises-Trumps-decision-suspend-sanctions.html",
+      "publishedAt": "2026-10-17T10:33:36Z",
       "sentiment": "positive",
       "score": 0.273
     },
     {
-      "title": "Bajaj Housing Finance Q2 Results: PAT rises 18% YoY to Rs 757 crore, AUM grows 25%",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-finance-q2-results-pat-rises-18-yoy-to-rs-757-crore-aum-grows-25/articleshow/134993051.cms",
-      "publishedAt": "2026-10-16T11:22:16Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "He Joined the Military. They Reported His Wife to ICE.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/politics/2026/10/army-wife-ice-deportation-texas/689012/?utm_source=feed",
-      "publishedAt": "2026-10-16T11:05:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex gains 413 pts, Nifty ends at 23,146 led by strong buying in IT firms",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-october-2026/article71587755.ece",
-      "publishedAt": "2026-10-16T10:41:15Z",
+      "title": "The wealthy boomer problem is metastasizing\u2014they got 38% richer over the last 3 years as Gen Z and millennials under 35 got wiped out",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/17/wealthy-boomers-38-percent-richer-since-2022-federal-reserve/",
+      "publishedAt": "2026-10-17T10:00:00Z",
       "sentiment": "positive",
-      "score": 0.813
+      "score": 0.494
     },
     {
-      "title": "Hyperscale Data Completes Tokenization of 5,000 Troy Ounces of Physical Silver; Tokens Are Listed on Ault Markets with Trading Anticipated to Commence Within Weeks",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hyperscale-data-completes-tokenization-of-5-000-troy-ounces-of-physical-silver-tokens-are-listed-on-ault-markets-with-trading-anticipated-to-commence-within-weeks-302910894.html",
-      "publishedAt": "2026-10-16T10:30:00Z",
+      "title": "$20 off $200 Online Spend (Excludes NT & South Hedland WA) Delivered / C&C @ Liquorland",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/979357",
+      "publishedAt": "2026-10-17T08:47:44Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "As AI rally wobbles, stock market's spotlight turns to earnings",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/ai-rally-wobbles-stock-markets-spotlight-turns-earnings-6465661",
-      "publishedAt": "2026-10-16T10:03:05Z",
+      "title": "Broad tech sector sell-off weighs down US markets",
+      "source": "Arkansas Online",
+      "url": "https://www.arkansasonline.com/news/2026/oct/17/broad-tech-sector-sell-off-weighs-down-us-markets/",
+      "publishedAt": "2026-10-17T06:51:08Z",
       "sentiment": "neutral",
       "score": 0.0
+    },
+    {
+      "title": "US markets are weighed down by an extended sell-off in the tech sector",
+      "source": "The Manila Times",
+      "url": "https://beta.manilatimes.net/2026/10/17/business/foreign-business/us-markets-are-weighed-down-by-an-extended-sell-off-in-the-tech-sector/2447853",
+      "publishedAt": "2026-10-17T05:09:40Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
+      "publishedAt": "2026-10-17T04:56:20Z",
+      "sentiment": "positive",
+      "score": 0.103
+    },
+    {
+      "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+      "publishedAt": "2026-10-17T04:16:40Z",
+      "sentiment": "positive",
+      "score": 0.751
+    },
+    {
+      "title": "Wall Street Week Ahead: As AI rally wobbles, stock market's spotlight turns to earnings",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings/articleshow/135007046.cms",
+      "publishedAt": "2026-10-17T03:59:31Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "IDBI Bank sale: Keep CCEA decision in abeyance pending independent inquiry, says EAS Sarma",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/idbi-bank-sale-keep-ccea-decision-in-abeyance-pending-independent-inquiry-says-eas-sarma/article71595290.ece",
+      "publishedAt": "2026-10-17T03:41:51Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "US Offers Another 17 Million SPR Barrels As Fuel Crisis Deepens",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/14f388a63c51f4fe",
+      "publishedAt": "2026-10-17T01:49:43Z",
+      "sentiment": "negative",
+      "score": -0.625
+    },
+    {
+      "title": "Wall Street futures mixed as tech wobbles again, Tesla gains",
+      "source": "Marianas Variety",
+      "url": "https://www.mvariety.com/business/business_news/wall-street-futures-mixed-as-tech-wobbles-again-tesla-gains/article_5afdcfb6-04a9-458b-b862-361afa950fa2.html",
+      "publishedAt": "2026-10-16T23:57:45Z",
+      "sentiment": "positive",
+      "score": 0.34
+    },
+    {
+      "title": "US stocks recover as sliding Treasury yields offset hot inflation data",
+      "source": "Pdnews.cn",
+      "url": "https://peoplesdaily.pdnews.cn/business/er/30053351355",
+      "publishedAt": "2026-10-16T23:33:13Z",
+      "sentiment": "positive",
+      "score": 0.202
     }
   ],
-  "fetched_at": "2026-10-17T14:35:05.984885"
+  "fetched_at": "2026-10-18T15:02:35.318470"
 }

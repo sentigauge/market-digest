@@ -1,16 +1,112 @@
 {
   "overall_tone": "positive",
   "counts": {
-    "positive": 6,
-    "negative": 1,
-    "neutral": 6
+    "positive": 7,
+    "negative": 5,
+    "neutral": 3
   },
   "summary_lines": [
-    "6 of 13 headlines lean positive today.",
-    "1 of 13 headlines lean negative today.",
-    "6 of 13 headlines are neutral/mixed today."
+    "7 of 15 headlines lean positive today.",
+    "5 of 15 headlines lean negative today.",
+    "3 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
+    {
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "publishedAt": "2026-10-18T15:01:04Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Show HN: An open-source curation of most useful ChatGPT Plugins",
+      "source": "Github.com",
+      "url": "https://github.com/Asdivyansh/Awesome-ChatGPT-Plugins",
+      "publishedAt": "2026-10-18T14:19:48Z",
+      "sentiment": "positive",
+      "score": 0.493
+    },
+    {
+      "title": "Sumitomo-backed Yes Bank faces up to \u20b95,200 crore earnings hit as SC upholds squashing of its AT-1 bonds write-off",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/sumitomobacked-yes-bank-faces-up-to-5-200-crore-earnings-hit-as-sc-upholds-squashing-of-its-at-1-bonds-writeoff-11792316431134.html",
+      "publishedAt": "2026-10-18T11:25:28Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "Fantasy Football Week 6 Start \u2018Em Sit \u2018Em: Kyle Soppe\u2019s Cheat Sheet For Every Single Player",
+      "source": "Pro Football Network",
+      "url": "https://www.profootballnetwork.com/fantasy-football/fantasy-football-week-6-start-em-sit-em-2026/",
+      "publishedAt": "2026-10-18T11:00:22Z",
+      "sentiment": "negative",
+      "score": -0.459
+    },
+    {
+      "title": "AI Stock Selloff Accelerates as Investors Rotate to Treasury Bonds, Defensive Sectors",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-18-ai-stock-selloff-accelerates-investors-treasuries-defensive.html",
+      "publishedAt": "2026-10-18T06:00:00Z",
+      "sentiment": "positive",
+      "score": 0.226
+    },
+    {
+      "title": "Gold on Dhanteras: celebrate the ritual, rethink the investment",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-on-dhanteras-celebrate-the-ritual-rethink-the-investment-11792135802308.html",
+      "publishedAt": "2026-10-18T01:31:06Z",
+      "sentiment": "positive",
+      "score": 0.572
+    },
+    {
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "publishedAt": "2026-10-18T01:06:35Z",
+      "sentiment": "negative",
+      "score": -0.273
+    },
+    {
+      "title": "Leaders weigh \u2018huge benefit\u2019, risks of AI for global economy",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/article/leaders-weigh-huge-benefit-risks-of-ai-for-global-economy/",
+      "publishedAt": "2026-10-17T20:03:12Z",
+      "sentiment": "negative",
+      "score": -0.273
+    },
+    {
+      "title": "\u2018How many canaries have we killed in the coal mine?\u2019 \u2014 Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/17/ai-boom-vs-bust-bubble-warning-hyperscaler-spending-debt-coreweave-nvidia/",
+      "publishedAt": "2026-10-17T19:43:24Z",
+      "sentiment": "negative",
+      "score": -0.869
+    },
+    {
+      "title": "Metric Mechanic 3700 Rally BMW M30 Engine at No Reserve",
+      "source": "Bringatrailer.com",
+      "url": "https://bringatrailer.com/listing/engine-372/",
+      "publishedAt": "2026-10-17T17:37:16Z",
+      "sentiment": "negative",
+      "score": -0.296
+    },
+    {
+      "title": "JJ Redick on what has changed for Dalton Knecht in the last two years",
+      "source": "USA Today",
+      "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/17/jj-redick-on-what-has-changed-for-dalton-knecht-in-the-last-two-years/92299542007/",
+      "publishedAt": "2026-10-17T16:01:33Z",
+      "sentiment": "positive",
+      "score": 0.408
+    },
+    {
+      "title": "Axis Bank\u2019s rising costs, FCNR inflows squeeze Q2 margins",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/company-results/axis-bank-s-rising-costs-fcnr-inflows-squeeze-q2-margins-11792250295486.html",
+      "publishedAt": "2026-10-17T16:00:10Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
     {
       "title": "The hidden trade behind Strive\u2019s 16.7% Bitcoin income offer",
       "source": "CryptoSlate",
@@ -34,87 +130,7 @@
       "publishedAt": "2026-10-17T10:00:00Z",
       "sentiment": "positive",
       "score": 0.494
-    },
-    {
-      "title": "$20 off $200 Online Spend (Excludes NT & South Hedland WA) Delivered / C&C @ Liquorland",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/979357",
-      "publishedAt": "2026-10-17T08:47:44Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Broad tech sector sell-off weighs down US markets",
-      "source": "Arkansas Online",
-      "url": "https://www.arkansasonline.com/news/2026/oct/17/broad-tech-sector-sell-off-weighs-down-us-markets/",
-      "publishedAt": "2026-10-17T06:51:08Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "US markets are weighed down by an extended sell-off in the tech sector",
-      "source": "The Manila Times",
-      "url": "https://beta.manilatimes.net/2026/10/17/business/foreign-business/us-markets-are-weighed-down-by-an-extended-sell-off-in-the-tech-sector/2447853",
-      "publishedAt": "2026-10-17T05:09:40Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
-      "publishedAt": "2026-10-17T04:56:20Z",
-      "sentiment": "positive",
-      "score": 0.103
-    },
-    {
-      "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
-      "publishedAt": "2026-10-17T04:16:40Z",
-      "sentiment": "positive",
-      "score": 0.751
-    },
-    {
-      "title": "Wall Street Week Ahead: As AI rally wobbles, stock market's spotlight turns to earnings",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings/articleshow/135007046.cms",
-      "publishedAt": "2026-10-17T03:59:31Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "IDBI Bank sale: Keep CCEA decision in abeyance pending independent inquiry, says EAS Sarma",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/idbi-bank-sale-keep-ccea-decision-in-abeyance-pending-independent-inquiry-says-eas-sarma/article71595290.ece",
-      "publishedAt": "2026-10-17T03:41:51Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "US Offers Another 17 Million SPR Barrels As Fuel Crisis Deepens",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/14f388a63c51f4fe",
-      "publishedAt": "2026-10-17T01:49:43Z",
-      "sentiment": "negative",
-      "score": -0.625
-    },
-    {
-      "title": "Wall Street futures mixed as tech wobbles again, Tesla gains",
-      "source": "Marianas Variety",
-      "url": "https://www.mvariety.com/business/business_news/wall-street-futures-mixed-as-tech-wobbles-again-tesla-gains/article_5afdcfb6-04a9-458b-b862-361afa950fa2.html",
-      "publishedAt": "2026-10-16T23:57:45Z",
-      "sentiment": "positive",
-      "score": 0.34
-    },
-    {
-      "title": "US stocks recover as sliding Treasury yields offset hot inflation data",
-      "source": "Pdnews.cn",
-      "url": "https://peoplesdaily.pdnews.cn/business/er/30053351355",
-      "publishedAt": "2026-10-16T23:33:13Z",
-      "sentiment": "positive",
-      "score": 0.202
     }
   ],
-  "fetched_at": "2026-10-18T15:02:35.318470"
+  "fetched_at": "2026-10-19T17:53:56.568358"
 }

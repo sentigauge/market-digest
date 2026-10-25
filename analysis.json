@@ -1,136 +1,136 @@
 {
-  "overall_tone": "neutral",
+  "overall_tone": "negative",
   "counts": {
-    "positive": 5,
-    "negative": 4,
+    "positive": 2,
+    "negative": 7,
     "neutral": 6
   },
   "summary_lines": [
-    "5 of 15 headlines lean positive today.",
-    "4 of 15 headlines lean negative today.",
+    "2 of 15 headlines lean positive today.",
+    "7 of 15 headlines lean negative today.",
     "6 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Bring a Loupe: A Certina DS-3 Super PH1000M, A Ulysse Nardin 'Big Aviator' Pilot's Watch, An Eterna \"Majetek,\" And Much More",
-      "source": "HODINKEE",
-      "url": "https://www.hodinkee.com/articles/a-certina-ds-3-super-ph1000m-a-ulysse-nardin-big-aviator-pilots-watch-a-svend-andersen-world-time-ch",
-      "publishedAt": "2026-10-23T15:00:00Z",
+      "title": "A Neocloud\u2019s Gathering Storm",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/neoclouds-gathering-storm",
+      "publishedAt": "2026-10-24T15:00:45Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Demands for Stelco, Canada\u2019s maple syrup reserve and Ottawa\u2019s risky mining bet: Must-read business and investing stories",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0791e260387637a3",
+      "publishedAt": "2026-10-24T13:11:30Z",
+      "sentiment": "negative",
+      "score": -0.202
+    },
+    {
+      "title": "The Ultimate Rolex Submariner Price Guide 2026: Retail, Resale & What to Buy",
+      "source": "Hautetime.com",
+      "url": "https://www.hautetime.com/rolex-submariner-price-guide-2026/",
+      "publishedAt": "2026-10-24T13:00:21Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Stocks make up more of Americans' assets than ever",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/article/americans-have-never-had-more-of-their-money-in-stocks--not-even-in-the-dot-com-bubble-chart-of-the-day-120127109.html",
+      "publishedAt": "2026-10-24T12:01:27Z",
       "sentiment": "positive",
-      "score": 0.599
+      "score": 0.241
     },
     {
-      "title": "Financial Expert On The Reason Black Wealth is On The Decline",
-      "source": "The Root",
-      "url": "https://www.theroot.com/financial-expert-on-the-reason-black-wealth-is-on-the-d-2000131675",
-      "publishedAt": "2026-10-23T14:35:45Z",
-      "sentiment": "positive",
-      "score": 0.494
-    },
-    {
-      "title": "US business activity cools in October; strong demand fueling price pressures",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/business/us-business-activity-cools-in-october-strong-demand-fueling-price-pressures/articleshow/135148021.cms",
-      "publishedAt": "2026-10-23T13:58:46Z",
-      "sentiment": "positive",
-      "score": 0.128
-    },
-    {
-      "title": "Here's what's behind the vibe shift that's rattling the AI trade",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/ai-stocks-down-coreweave-nvidia-meta-capex-spending-jensen-huang-2026-10#article",
-      "publishedAt": "2026-10-23T12:06:39Z",
+      "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/inflation-earnings-reports-mood-consumers-federal-reserve-fill-137533185",
+      "publishedAt": "2026-10-24T09:39:23Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Indonesia records highest-ever rice stock at 4.56 million tons",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/437535/indonesia-records-highest-ever-rice-stock-at-456-million-tons",
-      "publishedAt": "2026-10-23T11:41:15Z",
+      "title": "BTCC Reports $387 Billion In Futures Trading As TradFi-Linked Contracts Grow",
+      "source": "newsBTC",
+      "url": "https://www.newsbtc.com/crypto-news/btcc-387-billion-futures-volume-tradfi-linked-contracts/",
+      "publishedAt": "2026-10-24T09:00:00Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "BUSCAR COMPANY CEO LETTER TO SHAREHOLDERS",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/buscar-company-ceo-letter-to-shareholders-302917615.html",
-      "publishedAt": "2026-10-23T11:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "title": "Europe\u2019s Energy Policy Is Economic Suicide",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/europes-energy-policy-is-economic-suicide.html",
+      "publishedAt": "2026-10-24T05:55:52Z",
+      "sentiment": "negative",
+      "score": -0.527
     },
     {
-      "title": "SLB Announces Third-Quarter 2026 Results",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/slb-announces-third-quarter-2026-results",
-      "publishedAt": "2026-10-23T10:56:34Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "title": "Hospital in Yemen\u2019s Taiz warns of collapse in days because of Houthi siege",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege",
+      "publishedAt": "2026-10-24T05:20:35Z",
+      "sentiment": "negative",
+      "score": -0.557
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red",
+      "title": "The production deficit versus buffer stock paradox",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-october-2026/article71611889.ece",
-      "publishedAt": "2026-10-23T10:52:42Z",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/the-production-deficit-versus-buffer-stock-paradox/article71617603.ece",
+      "publishedAt": "2026-10-24T04:29:59Z",
       "sentiment": "negative",
-      "score": -0.459
+      "score": -0.477
     },
     {
-      "title": "First Citizens BancShares Reports Third Quarter 2026 Earnings, Announces Additional Share Repurchase Plan",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-reports-third-quarter-2026-earnings-announces-additional-share-repurchase-plan-302917517.html",
-      "publishedAt": "2026-10-23T10:30:00Z",
-      "sentiment": "positive",
-      "score": 0.296
+      "title": "Why is US Stock Market Down Today? Dow Jones Slips 500 Points, S&P 500 Falls 0.24%, Nasdaq Climbs 0.13% as SpaceX Rally, AI Demand & Fed Rate Hike Ahead of Big Tech Earnings \u2014 Check Latest Updates",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-slips-500-points-sp-500-falls-024-nasdaq-climbs-013-as-spacex-rally-ai-demand-fed-rate-hike-ahead-of-big-tech-earnings-check-latest-updates-310872/",
+      "publishedAt": "2026-10-24T04:02:15Z",
+      "sentiment": "negative",
+      "score": -0.128
     },
     {
-      "title": "Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-market-rally-6486066",
-      "publishedAt": "2026-10-23T10:05:57Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "NHB appoints forensic auditor for SRG Housing Finance",
+      "title": "5 world market themes for the week ahead",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/nhb-appoints-forensic-auditor-for-srg-housing-finance-amid-allegations-of-fictitious-loan-accounts-worth-300400-crore/articleshow/135142063.cms",
-      "publishedAt": "2026-10-23T10:00:53Z",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/135161184.cms",
+      "publishedAt": "2026-10-24T03:42:42Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Amber International Holding Limited Announces Results of the Annual General Meeting on October 23, 2026",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/amber-international-holding-limited-announces-results-of-the-annual-general-meeting-on-october-23-2026-302917909.html",
-      "publishedAt": "2026-10-23T09:45:00Z",
+      "title": "US consumer sentiment near record low ahead of midterm elections",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-consumer-sentiment-near-record-low-ahead-of-midterm-elections/articleshow/135161172.cms",
+      "publishedAt": "2026-10-24T03:41:28Z",
       "sentiment": "negative",
-      "score": -0.226
+      "score": -0.273
     },
     {
-      "title": "The Top 5 Sinn Watches That Fly Under The Radar",
-      "source": "Fratellowatches.com",
-      "url": "https://www.fratellowatches.com/the-top-5-sinn-watches-that-fly-under-the-radar/",
-      "publishedAt": "2026-10-23T09:00:30Z",
+      "title": "Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally/articleshow/135161141.cms",
+      "publishedAt": "2026-10-24T03:37:13Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "California has more revenue than expected thanks to AI. Should the state save it?",
+      "source": "KPBS",
+      "url": "https://www.kpbs.org/news/science-technology/2026/10/23/california-has-more-revenue-than-expected-thanks-to-ai-should-the-state-save-it",
+      "publishedAt": "2026-10-23T21:39:43Z",
       "sentiment": "positive",
-      "score": 0.202
+      "score": 0.727
     },
     {
-      "title": "Tesla to Australia: No Cybertrucks for You",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/398678/tesla-to-australia-no-cybertrucks-for-you.html",
-      "publishedAt": "2026-10-23T08:57:02Z",
+      "title": "Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/dow-and-small-caps-climb-weekly-while-nasdaq-slips-on-megacap-earnings-charges-302918459.html",
+      "publishedAt": "2026-10-23T20:08:00Z",
       "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "Space arms race: Will outer space become battlefield?",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/a-european-perspective/2026/1023/1596568-space-defence/",
-      "publishedAt": "2026-10-23T08:19:23Z",
-      "sentiment": "negative",
-      "score": -0.382
+      "score": -0.273
     }
   ],
-  "fetched_at": "2026-10-24T15:00:58.838747"
+  "fetched_at": "2026-10-25T15:12:10.044633"
 }

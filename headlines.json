@@ -1,83 +1,95 @@
 {
-  "fetched_at": "2026-10-26T17:49:24.097593",
+  "fetched_at": "2026-10-27T16:58:39.077901",
   "headlines": [
     {
-      "title": "The liquidity ironies are coming to the fore",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/specials/current-account/the-liquidity-ironies-are-coming-to-the-fore/article71624247.ece",
-      "publishedAt": "2026-10-25T16:13:45Z"
+      "title": "Anthropic\u2019s dual-class share structure borrows ideas from Mark Zuckerberg, Elon Musk\u2014and the New York Times",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/26/anthropic-ipo-dual-class-share-structure-zuckerberg-musk-new-york-times/",
+      "publishedAt": "2026-10-26T16:05:24Z"
     },
     {
-      "title": "Here are 4 big things we're watching in the stock market this week",
+      "title": "Fantasy Football Week 8 Stock Watch Risers: Sell High on Tony Pollard and Omar Cooper? Is Josh Jacobs an RB1?",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/onsi/fantasy/nfl/fantasy-football-week-8-stock-watch-risers-sell-high-on-tony-pollard-and-omar-cooper-is-josh-jacobs-an-rb1",
+      "publishedAt": "2026-10-26T15:34:37Z"
+    },
+    {
+      "title": "AI earnings, a pivotal Fed decision, the midterms: Stocks are kicking off a crucial 2-week stretch",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-outlook-ai-earnings-fed-meeting-midterms-anthropic-s1-2026-10#article",
+      "publishedAt": "2026-10-26T15:28:49Z"
+    },
+    {
+      "title": "Fantasy Football Stock Report: Chase Brown continues to struggle while 3 other RB2s thrive in Week 7",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-stock-report-chase-brown-continues-to-struggle-while-3-other-rb2s-thrive-in-week-7-152155032.html",
+      "publishedAt": "2026-10-26T15:21:55Z"
+    },
+    {
+      "title": "Will Donald Trump or AI blow up financial markets first?",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-10-27/will-donald-trump-or-ai-blow-up-financial-markets-first/107311432",
+      "publishedAt": "2026-10-26T15:00:00Z"
+    },
+    {
+      "title": "Fantasy Football Waiver Wire Week 8: Caleb Douglas breaks out, Omar Cooper Jr. stays hot",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-waiver-wire-week-8-caleb-douglas-breaks-out-omar-cooper-jr-stays-hot",
+      "publishedAt": "2026-10-26T14:43:37Z"
+    },
+    {
+      "title": "Surgery Partners Stock Soars 46% as Bon Secours Affiliate Agrees to $5.7 Billion Deal to Take Company Private",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/surgery-partners-bon-secours-5-7-billion-deal-1877412",
+      "publishedAt": "2026-10-26T14:28:16Z"
+    },
+    {
+      "title": "Why is Verizon stock down today? Verizon Communications Inc share price falls at US Stock Market",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/verizon-stock-vz-stock-price-verizon-communications-inc-forecast-ai-deal/articleshow/135213791.cms",
+      "publishedAt": "2026-10-26T14:21:37Z"
+    },
+    {
+      "title": "AI giant Anthropic files for an IPO that could break records",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+      "publishedAt": "2026-10-26T14:16:23Z"
+    },
+    {
+      "title": "When nematodes take flight: Multi-scale dispersal of the beech leaf disease nematode in forest ecosystems",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361390",
+      "publishedAt": "2026-10-26T14:00:00Z"
+    },
+    {
+      "title": "Effects of egg-mass-dissolving substances on the post-embryonic development of Chrysomya megacephala (Fabricius, 1794) and Chrysomya putoria (Wiedemann, 1830) (Diptera: Calliphoridae): Implications for maggot therapy",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361039",
+      "publishedAt": "2026-10-26T14:00:00Z"
+    },
+    {
+      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback",
+      "publishedAt": "2026-10-26T13:27:38Z"
+    },
+    {
+      "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
+      "publishedAt": "2026-10-26T13:24:38Z"
+    },
+    {
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 26th October 2026",
+      "source": "Iasbaba.com",
+      "url": "https://iasbaba.com/2026/10/daily-current-affairs-ias-upsc-prelims-and-mains-exam-26th-october-2026/",
+      "publishedAt": "2026-10-26T13:20:53Z"
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Fed Inflation Crossroads",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/04f1f0d8b350813b",
-      "publishedAt": "2026-10-25T15:12:28Z"
-    },
-    {
-      "title": "The Weekend the Money Stops: A Bank Collapse, Hour by\u00a0Hour",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/the-weekend-the-money-stops-a-bank-collapse-hour-by-hour/",
-      "publishedAt": "2026-10-25T13:06:00Z"
-    },
-    {
-      "title": "Sussex district named a top global travel destination and loved by A-listers is actually deathly dull - and the neighbouring commuter town is filthy. Here's my insider guide to where to go instead: SALLY BROCKWAY",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/lifestyle/article-16226997/Sussex-district-named-global-travel-destination-loved-listers-actually-deathly-dull-neighbouring-commuter-town-filthy-Heres-insider-guide-instead-SALLY-BROCKWAY.html",
-      "publishedAt": "2026-10-25T12:04:58Z"
-    },
-    {
-      "title": "What To Do In A Doom-And-Bloom Market; 3 Titans Loom",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1a754de0a0e35ab6",
-      "publishedAt": "2026-10-25T11:23:28Z"
-    },
-    {
-      "title": "Links 10/25/2026",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/10/links-10-25-2026.html",
-      "publishedAt": "2026-10-25T10:55:17Z"
-    },
-    {
-      "title": "US inequality is getting worse in ways you might not\u00a0expect",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/10/25/us-inequality-is-getting-worse-in-ways-you-might-not-expect-partner/",
-      "publishedAt": "2026-10-25T10:00:48Z"
-    },
-    {
-      "title": "Equipment Maintenance: IRONLOG",
-      "source": "Giveawayoftheday.com",
-      "url": "https://iphone.giveawayoftheday.com/equipment-maintenance-ironlog/",
-      "publishedAt": "2026-10-25T09:11:02Z"
-    },
-    {
-      "title": "Warren Buffett\u2019s 6 golden rules for investors after retirement",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/warren-buffetts-6-golden-rules-for-investors-after-retirement/articleshow/135186407.cms",
-      "publishedAt": "2026-10-25T08:08:20Z"
-    },
-    {
-      "title": "Stock market outlook: Fed meeting, crude & more - top cues guiding Dalal Street this week",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-fed-meeting-crude-more-top-cues-guiding-dalal-street-this-week/articleshow/135185867.cms",
-      "publishedAt": "2026-10-25T07:25:56Z"
-    },
-    {
-      "title": "10 Timex Watches From 2026 You May Have Missed",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/10/25/timex-watches-2026-you-may-have-missed/",
-      "publishedAt": "2026-10-25T06:00:00Z"
-    },
-    {
-      "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street\u2019s fate next week",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bears-tighten-grip-as-crude-geopolitical-risks-fii-outflows-mount-5-factors-to-decide-d-streets-fate-next-week/articleshow/135182716.cms",
-      "publishedAt": "2026-10-25T03:48:39Z"
-    },
-    {
-      "title": "Sinking profits turn China's $3.5 trillion stock rout into a deeper trap",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html",
-      "publishedAt": "2026-10-25T02:48:06Z"
+      "url": "https://biztoc.com/x/b74a35614e05bbed",
+      "publishedAt": "2026-10-26T13:00:03Z"
     }
   ]
 }

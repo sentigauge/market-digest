@@ -1,136 +1,136 @@
 {
   "overall_tone": "neutral",
   "counts": {
-    "positive": 3,
-    "negative": 1,
-    "neutral": 11
+    "positive": 2,
+    "negative": 6,
+    "neutral": 7
   },
   "summary_lines": [
-    "3 of 15 headlines lean positive today.",
-    "1 of 15 headlines lean negative today.",
-    "11 of 15 headlines are neutral/mixed today."
+    "2 of 15 headlines lean positive today.",
+    "6 of 15 headlines lean negative today.",
+    "7 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Anthropic\u2019s dual-class share structure borrows ideas from Mark Zuckerberg, Elon Musk\u2014and the New York Times",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/26/anthropic-ipo-dual-class-share-structure-zuckerberg-musk-new-york-times/",
-      "publishedAt": "2026-10-26T16:05:24Z",
-      "sentiment": "positive",
-      "score": 0.296
-    },
-    {
-      "title": "Fantasy Football Week 8 Stock Watch Risers: Sell High on Tony Pollard and Omar Cooper? Is Josh Jacobs an RB1?",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/onsi/fantasy/nfl/fantasy-football-week-8-stock-watch-risers-sell-high-on-tony-pollard-and-omar-cooper-is-josh-jacobs-an-rb1",
-      "publishedAt": "2026-10-26T15:34:37Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "AI earnings, a pivotal Fed decision, the midterms: Stocks are kicking off a crucial 2-week stretch",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-outlook-ai-earnings-fed-meeting-midterms-anthropic-s1-2026-10#article",
-      "publishedAt": "2026-10-26T15:28:49Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Fantasy Football Stock Report: Chase Brown continues to struggle while 3 other RB2s thrive in Week 7",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-stock-report-chase-brown-continues-to-struggle-while-3-other-rb2s-thrive-in-week-7-152155032.html",
-      "publishedAt": "2026-10-26T15:21:55Z",
-      "sentiment": "negative",
-      "score": -0.318
-    },
-    {
-      "title": "Will Donald Trump or AI blow up financial markets first?",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-27/will-donald-trump-or-ai-blow-up-financial-markets-first/107311432",
-      "publishedAt": "2026-10-26T15:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Fantasy Football Waiver Wire Week 8: Caleb Douglas breaks out, Omar Cooper Jr. stays hot",
-      "source": "NBCSports.com",
-      "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-waiver-wire-week-8-caleb-douglas-breaks-out-omar-cooper-jr-stays-hot",
-      "publishedAt": "2026-10-26T14:43:37Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Surgery Partners Stock Soars 46% as Bon Secours Affiliate Agrees to $5.7 Billion Deal to Take Company Private",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/surgery-partners-bon-secours-5-7-billion-deal-1877412",
-      "publishedAt": "2026-10-26T14:28:16Z",
-      "sentiment": "positive",
-      "score": 0.202
-    },
-    {
-      "title": "Why is Verizon stock down today? Verizon Communications Inc share price falls at US Stock Market",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/verizon-stock-vz-stock-price-verizon-communications-inc-forecast-ai-deal/articleshow/135213791.cms",
-      "publishedAt": "2026-10-26T14:21:37Z",
-      "sentiment": "positive",
-      "score": 0.296
-    },
-    {
-      "title": "AI giant Anthropic files for an IPO that could break records",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-      "publishedAt": "2026-10-26T14:16:23Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "When nematodes take flight: Multi-scale dispersal of the beech leaf disease nematode in forest ecosystems",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361390",
-      "publishedAt": "2026-10-26T14:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Effects of egg-mass-dissolving substances on the post-embryonic development of Chrysomya megacephala (Fabricius, 1794) and Chrysomya putoria (Wiedemann, 1830) (Diptera: Calliphoridae): Implications for maggot therapy",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361039",
-      "publishedAt": "2026-10-26T14:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback",
-      "publishedAt": "2026-10-26T13:27:38Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
-      "publishedAt": "2026-10-26T13:24:38Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 26th October 2026",
-      "source": "Iasbaba.com",
-      "url": "https://iasbaba.com/2026/10/daily-current-affairs-ias-upsc-prelims-and-mains-exam-26th-october-2026/",
-      "publishedAt": "2026-10-26T13:20:53Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Fed Inflation Crossroads",
+      "title": "JPMorgan CEO Warns of 5 Risks Threatening US Stocks and Bonds",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b74a35614e05bbed",
-      "publishedAt": "2026-10-26T13:00:03Z",
+      "url": "https://biztoc.com/x/c06c446f6ed4d1d2",
+      "publishedAt": "2026-10-27T16:59:59Z",
+      "sentiment": "negative",
+      "score": -0.71
+    },
+    {
+      "title": "Europe mostly higher at close ahead of rate decisions",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3824bd4824de12c6",
+      "publishedAt": "2026-10-27T16:41:43Z",
       "sentiment": "neutral",
       "score": 0.0
+    },
+    {
+      "title": "Eagles News: \u201cIs there any part of this team to believe in right now?\u201d",
+      "source": "Bleeding Green Nation",
+      "url": "https://www.bleedinggreennation.com/news/188392/eagles-news-is-there-any-part-of-this-team-to-believe-in-right-now",
+      "publishedAt": "2026-10-27T15:37:54Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "source": "Zebra.rodeo",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "publishedAt": "2026-10-27T15:24:36Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "U.S. Stock Futures Point Higher as AI Developments and Earnings Support Market Recovery: Dow Jones, S&P, Nasdaq, Wall Street",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a3126301cc7e0108",
+      "publishedAt": "2026-10-27T14:42:03Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "A premature ovarian insufficiency-associated LMD-3 point mutation impairs protein stability and causes autophagic-lysosomal dysfunction in Caenorhabditis elegans",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361215",
+      "publishedAt": "2026-10-27T14:00:00Z",
+      "sentiment": "negative",
+      "score": -0.421
+    },
+    {
+      "title": "2013 Porsche Cayenne S at No Reserve",
+      "source": "Bringatrailer.com",
+      "url": "https://bringatrailer.com/listing/2013-porsche-cayenne-s-25/",
+      "publishedAt": "2026-10-27T13:10:09Z",
+      "sentiment": "negative",
+      "score": -0.296
+    },
+    {
+      "title": "For Sale By Gas Monkey Garage: A 1985 Chevrolet Camaro Z28",
+      "source": "Silodrome.com",
+      "url": "https://silodrome.com/1985-chevrolet-camaro-z28/",
+      "publishedAt": "2026-10-27T12:30:38Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "$110M ETF Inflow Fails to Lift Bitcoin Above $80K Before Fed",
+      "source": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/110m-etf-inflow-fails-to-lift-bitcoin-above-80k-before-fed/",
+      "publishedAt": "2026-10-27T12:19:35Z",
+      "sentiment": "negative",
+      "score": -0.421
+    },
+    {
+      "title": "Tech's relief rally extends as attention turns to tough decisions for the Fed",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html",
+      "publishedAt": "2026-10-27T12:09:19Z",
+      "sentiment": "positive",
+      "score": 0.477
+    },
+    {
+      "title": "Bitcoin hovers near $80,000 as AI stock jitters spill into crypto",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitcoin-below-80000-ai-stock-selloff/",
+      "publishedAt": "2026-10-27T11:46:22Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+      "publishedAt": "2026-10-27T11:32:45Z",
+      "sentiment": "negative",
+      "score": -0.273
+    },
+    {
+      "title": "Fed rate hikes are coming, but not this week: CNBC survey",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+      "publishedAt": "2026-10-27T11:10:01Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "publishedAt": "2026-10-27T11:06:22Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Nikkei Jumps 1.7% to Snap Three-Day Losing Streak as Advantest and SoftBank Lead AI Rebound in Tokyo",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/japan-nikkei-ai-chip-stocks-rally-1877461",
+      "publishedAt": "2026-10-27T10:57:01Z",
+      "sentiment": "negative",
+      "score": -0.382
     }
   ],
-  "fetched_at": "2026-10-27T16:58:39.077901"
+  "fetched_at": "2026-10-28T17:33:58.976731"
 }

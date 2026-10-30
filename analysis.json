@@ -1,136 +1,136 @@
 {
-  "overall_tone": "negative",
+  "overall_tone": "positive",
   "counts": {
-    "positive": 3,
-    "negative": 6,
-    "neutral": 6
+    "positive": 7,
+    "negative": 5,
+    "neutral": 3
   },
   "summary_lines": [
-    "3 of 15 headlines lean positive today.",
-    "6 of 15 headlines lean negative today.",
-    "6 of 15 headlines are neutral/mixed today."
+    "7 of 15 headlines lean positive today.",
+    "5 of 15 headlines lean negative today.",
+    "3 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Dem Mayor Revives Pre-2008 Mortgage Playbook That Helped Fuel Housing Crisis",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/28/dem-mayor-revives-pre-2008-mortgage-playbook-that-helped-fuel-housing-crisis",
-      "publishedAt": "2026-10-28T17:42:07Z",
-      "sentiment": "negative",
-      "score": -0.361
-    },
-    {
-      "title": "1977 Oldsmobile Cutlass S Colonnade 2-Door Hardtop Coupe 442 at No Reserve",
-      "source": "Bringatrailer.com",
-      "url": "https://bringatrailer.com/listing/1977-oldsmobile-cutlass-25/",
-      "publishedAt": "2026-10-28T16:20:14Z",
-      "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-      "publishedAt": "2026-10-28T16:19:29Z",
+      "title": "Jonah Coleman And Jeremiyah Love Headline The Week 8 Fantasy Football Rookie Stock Watch",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/onsi/fantasy/nfl/jonah-coleman-and-jeremiyah-love-headline-the-week-8-fantasy-football-rookie-stock-watch",
+      "publishedAt": "2026-10-29T15:58:09Z",
       "sentiment": "positive",
       "score": 0.637
     },
     {
-      "title": "Jos. A. Bank puts customer experience at the center of new store concept",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/",
-      "publishedAt": "2026-10-28T15:56:00Z",
+      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data",
+      "publishedAt": "2026-10-29T15:39:54Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "S&P 500 pulls within 1.2% of its all-time high even as majority of its stocks fell: Broadcom, Nvidia and other AI stocks made up the difference",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/28/sp-500-1-2-all-time-high-broadcom-nvidia-ai-stock/",
-      "publishedAt": "2026-10-28T15:53:03Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Micron Stock Jumps Nearly 5% Toward $1,000 as SK Hynix Blowout Quarter and Memory Shortage Outlook Fuel Rally",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/micron-shares-rise-sk-hynix-ai-memory-demand-1877535",
-      "publishedAt": "2026-10-28T15:34:34Z",
-      "sentiment": "negative",
-      "score": -0.25
-    },
-    {
-      "title": "Weak returns at home fuel India's overseas retail investing boom",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms",
-      "publishedAt": "2026-10-28T15:33:19Z",
-      "sentiment": "negative",
-      "score": -0.44
-    },
-    {
-      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
-      "publishedAt": "2026-10-28T15:15:34Z",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135322160.cms",
+      "publishedAt": "2026-10-29T15:38:44Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "0xbeans proposes splitting tokenized stocks into two tradable tokens",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/0xbeans-isolated-exposure-tokens-tokenized-stocks/",
-      "publishedAt": "2026-10-28T14:59:33Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "title": "Consumer confidence edges up on decline in gas prices: Conference Board",
+      "source": "CFO Dive",
+      "url": "https://www.cfodive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/872949/",
+      "publishedAt": "2026-10-29T15:35:00Z",
+      "sentiment": "positive",
+      "score": 0.511
     },
     {
-      "title": "Stock Market Today: Dow Falls Ahead Of Rate Decision, Warsh Comments; Robinhood Plunges (Live Coverage) - Investor's Business Daily",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186485064",
-      "publishedAt": "2026-10-28T14:54:14Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Sugar will likely be a bitter pill for Indian consumers over the next year",
+      "title": "Stock against shock",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/sugar-will-likely-be-a-bitter-pill-for-indian-consumers-over-the-next-year/article71636397.ece",
-      "publishedAt": "2026-10-28T13:55:47Z",
+      "url": "https://www.thehindubusinessline.com/opinion/editorial/stock-against-shock/article71640479.ece",
+      "publishedAt": "2026-10-29T15:27:30Z",
       "sentiment": "negative",
-      "score": -0.421
+      "score": -0.382
     },
     {
-      "title": "U.S. Stocks Hold Steady As The Countdown Ticks To A Federal Reserve Decision On Interest Rates",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/stocks-edge-higher-ahead-federal-reserve-decision-interest-rates_n_6ae1fbfbe4b0a2cccd444001",
-      "publishedAt": "2026-10-28T13:50:11Z",
+      "title": "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-among-2-stocks-to-buy-for-friday-for-healthy-returns/articleshow/135321713.cms",
+      "publishedAt": "2026-10-29T15:19:42Z",
       "sentiment": "positive",
-      "score": 0.459
+      "score": 0.402
     },
     {
-      "title": "Roll out red carpet for dollar, make capital gains tax zero: Shankar Sharma",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/specials/bs-events/roll-out-red-carpet-for-dollar-make-capital-gains-tax-zero-shankar-sharma-126102801349_1.html",
-      "publishedAt": "2026-10-28T13:34:15Z",
+      "title": "Equitas MD quits citing overhang from daughter's business, shares crash",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/banking/equitas-md-quits-citing-overhang-from-daughters-business-shares-crash-11793281225794.html",
+      "publishedAt": "2026-10-29T15:05:06Z",
+      "sentiment": "negative",
+      "score": -0.128
+    },
+    {
+      "title": "Fed rate hold offers little comfort to Indian markets as two members seek a hike",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/fed-rate-hold-offers-little-comfort-to-indian-markets-as-two-members-seek-a-hike/article71641208.ece",
+      "publishedAt": "2026-10-29T15:02:48Z",
       "sentiment": "positive",
-      "score": 0.34
+      "score": 0.297
     },
     {
-      "title": "Greenland Resources Provides Update on EUR 50 Million Equity Investment",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/greenland-resources-provides-update-on-eur-50-million-equity-investment",
-      "publishedAt": "2026-10-28T13:33:18Z",
+      "title": "Customer lifecycle management: How to turn buyers into ambassadors",
+      "source": "Getresponse.com",
+      "url": "https://www.getresponse.com/blog/customer-lifecycle-management",
+      "publishedAt": "2026-10-29T14:04:27Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Pentagon doomsday plan amid World War III fears: How US bases are planning to survive for 90 days as UK urges people to 'Be Ready' for crisis",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pentagon-doomsday-plan-amid-world-war-iii-fears-how-us-bases-are-planning-to-survive-for-90-days-as-uk-urges-people-to-be-ready-for-crisis/articleshow/135267557.cms",
-      "publishedAt": "2026-10-28T13:32:39Z",
+      "title": "Monetary Reform for the 2028 Election: President Andrew Jackson Defeats the Money Power; How the \u201cBank War\u201d Anticipated Today\u2019s Monetary Reform Movement. Part 1.5",
+      "source": "Substack.com",
+      "url": "https://montanarcc.substack.com/p/president-andrew-jackson-defeats",
+      "publishedAt": "2026-10-29T13:49:52Z",
       "sentiment": "negative",
-      "score": -0.92
+      "score": -0.318
+    },
+    {
+      "title": "Equitas Small Finance Bank chief PN Vasudevan plans exit over perceived conflict involving daughter's NBFC",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/equitas-small-finance-bank-chief-pn-vasudevan-plans-exit-over-perceived-conflict-involving-daughters-nbfc/articleshow/135337853.cms",
+      "publishedAt": "2026-10-29T13:34:08Z",
+      "sentiment": "negative",
+      "score": -0.318
+    },
+    {
+      "title": "Equitas Small Finance Bank chief PN Vasudevan plans exit over perceived conflict involving daughter's NBFC",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/equitas-small-finance-bank-chief-pn-vasudevan-plans-exit-over-perceived-conflict-involving-daughters-nbfc/articleshow/135317633.cms",
+      "publishedAt": "2026-10-29T13:34:08Z",
+      "sentiment": "negative",
+      "score": -0.318
+    },
+    {
+      "title": "Clean Android, Big Batteries: motorola 5G Phones to Consider in 2026 - english.punjabkesari.com",
+      "source": "Punjabkesari.com",
+      "url": "https://english.punjabkesari.com/business/clean-android-big-batteries-motorola-5g-phones-to-consider-in-2026/",
+      "publishedAt": "2026-10-29T13:24:09Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "Solink Raises $100+ Million in Fresh Funding: NYSE Content Update",
+      "source": "PR Newswire UK",
+      "url": "https://www.prnewswire.co.uk/news-releases/solink-raises-100-million-in-fresh-funding-nyse-content-update-302923732.html",
+      "publishedAt": "2026-10-29T12:55:00Z",
+      "sentiment": "positive",
+      "score": 0.318
+    },
+    {
+      "title": "Companies with high credit ratings shifting to bond market as bank loans become dearer",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/companies-with-high-credit-ratings-shifting-to-bond-market-as-bank-loans-become-dearer/articleshow/135309264.cms",
+      "publishedAt": "2026-10-29T12:13:53Z",
+      "sentiment": "positive",
+      "score": 0.67
     }
   ],
-  "fetched_at": "2026-10-29T17:44:12.073047"
+  "fetched_at": "2026-10-30T17:23:50.529882"
 }

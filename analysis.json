@@ -1,136 +1,136 @@
 {
-  "overall_tone": "positive",
+  "overall_tone": "negative",
   "counts": {
-    "positive": 7,
-    "negative": 5,
-    "neutral": 3
+    "positive": 3,
+    "negative": 6,
+    "neutral": 6
   },
   "summary_lines": [
-    "7 of 15 headlines lean positive today.",
-    "5 of 15 headlines lean negative today.",
-    "3 of 15 headlines are neutral/mixed today."
+    "3 of 15 headlines lean positive today.",
+    "6 of 15 headlines lean negative today.",
+    "6 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Jonah Coleman And Jeremiyah Love Headline The Week 8 Fantasy Football Rookie Stock Watch",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/onsi/fantasy/nfl/jonah-coleman-and-jeremiyah-love-headline-the-week-8-fantasy-football-rookie-stock-watch",
-      "publishedAt": "2026-10-29T15:58:09Z",
-      "sentiment": "positive",
-      "score": 0.637
-    },
-    {
-      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data",
-      "publishedAt": "2026-10-29T15:39:54Z",
+      "title": "Philip R. Lane: AI adoption in Europe",
+      "source": "Europa.eu",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+      "publishedAt": "2026-10-30T16:10:00Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+      "title": "US Stock Market is feeling AI investments pressure but check list of stocks that are jumping amidst Artificial Intelligence spending fears",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135322160.cms",
-      "publishedAt": "2026-10-29T15:38:44Z",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-is-feeling-ai-investments-pressure-but-check-list-of-stocks-that-are-jumping-amidst-artificial-intelligence-spending-fears/articleshow/135369044.cms",
+      "publishedAt": "2026-10-30T16:07:14Z",
       "sentiment": "neutral",
-      "score": 0.0
+      "score": 0.026
     },
     {
-      "title": "Consumer confidence edges up on decline in gas prices: Conference Board",
-      "source": "CFO Dive",
-      "url": "https://www.cfodive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/872949/",
-      "publishedAt": "2026-10-29T15:35:00Z",
-      "sentiment": "positive",
-      "score": 0.511
-    },
-    {
-      "title": "Stock against shock",
+      "title": "Indian millers bid higher rates to get FCI\u2019s wheat, offtake 100% in many States",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/editorial/stock-against-shock/article71640479.ece",
-      "publishedAt": "2026-10-29T15:27:30Z",
-      "sentiment": "negative",
-      "score": -0.382
-    },
-    {
-      "title": "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-among-2-stocks-to-buy-for-friday-for-healthy-returns/articleshow/135321713.cms",
-      "publishedAt": "2026-10-29T15:19:42Z",
-      "sentiment": "positive",
-      "score": 0.402
-    },
-    {
-      "title": "Equitas MD quits citing overhang from daughter's business, shares crash",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/banking/equitas-md-quits-citing-overhang-from-daughters-business-shares-crash-11793281225794.html",
-      "publishedAt": "2026-10-29T15:05:06Z",
-      "sentiment": "negative",
-      "score": -0.128
-    },
-    {
-      "title": "Fed rate hold offers little comfort to Indian markets as two members seek a hike",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/fed-rate-hold-offers-little-comfort-to-indian-markets-as-two-members-seek-a-hike/article71641208.ece",
-      "publishedAt": "2026-10-29T15:02:48Z",
-      "sentiment": "positive",
-      "score": 0.297
-    },
-    {
-      "title": "Customer lifecycle management: How to turn buyers into ambassadors",
-      "source": "Getresponse.com",
-      "url": "https://www.getresponse.com/blog/customer-lifecycle-management",
-      "publishedAt": "2026-10-29T14:04:27Z",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-millers-bid-higher-rates-to-get-fcis-wheat-offtake-100-in-many-states/article71645756.ece",
+      "publishedAt": "2026-10-30T15:22:15Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Monetary Reform for the 2028 Election: President Andrew Jackson Defeats the Money Power; How the \u201cBank War\u201d Anticipated Today\u2019s Monetary Reform Movement. Part 1.5",
-      "source": "Substack.com",
-      "url": "https://montanarcc.substack.com/p/president-andrew-jackson-defeats",
-      "publishedAt": "2026-10-29T13:49:52Z",
+      "title": "USA Crude Oil Stocks Drop Week on Week",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_week_on_week-30-oct-2026-184983-article/",
+      "publishedAt": "2026-10-30T15:13:40Z",
       "sentiment": "negative",
-      "score": -0.318
+      "score": -0.7
     },
     {
-      "title": "Equitas Small Finance Bank chief PN Vasudevan plans exit over perceived conflict involving daughter's NBFC",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/equitas-small-finance-bank-chief-pn-vasudevan-plans-exit-over-perceived-conflict-involving-daughters-nbfc/articleshow/135337853.cms",
-      "publishedAt": "2026-10-29T13:34:08Z",
-      "sentiment": "negative",
-      "score": -0.318
+      "title": " Y! Sports Biz: Sell the rumor, buy the Brews",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/y-sports-biz-sell-rumor-150137336.html",
+      "publishedAt": "2026-10-30T15:01:37Z",
+      "sentiment": "neutral",
+      "score": 0.0
     },
     {
-      "title": "Equitas Small Finance Bank chief PN Vasudevan plans exit over perceived conflict involving daughter's NBFC",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/equitas-small-finance-bank-chief-pn-vasudevan-plans-exit-over-perceived-conflict-involving-daughters-nbfc/articleshow/135317633.cms",
-      "publishedAt": "2026-10-29T13:34:08Z",
-      "sentiment": "negative",
-      "score": -0.318
+      "title": "Strategy\u2019s preferred-stock fix sets up renewed bitcoin buying, analysts say",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f01bf640473251ac",
+      "publishedAt": "2026-10-30T14:44:54Z",
+      "sentiment": "neutral",
+      "score": 0.0
     },
     {
-      "title": "Clean Android, Big Batteries: motorola 5G Phones to Consider in 2026 - english.punjabkesari.com",
-      "source": "Punjabkesari.com",
-      "url": "https://english.punjabkesari.com/business/clean-android-big-batteries-motorola-5g-phones-to-consider-in-2026/",
-      "publishedAt": "2026-10-29T13:24:09Z",
+      "title": "Bitcoin fell after the Fed\u2019s pause, but blaming interest rates misses the Binance shock",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock/",
+      "publishedAt": "2026-10-30T14:00:23Z",
+      "sentiment": "negative",
+      "score": -0.723
+    },
+    {
+      "title": "The sell-off for tech stocks worsens and drowns out strength elsewhere on Wall Street",
+      "source": "KPRC Click2Houston",
+      "url": "https://www.click2houston.com/business/2026/10/30/asian-trading-is-mixed-as-worries-about-ai-related-issues-grow/",
+      "publishedAt": "2026-10-30T13:38:31Z",
+      "sentiment": "negative",
+      "score": -0.477
+    },
+    {
+      "title": "100 Unhinged Things Trump Did That You May Have Forgotten",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/politics/political-commentary/trump-second-term-100-actions-forgotten-1235650305/",
+      "publishedAt": "2026-10-30T13:00:00Z",
+      "sentiment": "negative",
+      "score": -0.226
+    },
+    {
+      "title": "Jack Dorsey\u2019s Block seeks to turn Cash App into a primary banking platform",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/cash-app-banking-transformation/",
+      "publishedAt": "2026-10-30T12:43:24Z",
+      "sentiment": "negative",
+      "score": -0.44
+    },
+    {
+      "title": "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+      "publishedAt": "2026-10-30T12:31:40Z",
       "sentiment": "positive",
-      "score": 0.402
+      "score": 0.557
     },
     {
-      "title": "Solink Raises $100+ Million in Fresh Funding: NYSE Content Update",
+      "title": "BoB reports highest-ever quarterly profit of \u20b96,532 crore in Q2FY27",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/industry/banking/bob-reports-highest-ever-quarterly-profit-of-6-532-crore-in-q2fy27-126103001374_1.html",
+      "publishedAt": "2026-10-30T12:20:32Z",
+      "sentiment": "positive",
+      "score": 0.44
+    },
+    {
+      "title": "Cboe Global Markets Reports Results for Third Quarter 2026",
       "source": "PR Newswire UK",
-      "url": "https://www.prnewswire.co.uk/news-releases/solink-raises-100-million-in-fresh-funding-nyse-content-update-302923732.html",
-      "publishedAt": "2026-10-29T12:55:00Z",
-      "sentiment": "positive",
-      "score": 0.318
+      "url": "https://www.prnewswire.co.uk/news-releases/cboe-global-markets-reports-results-for-third-quarter-2026-302924416.html",
+      "publishedAt": "2026-10-30T11:30:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
     },
     {
-      "title": "Companies with high credit ratings shifting to bond market as bank loans become dearer",
+      "title": "Planning to invest in Meta, SpaceX or Nvidia? 3 risks Indian investors must know before buying US stocks",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/planning-to-invest-in-meta-spacex-or-nvidia-3-risks-indian-investors-must-know-before-buying-us-stocks-11793355293546.html",
+      "publishedAt": "2026-10-30T11:06:12Z",
+      "sentiment": "negative",
+      "score": -0.273
+    },
+    {
+      "title": "Nasdaq futures tumble over 2% as Amazon, Intel stoke AI spending concerns",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/companies-with-high-credit-ratings-shifting-to-bond-market-as-bank-loans-become-dearer/articleshow/135309264.cms",
-      "publishedAt": "2026-10-29T12:13:53Z",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-futures-tumble-over-2-as-amazon-intel-stoke-ai-spending-concerns/articleshow/135356130.cms",
+      "publishedAt": "2026-10-30T10:19:18Z",
       "sentiment": "positive",
-      "score": 0.67
+      "score": 0.178
     }
   ],
-  "fetched_at": "2026-10-30T17:23:50.529882"
+  "fetched_at": "2026-10-31T16:27:58.579128"
 }

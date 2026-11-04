@@ -1,128 +1,128 @@
 {
   "overall_tone": "neutral",
   "counts": {
-    "positive": 3,
-    "negative": 4,
-    "neutral": 7
+    "positive": 2,
+    "negative": 3,
+    "neutral": 9
   },
   "summary_lines": [
-    "3 of 14 headlines lean positive today.",
-    "4 of 14 headlines lean negative today.",
-    "7 of 14 headlines are neutral/mixed today."
+    "2 of 14 headlines lean positive today.",
+    "3 of 14 headlines lean negative today.",
+    "9 of 14 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "US voters in a sour economic mood heading into midterm elections",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/us-voters-in-a-sour-economic-mood-heading-into-midterm-elections-126110201688_1.html",
-      "publishedAt": "2026-11-02T17:50:40Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Broncos Stock Up, Stock Down: Week 8 vs. Chiefs",
-      "source": "Mile High Report",
-      "url": "https://www.milehighreport.com/denver-broncos-analysis/191014/broncos-stock-up-stock-down-week-8-chiefs",
-      "publishedAt": "2026-11-02T16:43:38Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Ravens stock up, stock down after embarrassing 36-10 loss to Bills",
-      "source": "USA Today",
-      "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/02/ravens-stock-up-stock-down-bills-week-8-2026/92564060007/",
-      "publishedAt": "2026-11-02T16:24:32Z",
-      "sentiment": "negative",
-      "score": -0.599
-    },
-    {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "publishedAt": "2026-11-02T15:41:12Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Coles' big gamble on Every Day Price program to win back Aussies - as stock plunges amid inflation battle stretching household budgets",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16258211/Coles-Day-Price-program-Woolworths-Aldi.html",
-      "publishedAt": "2026-11-02T13:48:54Z",
+      "title": "SBI eyes margin boost from rate hikes, but wary of consumption credit hit",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/banking/sbi-earnings-margin-nim-credit-banking-11793707357031.html",
+      "publishedAt": "2026-11-03T15:58:00Z",
       "sentiment": "positive",
-      "score": 0.296
+      "score": 0.643
     },
     {
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin",
-      "publishedAt": "2026-11-02T13:48:28Z",
+      "title": "Bitcoin and Treasury yields fall together in rare divergence as $80,000 recovery fails",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
+      "publishedAt": "2026-11-03T15:30:24Z",
+      "sentiment": "negative",
+      "score": -0.25
+    },
+    {
+      "title": "How to Build a Wooden Gate X 2 \u2013 An Open and Shut Case",
+      "source": "Homefixated.com",
+      "url": "https://homefixated.com/how-to-build-a-wooden-gate/",
+      "publishedAt": "2026-11-03T15:26:00Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
-      "publishedAt": "2026-11-02T13:19:36Z",
+      "title": "How Are U.S. Household Finances Doing?",
+      "source": "Awealthofcommonsense.com",
+      "url": "https://awealthofcommonsense.com/2026/11/how-are-u-s-household-finances-doing/",
+      "publishedAt": "2026-11-03T14:30:10Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Strategy buys 811 Bitcoin, repurchases $208 million in STRC shares",
+      "title": "Is the stock market open on Election Day, today?",
+      "source": "Rolling Out",
+      "url": "https://rollingout.com/2026/11/03/is-election-day-a-federal-holiday-stock/",
+      "publishedAt": "2026-11-03T14:27:02Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "The Precious Metals Crisis That Could Trigger a Global Financial\u00a0Reckoning",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/the-precious-metals-crisis-that-could-trigger-a-global-financial-reckoning/",
+      "publishedAt": "2026-11-03T14:00:00Z",
+      "sentiment": "negative",
+      "score": -0.103
+    },
+    {
+      "title": "The economy is on the ballot. 3 charts reveal the reality voters face as they head to the polls",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/economy-ballot-3-charts-reveal-reality-voters-face-head-polls",
+      "publishedAt": "2026-11-03T13:30:45Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
+      "publishedAt": "2026-11-03T13:01:23Z",
+      "sentiment": "positive",
+      "score": 0.383
+    },
+    {
+      "title": "Buy, buy, buy! Why the Rams are suddenly the hottest stock in the NFL",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/03/sports/myles-garretts-return-sends-rams-stock-soaring-as-sean-mcvays-super-bowl-hopes-come-back-to-life/",
+      "publishedAt": "2026-11-03T13:00:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "US midterm elections 2026: Are banks open on Election Day? Is the US stock market open today? November 3 trading schedule for Dow Jones, S&P 500 and Nasdaq",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-midterm-elections-2026-are-banks-open-on-election-day-is-the-stock-market-open-november-3-federal-holiday-status-bank-hours-and-closures-full-guide/articleshow/135495002.cms",
+      "publishedAt": "2026-11-03T12:33:15Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "For Sale: The Incredible \u201cFireball 500\u201d From 1966",
+      "source": "Silodrome.com",
+      "url": "https://silodrome.com/plymouth-barracuda-fireball-500-george-barris/",
+      "publishedAt": "2026-11-03T12:30:33Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Why Eagles firing Sean Mannion, benching Tanner McKee is wrong question",
+      "source": "The News Journal",
+      "url": "https://www.delawareonline.com/story/sports/nfl/eagles/2026/11/03/why-eagles-firing-sean-mannion-benching-tanner-mckee-is-wrong-question/92562690007/",
+      "publishedAt": "2026-11-03T11:32:44Z",
+      "sentiment": "negative",
+      "score": -0.67
+    },
+    {
+      "title": "H.C. Wainwright reiterates buy rating on Strategy with $250 price target",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-corporate-bitcoin-treasury/",
-      "publishedAt": "2026-11-02T13:11:40Z",
-      "sentiment": "positive",
-      "score": 0.296
-    },
-    {
-      "title": "SEC Staff Streamlines Form S-8, Rule 701, and Section 16 Guidance",
-      "source": "Harvard School of Engineering and Applied Sciences",
-      "url": "https://corpgov.law.harvard.edu/2026/11/02/sec-staff-streamlines-form-s-8-rule-701-and-section-16-guidance/",
-      "publishedAt": "2026-11-02T12:30:20Z",
+      "url": "https://cryptobriefing.com/hc-wainwright-buy-rating-strategy-250-target/",
+      "publishedAt": "2026-11-03T11:15:56Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-      "publishedAt": "2026-11-02T11:00:01Z",
-      "sentiment": "positive",
-      "score": 0.128
-    },
-    {
-      "title": "An Economist\u2019s Plan to Fight Fascism Through Lower Prices",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/article/217162/economist-plan-fight-fascism-lower-prices",
-      "publishedAt": "2026-11-02T11:00:00Z",
-      "sentiment": "negative",
-      "score": -0.586
-    },
-    {
-      "title": "Global investors slash dollar-hedging ratio to lowest since 2014",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/global-investors-slash-dollar-hedging-ratio-to-lowest-since-2014/article71656208.ece",
-      "publishedAt": "2026-11-02T10:46:37Z",
-      "sentiment": "negative",
-      "score": -0.572
-    },
-    {
-      "title": "5 charts that explain the economy\u2019s role in the midterm elections",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/economy/5-charts-2026-midterm-elections-rcna606589",
-      "publishedAt": "2026-11-02T10:30:00Z",
+      "title": "Chiefs News: Kingsley Suamataia\u2019s benching \u2018isn\u2019t punishment\u2019",
+      "source": "Arrowhead Pride",
+      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/215005/chiefs-news-kingsley-suamataias-benching-punishment",
+      "publishedAt": "2026-11-03T11:00:00Z",
       "sentiment": "neutral",
       "score": 0.0
-    },
-    {
-      "title": "US midterms loom, Tsipras abandons \u2018tea and sympathy\u2019, anti-establishment politics sells, and the suitors for EYDAP",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/11/02/us-midterms-loom-tsipras-abandons-tea-and-sympathy-anti-establishment-politics-sells-and-the-suitors-for-eydap/",
-      "publishedAt": "2026-11-02T10:04:33Z",
-      "sentiment": "negative",
-      "score": -0.494
     }
   ],
-  "fetched_at": "2026-11-03T18:45:40.906643"
+  "fetched_at": "2026-11-04T18:59:59.499194"
 }

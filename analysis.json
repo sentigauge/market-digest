@@ -1,128 +1,136 @@
 {
-  "overall_tone": "neutral",
+  "overall_tone": "positive",
   "counts": {
-    "positive": 2,
-    "negative": 3,
-    "neutral": 9
+    "positive": 8,
+    "negative": 4,
+    "neutral": 3
   },
   "summary_lines": [
-    "2 of 14 headlines lean positive today.",
-    "3 of 14 headlines lean negative today.",
-    "9 of 14 headlines are neutral/mixed today."
+    "8 of 15 headlines lean positive today.",
+    "4 of 15 headlines lean negative today.",
+    "3 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "SBI eyes margin boost from rate hikes, but wary of consumption credit hit",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/banking/sbi-earnings-margin-nim-credit-banking-11793707357031.html",
-      "publishedAt": "2026-11-03T15:58:00Z",
+      "title": "Fantasy Football Trade Tips: Two rookie WRs on bye among players to target in deals",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-trade-tips-two-rookie-wrs-on-bye-among-players-to-target-in-deals-184019811.html",
+      "publishedAt": "2026-11-04T18:40:19Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Activists Hope Midterm Wins Set the Stage for Renewed Energy and Climate Policy",
+      "source": "InsideClimate News",
+      "url": "https://insideclimatenews.org/news/04112026/democrats-seize-congress-statehouses-in-referendum-on-the-economy/",
+      "publishedAt": "2026-11-04T18:21:11Z",
       "sentiment": "positive",
-      "score": 0.643
+      "score": 0.827
     },
     {
-      "title": "Bitcoin and Treasury yields fall together in rare divergence as $80,000 recovery fails",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
-      "publishedAt": "2026-11-03T15:30:24Z",
-      "sentiment": "negative",
-      "score": -0.25
-    },
-    {
-      "title": "How to Build a Wooden Gate X 2 \u2013 An Open and Shut Case",
-      "source": "Homefixated.com",
-      "url": "https://homefixated.com/how-to-build-a-wooden-gate/",
-      "publishedAt": "2026-11-03T15:26:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "How Are U.S. Household Finances Doing?",
-      "source": "Awealthofcommonsense.com",
-      "url": "https://awealthofcommonsense.com/2026/11/how-are-u-s-household-finances-doing/",
-      "publishedAt": "2026-11-03T14:30:10Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Is the stock market open on Election Day, today?",
-      "source": "Rolling Out",
-      "url": "https://rollingout.com/2026/11/03/is-election-day-a-federal-holiday-stock/",
-      "publishedAt": "2026-11-03T14:27:02Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "The Precious Metals Crisis That Could Trigger a Global Financial\u00a0Reckoning",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/the-precious-metals-crisis-that-could-trigger-a-global-financial-reckoning/",
-      "publishedAt": "2026-11-03T14:00:00Z",
-      "sentiment": "negative",
-      "score": -0.103
-    },
-    {
-      "title": "The economy is on the ballot. 3 charts reveal the reality voters face as they head to the polls",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/economy-ballot-3-charts-reveal-reality-voters-face-head-polls",
-      "publishedAt": "2026-11-03T13:30:45Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
-      "publishedAt": "2026-11-03T13:01:23Z",
-      "sentiment": "positive",
-      "score": 0.383
-    },
-    {
-      "title": "Buy, buy, buy! Why the Rams are suddenly the hottest stock in the NFL",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/03/sports/myles-garretts-return-sends-rams-stock-soaring-as-sean-mcvays-super-bowl-hopes-come-back-to-life/",
-      "publishedAt": "2026-11-03T13:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "US midterm elections 2026: Are banks open on Election Day? Is the US stock market open today? November 3 trading schedule for Dow Jones, S&P 500 and Nasdaq",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-midterm-elections-2026-are-banks-open-on-election-day-is-the-stock-market-open-november-3-federal-holiday-status-bank-hours-and-closures-full-guide/articleshow/135495002.cms",
-      "publishedAt": "2026-11-03T12:33:15Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "For Sale: The Incredible \u201cFireball 500\u201d From 1966",
-      "source": "Silodrome.com",
-      "url": "https://silodrome.com/plymouth-barracuda-fireball-500-george-barris/",
-      "publishedAt": "2026-11-03T12:30:33Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Why Eagles firing Sean Mannion, benching Tanner McKee is wrong question",
-      "source": "The News Journal",
-      "url": "https://www.delawareonline.com/story/sports/nfl/eagles/2026/11/03/why-eagles-firing-sean-mannion-benching-tanner-mckee-is-wrong-question/92562690007/",
-      "publishedAt": "2026-11-03T11:32:44Z",
-      "sentiment": "negative",
-      "score": -0.67
-    },
-    {
-      "title": "H.C. Wainwright reiterates buy rating on Strategy with $250 price target",
+      "title": "Strategy\u2019s Stretch preferred stock climbs back to $100 par value",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hc-wainwright-buy-rating-strategy-250-target/",
-      "publishedAt": "2026-11-03T11:15:56Z",
+      "url": "https://cryptobriefing.com/strategy-stretch-strc-returns-par-value/",
+      "publishedAt": "2026-11-04T17:48:21Z",
+      "sentiment": "positive",
+      "score": 0.34
+    },
+    {
+      "title": "Gold and silver prices jump as Democrats win Congress",
+      "source": "Rolling Out",
+      "url": "https://rollingout.com/2026/11/04/gold-and-silver-democrats-win-congress/",
+      "publishedAt": "2026-11-04T17:35:09Z",
+      "sentiment": "positive",
+      "score": 0.586
+    },
+    {
+      "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+      "publishedAt": "2026-11-04T16:49:31Z",
+      "sentiment": "negative",
+      "score": -0.329
+    },
+    {
+      "title": "Georges Kern Is Betting Gallet Can Reach Buyers Breitling Misses",
+      "source": "Observer",
+      "url": "https://observer.com/2026/11/watch-collecting-interview-georges-kern-reviving-gallet-breitling/",
+      "publishedAt": "2026-11-04T16:45:58Z",
+      "sentiment": "negative",
+      "score": -0.202
+    },
+    {
+      "title": "Patriots News: Defense must play clean, force punts vs. Packers",
+      "source": "Pats Pulpit",
+      "url": "https://www.patspulpit.com/new-england-patriots-news/142979/patriots-news-defense-play-clean-force-punts-vs-packers",
+      "publishedAt": "2026-11-04T16:06:16Z",
+      "sentiment": "positive",
+      "score": 0.681
+    },
+    {
+      "title": "The Value of Appreciation",
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/the-psychological-millionaire/202611/the-value-of-appreciation",
+      "publishedAt": "2026-11-04T16:02:25Z",
+      "sentiment": "positive",
+      "score": 0.691
+    },
+    {
+      "title": "The Grid Today, Nov. 4: Haas Gives Rafael C\u00e2mara a Formula 1 Debut at Home",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/grid-today-nov-4-haas-160000648.html",
+      "publishedAt": "2026-11-04T16:00:00Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Chiefs News: Kingsley Suamataia\u2019s benching \u2018isn\u2019t punishment\u2019",
-      "source": "Arrowhead Pride",
-      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/215005/chiefs-news-kingsley-suamataias-benching-punishment",
-      "publishedAt": "2026-11-03T11:00:00Z",
+      "title": "Ilya Kosmodemiansky: The \u201cdefault\u201d postgresql.conf",
+      "source": "Dataegret.com",
+      "url": "https://dataegret.com/2026/11/default-postgresql-conf-part-1-connection-settings/",
+      "publishedAt": "2026-11-04T14:54:53Z",
       "sentiment": "neutral",
       "score": 0.0
+    },
+    {
+      "title": "Circle Cuts 5% of Staff Despite $226M in Q3 Net Income",
+      "source": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/companies/circle-cuts-5-of-staff-despite-226m-in-q3-net-income/",
+      "publishedAt": "2026-11-04T14:54:36Z",
+      "sentiment": "negative",
+      "score": -0.296
+    },
+    {
+      "title": "Biggest surprises from initial CFP Rankings; Ravens starting an undrafted rookie QB on 'TNF'",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/biggest-surprises-from-initial-cfp-rankings-ravens-starting-an-undrafted-rookie-qb-on-tnf/",
+      "publishedAt": "2026-11-04T13:53:59Z",
+      "sentiment": "positive",
+      "score": 0.226
+    },
+    {
+      "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
+      "publishedAt": "2026-11-04T13:25:01Z",
+      "sentiment": "positive",
+      "score": 0.077
+    },
+    {
+      "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382493/usdc-issuer-circle-quietly-cuts-5-of-staff-in-profitable-quarter",
+      "publishedAt": "2026-11-04T12:44:00Z",
+      "sentiment": "positive",
+      "score": 0.178
+    },
+    {
+      "title": "For Sale: The 1969 Reliant Supervan III From \u201cOnly Fools and Horses\u201d",
+      "source": "Silodrome.com",
+      "url": "https://silodrome.com/for-sale-the-1969-reliant-supervan-iii-from-only-fools-and-horses/",
+      "publishedAt": "2026-11-04T12:30:22Z",
+      "sentiment": "negative",
+      "score": -0.402
     }
   ],
-  "fetched_at": "2026-11-04T18:59:59.499194"
+  "fetched_at": "2026-11-05T19:11:55.479728"
 }

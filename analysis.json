@@ -1,136 +1,136 @@
 {
-  "overall_tone": "positive",
+  "overall_tone": "neutral",
   "counts": {
-    "positive": 8,
+    "positive": 3,
     "negative": 2,
-    "neutral": 5
+    "neutral": 10
   },
   "summary_lines": [
-    "8 of 15 headlines lean positive today.",
+    "3 of 15 headlines lean positive today.",
     "2 of 15 headlines lean negative today.",
-    "5 of 15 headlines are neutral/mixed today."
+    "10 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Serica 8315 GMT Golden Green pairs a two-tone ceramic bezel with an olive enamel dial",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/08/serica-8315-gmt-golden-green/",
-      "publishedAt": "2026-11-08T21:00:00Z",
+      "title": "AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ai-selloff-impact-bitcoin-recovery/",
+      "publishedAt": "2026-11-09T18:59:24Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "The market bloodbath just exposed Wall Street\u2019s true fears about U.S. debt, top economist warns",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/",
-      "publishedAt": "2026-11-08T20:46:04Z",
-      "sentiment": "negative",
-      "score": -0.34
-    },
-    {
-      "title": "Nasdaq rebounds but with fourth straight weekly decline",
-      "source": "PerthNow",
-      "url": "https://www.perthnow.com.au/news/business/markets/nasdaq-rebounds-but-with-fourth-straight-weekly-decline-c-23133256",
-      "publishedAt": "2026-11-08T20:32:24Z",
-      "sentiment": "positive",
-      "score": 0.329
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/full-transcript-face-the-nation-with-margaret-brennan-11-08-2026/",
-      "publishedAt": "2026-11-08T19:27:07Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-      "source": "Medianewsgroup.com",
-      "url": "https://wirehub.medianewsgroup.com/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
-      "publishedAt": "2026-11-08T18:26:38Z",
-      "sentiment": "positive",
-      "score": 0.178
-    },
-    {
-      "title": "Japan Stocks Face Volatile Week After Historic Selloff",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/151291.php",
-      "publishedAt": "2026-11-08T17:46:39Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Heads or Tails, Wall Street Wins: Saving Our Pensions From The Casino",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/heads-tails-wall-street-wins-saving-pensions-casino/5945395",
-      "publishedAt": "2026-11-08T16:48:46Z",
-      "sentiment": "positive",
-      "score": 0.572
-    },
-    {
-      "title": "Bitcoin Treasury Company Chart: Will Strategy Buy More BTC?",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/bitcoin-treasury-company-strategy-saylor-buy/",
-      "publishedAt": "2026-11-08T15:11:29Z",
-      "sentiment": "positive",
-      "score": 0.202
-    },
-    {
-      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
-      "publishedAt": "2026-11-08T14:16:52Z",
-      "sentiment": "positive",
-      "score": 0.178
-    },
-    {
-      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-      "source": "KSAT San Antonio",
-      "url": "https://www.ksat.com/news/politics/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
-      "publishedAt": "2026-11-08T13:41:43Z",
-      "sentiment": "positive",
-      "score": 0.178
-    },
-    {
-      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/articleshow/135659761.cms",
-      "publishedAt": "2026-11-08T13:09:54Z",
-      "sentiment": "positive",
-      "score": 0.178
-    },
-    {
-      "title": "Stanbic raises lending rates as Uganda tightens monetary policy - NewSwift",
-      "source": "Newswift.co.ug",
-      "url": "https://newswift.co.ug/business/stanbic-raises-lending-rates-as-uganda-tightens-monetary-policy/",
-      "publishedAt": "2026-11-08T12:27:48Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Digital Asset Trading vs the NYSE: What Does Fidelity See for Bitcoin?",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/digital-asset-trading-solana-nyse-bitcoin/",
-      "publishedAt": "2026-11-08T12:09:27Z",
-      "sentiment": "positive",
-      "score": 0.361
-    },
-    {
-      "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
+      "title": "The missing step in the warning that Japan could trigger Bitcoin\u2019s next selloff",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/",
-      "publishedAt": "2026-11-08T11:20:50Z",
+      "url": "https://cryptoslate.com/the-missing-step-in-the-warning-that-japan-could-trigger-bitcoins-next-selloff/",
+      "publishedAt": "2026-11-09T18:20:52Z",
       "sentiment": "negative",
-      "score": -0.077
+      "score": -0.557
     },
     {
-      "title": "Klokers\u2019 first automatic watch tells time on three rotating discs",
+      "title": "Super League Has Doubled Every Bitcoin Buy Since October, Reaching 16 BTC This Week",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/bitcoin-news/sle-stock-super-league-bitcoin-purchase/",
+      "publishedAt": "2026-11-09T18:07:14Z",
+      "sentiment": "positive",
+      "score": 0.691
+    },
+    {
+      "title": "Why cost-of-living concerns are up-ending global politics",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-11-10/why-cost-of-living-concerns-are-up-ending-global-politics-us-nz/107365544",
+      "publishedAt": "2026-11-09T18:00:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Bitcoin holds near $75,000 after tech stock rout, altcoins suffer steeper losses",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/09/bitcoin-75000-tech-stock-rout-altcoins-steeper-losses/",
+      "publishedAt": "2026-11-09T17:43:56Z",
+      "sentiment": "negative",
+      "score": -0.735
+    },
+    {
+      "title": "Starbucks debuts surprise \u2018Mystery Boxes\u2019 including viral Bearista cups \u2014 in 5 festive new characters",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/09/lifestyle/starbucks-debuts-mystery-boxes-with-viral-bearista-cups/",
+      "publishedAt": "2026-11-09T17:32:32Z",
+      "sentiment": "positive",
+      "score": 0.625
+    },
+    {
+      "title": "Omega\u2019s green Seamaster Diver 300M, handled: the ceramic green is real and the strap pushes back",
       "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/08/klokers-klok-03-first-automatic/",
-      "publishedAt": "2026-11-08T11:00:00Z",
+      "url": "https://the-gadgeteer.com/2026/11/09/omega-seamaster-diver-300m-green-dial-hands-on/",
+      "publishedAt": "2026-11-09T16:51:28Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "DWISS S1 wandering hours is nearly sold out, with the anniversary colors down to the last piece",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/09/dwiss-s1-wandering-hours-is-nearly-sold-out-with-the-anniversary-colors-down-to-the-last-piece/",
+      "publishedAt": "2026-11-09T16:49:39Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Strive\u2019s SATS preferred stock pays its first daily dividend",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strive-sats-preferred-first-daily-dividend/",
+      "publishedAt": "2026-11-09T16:45:38Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "\u4e3b\u8981\u306a\u91d1\u878d\u653f\u7b56\u30b7\u30e7\u30c3\u30af",
+      "source": "Hatenablog.com",
+      "url": "https://himaginary.hatenablog.com/entry/20261109/Main_Monetary_Policy_Shock",
+      "publishedAt": "2026-11-09T14:59:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc",
+      "publishedAt": "2026-11-09T13:29:47Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
+      "publishedAt": "2026-11-09T13:24:29Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Strategy buys 1,037 Bitcoin, total holdings reach 850,364 BTC",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strategy-buys-1037-bitcoin-850364-btc/",
+      "publishedAt": "2026-11-09T13:05:29Z",
+      "sentiment": "positive",
+      "score": 0.097
+    },
+    {
+      "title": "Strategy buys 1,036 Bitcoin, repurchases $188 million of STRC",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strategy-buys-1036-bitcoin-repurchases-188-million-of-strc/",
+      "publishedAt": "2026-11-09T13:05:07Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Blended Balsamic Dressing",
+      "source": "Katheats.com",
+      "url": "https://www.katheats.com/blended-balsamic-dressing",
+      "publishedAt": "2026-11-09T12:00:00Z",
       "sentiment": "neutral",
       "score": 0.0
     }
   ],
-  "fetched_at": "2026-11-09T21:43:03.786111"
+  "fetched_at": "2026-11-10T19:00:10.480549"
 }

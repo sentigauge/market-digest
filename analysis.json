@@ -1,136 +1,136 @@
 {
   "overall_tone": "neutral",
   "counts": {
-    "positive": 1,
+    "positive": 2,
     "negative": 6,
-    "neutral": 8
+    "neutral": 7
   },
   "summary_lines": [
-    "1 of 15 headlines lean positive today.",
+    "2 of 15 headlines lean positive today.",
     "6 of 15 headlines lean negative today.",
-    "8 of 15 headlines are neutral/mixed today."
+    "7 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "ISO vs NSO: Which Stock Options Cost Your Team (and Your Cap Table) Less?",
-      "source": "Addicted2success.com",
-      "url": "https://addicted2success.com/business-advice/iso-vs-nso/",
-      "publishedAt": "2026-11-10T18:34:18Z",
+      "title": "TAG Heuer and Time+Tide Reunite for the Aquaracer Sundowner II",
+      "source": "Wornandwound.com",
+      "url": "https://wornandwound.com/tag-heuer-and-timetide-reunite-for-the-aquaracer-sundowner-ii/",
+      "publishedAt": "2026-11-11T19:00:48Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Bengals Land Pass Rusher Arnold Ebiketie From Eagles for Sixth-Round Pick as Philadelphia Sell-Off Continues",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/bengals-acquire-arnold-ebiketie-eagles-1878320",
-      "publishedAt": "2026-11-10T17:20:21Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Bitcoin nears 11-week low after \u2018discouraging\u2019 US CPI inflation beat",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
-      "publishedAt": "2026-11-10T16:25:03Z",
-      "sentiment": "negative",
-      "score": -0.273
-    },
-    {
-      "title": "Hot October U.S. CPI Sends Bitcoin and Ether Lower",
-      "source": "Bitcoinfoundation.org",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/hot-october-u-s-cpi-sends-bitcoin-and-ether-lower/",
-      "publishedAt": "2026-11-10T16:12:42Z",
-      "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/october-inflation-cpi-interest-rates-bond-yields-stock-market-2026-11#article",
-      "publishedAt": "2026-11-10T15:53:25Z",
-      "sentiment": "negative",
-      "score": -0.153
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500 sink after CPI data raises Fed rate-hike bets",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9151c7c55165a498",
-      "publishedAt": "2026-11-10T15:37:36Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "No One Buys Corn in the Corn Market",
-      "source": "Argmin.net",
-      "url": "https://www.argmin.net/p/no-one-buys-corn-in-the-corn-market",
-      "publishedAt": "2026-11-10T15:20:30Z",
-      "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "Jim Cramer calls Nvidia cheapest in a decade amid stock selloff",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/jim-cramer-calls-nvidia-cheapest-in-a-decade-amid-stock-selloff/",
-      "publishedAt": "2026-11-10T14:58:46Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Strategy spent more than twice as much on preferred buybacks as Bitcoin last week",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-buybacks-as-bitcoin-last-week/",
-      "publishedAt": "2026-11-10T14:49:06Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "US stocks fall after worse-than-expected report on inflation",
-      "source": "Medianewsgroup.com",
-      "url": "https://wirehub.medianewsgroup.com/2026/11/10/wall-street-mixed-in-early-trading-ahead-of-a-new-peek-at-inflation/",
-      "publishedAt": "2026-11-10T14:41:38Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4efa96a0abb1d681",
-      "publishedAt": "2026-11-10T14:17:11Z",
-      "sentiment": "positive",
-      "score": 0.202
-    },
-    {
-      "title": "Long-horizon agents and durable execution",
-      "source": "Martinfowler.com",
-      "url": "https://martinfowler.com/articles/durable-execution-agents.html",
-      "publishedAt": "2026-11-10T14:10:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "When gold has two masters: Demand versus rates and inflation",
-      "source": "The Punch",
-      "url": "https://punchng.com/when-gold-has-two-masters-demand-versus-rates-and-inflation/",
-      "publishedAt": "2026-11-10T14:03:46Z",
-      "sentiment": "negative",
-      "score": -0.128
-    },
-    {
-      "title": "Inflation rose 0.4% last month, more than expected | CNN Business",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october",
-      "publishedAt": "2026-11-10T13:49:06Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
+      "title": "Analysis: Is Nvidia too big to fail?\u00a0Its AI financing web raises the stakes",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html",
-      "publishedAt": "2026-11-10T13:19:13Z",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "publishedAt": "2026-11-11T18:09:50Z",
       "sentiment": "negative",
-      "score": -0.557
+      "score": -0.542
+    },
+    {
+      "title": "Vanguard Down? Investors Report Login Problems With Brokerage Accounts During Volatile Wednesday Trading",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/vanguard-customers-report-login-problems-during-trading-session-1878430",
+      "publishedAt": "2026-11-11T17:41:56Z",
+      "sentiment": "negative",
+      "score": -0.402
+    },
+    {
+      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties, Collusions, Corruptions, and Crimes: October 2026: Atrocities 1354-1437",
+      "source": "Mcsweeneys.net",
+      "url": "https://www.mcsweeneys.net/articles/october-2026-atrocities-1354-1437",
+      "publishedAt": "2026-11-11T17:30:00Z",
+      "sentiment": "negative",
+      "score": -0.836
+    },
+    {
+      "title": "13k-Mile 1991 Mercedes-Benz 560SEC",
+      "source": "Bringatrailer.com",
+      "url": "https://bringatrailer.com/listing/1991-mercedes-benz-560sec-87-2/",
+      "publishedAt": "2026-11-11T16:40:01Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi",
+      "publishedAt": "2026-11-11T16:26:00Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Skip the Turkey! This Thanksgiving Chicken and Gravy Was a Huge Hit",
+      "source": "Skinnytaste.com",
+      "url": "https://www.skinnytaste.com/thanksgiving-chicken-and-gravy/",
+      "publishedAt": "2026-11-11T16:03:25Z",
+      "sentiment": "positive",
+      "score": 0.38
+    },
+    {
+      "title": "Fantasy Football Wide Receiver Rankings: Week 10 2026",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/fantasy-sports/fantasy-football-wide-receiver-rankings-week-10-2026",
+      "publishedAt": "2026-11-11T15:53:05Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Nikkei 225 Rises for Third Straight Day to 61,248 as AI Chip Stocks Rebound Despite U.S. Inflation Worries",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/nikkei-rises-ai-semiconductor-shares-rebound-1878386",
+      "publishedAt": "2026-11-11T15:39:42Z",
+      "sentiment": "positive",
+      "score": 0.499
+    },
+    {
+      "title": "Nebius Stock Surges 15% Ahead of Thursday Earnings as CoreWeave Blowout Lifts Beaten-Down AI Cloud Stocks",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/nebius-shares-surge-ahead-third-quarter-results-1878398",
+      "publishedAt": "2026-11-11T15:38:09Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Dow Hovers Near Flat as Nasdaq Rallies on CoreWeave AI Rebound While Rate-Hike Fears Weigh on Blue Chips",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/nasdaq-rises-coreweave-earnings-revive-ai-trade-1878384",
+      "publishedAt": "2026-11-11T15:29:42Z",
+      "sentiment": "negative",
+      "score": -0.421
+    },
+    {
+      "title": "US stock market today: S&P 500 and Nasdaq race towards record highs as Nvidia leads AI stock comeback, CoreWeave surges 16% \u2013 why is Dow Jones missing the rally?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-and-nasdaq-race-towards-record-highs-as-nvidia-leads-ai-stock-comeback-coreweave-surges-16-why-is-dow-jones-missing-the-rally/articleshow/135741399.cms",
+      "publishedAt": "2026-11-11T15:21:59Z",
+      "sentiment": "negative",
+      "score": -0.296
+    },
+    {
+      "title": "Who is Bahram Vakil? Tata Investment Corporation appoints new chairman as Noel Tata retires from position",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/people/who-is-bahram-vakil-tata-investment-corporation-appoints-new-chairman-as-noel-tata-retires-from-position-11794407738833.html",
+      "publishedAt": "2026-11-11T15:18:58Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Rate Hike?",
+      "source": "Reason",
+      "url": "https://reason.com/2026/11/11/rate-hike/",
+      "publishedAt": "2026-11-11T14:30:05Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "The M390 folder you can turn into an automatic at home just went titanium, in a limited Reserve run",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/11/the-m390-folder-you-can-turn-into-an-automatic-at-home-just-went-titanium-in-a-limited-reserve-run/",
+      "publishedAt": "2026-11-11T14:26:10Z",
+      "sentiment": "negative",
+      "score": -0.226
     }
   ],
-  "fetched_at": "2026-11-11T18:58:29.769865"
+  "fetched_at": "2026-11-12T19:17:07.088222"
 }

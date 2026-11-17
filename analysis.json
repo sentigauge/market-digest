@@ -1,128 +1,128 @@
 {
   "overall_tone": "negative",
   "counts": {
-    "positive": 4,
-    "negative": 5,
+    "positive": 3,
+    "negative": 6,
     "neutral": 5
   },
   "summary_lines": [
-    "4 of 14 headlines lean positive today.",
-    "5 of 14 headlines lean negative today.",
+    "3 of 14 headlines lean positive today.",
+    "6 of 14 headlines lean negative today.",
     "5 of 14 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Karnataka Bank appoints Biji SS as interim MD and CEO",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/karnataka-bank-appoints-biji-ss-as-interim-md-and-ceo/article71705717.ece",
-      "publishedAt": "2026-11-15T21:13:24Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Retail investors boost Nvidia holdings as hedge funds pull back",
+      "title": "Michael Saylor says Strategy wants to be the world\u2019s most valuable company, with Bitcoin as the engine",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/retail-investors-boost-nvidia-holdings-as-hedge-funds-pull-back/",
-      "publishedAt": "2026-11-15T21:08:26Z",
+      "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
+      "publishedAt": "2026-11-16T19:45:11Z",
       "sentiment": "positive",
-      "score": 0.402
+      "score": 0.526
     },
     {
-      "title": "Sell Your Game Outside Steam: Keys, Downloads and Direct Sales",
-      "source": "Permitcore.dev",
-      "url": "https://permitcore.dev/blog/sell-game-outside-steam",
-      "publishedAt": "2026-11-15T20:08:16Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "AI Boom Is Far From Over as Analysts Predict Stronger Recovery in 2027",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/151379.php",
-      "publishedAt": "2026-11-15T18:14:10Z",
-      "sentiment": "positive",
-      "score": 0.382
-    },
-    {
-      "title": "An extraordinary failure, and it starts at the top",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/an-extraordinary-failure-and-it-starts-at-the-top/article71705287.ece",
-      "publishedAt": "2026-11-15T14:58:14Z",
-      "sentiment": "negative",
-      "score": -0.361
-    },
-    {
-      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
       "source": "Decrypt",
-      "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-      "publishedAt": "2026-11-15T14:01:02Z",
-      "sentiment": "negative",
-      "score": -0.402
-    },
-    {
-      "title": "IOND Stock: Celsius\u2019s Old Miner Earns $8.60 From AI per $1 of Bitcoin Mined",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/iond-stock-ionic-digital-q3-ai-leasing-bitcoin-sale/",
-      "publishedAt": "2026-11-15T12:46:45Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Japan's Economy Faces Major Tests as GDP, Trade and Inflation Data Loom",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/151378.php",
-      "publishedAt": "2026-11-15T11:56:58Z",
-      "sentiment": "negative",
-      "score": -0.226
-    },
-    {
-      "title": "A Solana Treasury\u2019s Own Stress Test Shows Strategy\u2019s STRC Holding Up Best in a 50% Crash",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/dfdv-stock-chad-preferred-strc-sata-stress-test/",
-      "publishedAt": "2026-11-15T08:48:39Z",
-      "sentiment": "negative",
-      "score": -0.077
-    },
-    {
-      "title": "9 great miles and points buying opportunities available as of November 15, 2026",
-      "source": "Livefromalounge.com",
-      "url": "https://livefromalounge.com/miles-points-buying-opportunities-november-15-2026/",
-      "publishedAt": "2026-11-15T07:56:16Z",
+      "url": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market",
+      "publishedAt": "2026-11-16T18:36:44Z",
       "sentiment": "positive",
-      "score": 0.772
+      "score": 0.649
     },
     {
-      "title": "Wall Street\u2019s wild Nvidia ride delivers big paydays and even bigger bruises",
-      "source": "The Sydney Morning Herald",
-      "url": "https://www.smh.com.au/business/markets/wall-street-s-wild-nvidia-ride-delivers-big-paydays-and-even-bigger-bruises-20261115-p61e8o.html",
-      "publishedAt": "2026-11-15T04:27:40Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Eagles\u2019 biggest mistake at 2026 NFL Trade Deadline after trading Jordan Davis",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/nfl/philadelphia-eagles/eagles-biggest-mistake-2026-nfl-trade-deadline-trading-jordan-davis",
-      "publishedAt": "2026-11-15T03:28:11Z",
+      "title": "Why the wheels are falling off the AI investment boom",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-11-17/wheels-falling-off-ai-investment-boom-nvidia-anthropic/107392122",
+      "publishedAt": "2026-11-16T18:00:00Z",
       "sentiment": "negative",
-      "score": -0.34
+      "score": -0.153
     },
     {
-      "title": "Bitcoin\u2019s oil relief has a catch: more oil at sea, less on land",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
-      "publishedAt": "2026-11-15T01:40:52Z",
-      "sentiment": "positive",
-      "score": 0.477
+      "title": "1987 Toyota Corolla FX16 GT-S at No Reserve",
+      "source": "Bringatrailer.com",
+      "url": "https://bringatrailer.com/listing/1987-toyota-corolla-fx-16-gt-s-2/",
+      "publishedAt": "2026-11-16T17:50:44Z",
+      "sentiment": "negative",
+      "score": -0.296
     },
     {
-      "title": "Strive Raises SATA Dividend to 13.25% After a Month Below Its $99 Floor",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/strive-sata-stock-dividend-13-25/",
-      "publishedAt": "2026-11-15T00:34:07Z",
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "publishedAt": "2026-11-16T17:18:53Z",
+      "sentiment": "negative",
+      "score": -0.064
+    },
+    {
+      "title": "Warsh, Opening Remarks",
+      "source": "Federalreserve.gov",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "publishedAt": "2026-11-16T17:00:00Z",
       "sentiment": "neutral",
       "score": 0.0
+    },
+    {
+      "title": "RBI reiterates listing mandate for Tata Sons, seeks compliance with norms",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html",
+      "publishedAt": "2026-11-16T16:38:53Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-stocks-in-us-strategic-petroleum-reserve-fall-to-lowest-level-since-1982/articleshow/135895909.cms",
+      "publishedAt": "2026-11-16T16:36:32Z",
+      "sentiment": "negative",
+      "score": -0.382
+    },
+    {
+      "title": "The AI boom hits its \u2018final stages\u2019 as Anthropic goes public and the jobless-growth economy delivers neither jobs nor growth",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/16/ai-boom-final-stages-anthropic-ipo-jobless-growth-50000-jobs-a-month/",
+      "publishedAt": "2026-11-16T15:56:18Z",
+      "sentiment": "positive",
+      "score": 0.221
+    },
+    {
+      "title": "Eyeing financial conglomerate tag, plan to power up subsidiaries, says Bank of Baroda CEO",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/eyeing-financial-conglomerate-tag-plan-to-power-up-subsidiaries-says-bank-of-baroda-ceo/article71708510.ece",
+      "publishedAt": "2026-11-16T15:55:03Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Institutional governance cannot be compromised",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/opinion/institutional-governance-cannot-be-compromised/article71708819.ece",
+      "publishedAt": "2026-11-16T15:50:04Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "The Imbiber\u2019s Guide to Victoria, British Columbia",
+      "source": "Imbibemagazine.com",
+      "url": "https://imbibemagazine.com/imbibers-guide-to-victoria-british-columbia/",
+      "publishedAt": "2026-11-16T15:22:02Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Eagles News: Patriots writer says A.J. Brown trade \u201ckeeps looking worse by the day\u201d",
+      "source": "Bleeding Green Nation",
+      "url": "https://www.bleedinggreennation.com/news/190431/eagles-news-patriots-writer-says-a-j-brown-trade-keeps-looking-worse-by-the-day",
+      "publishedAt": "2026-11-16T14:57:54Z",
+      "sentiment": "negative",
+      "score": -0.477
+    },
+    {
+      "title": "Michael Hudson: US Wars on Russia and Iran Are Pushing the World Into a Great Depression",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/prof-michael-hudson-us-wars-on-russia-and-iran-are-pushing-the-world-into-a-great-depression.html",
+      "publishedAt": "2026-11-16T14:55:35Z",
+      "sentiment": "negative",
+      "score": -0.494
     }
   ],
-  "fetched_at": "2026-11-16T21:23:11.156734"
+  "fetched_at": "2026-11-17T20:11:10.492524"
 }

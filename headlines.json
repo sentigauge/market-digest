@@ -1,89 +1,95 @@
 {
-  "fetched_at": "2026-11-17T20:11:10.492524",
+  "fetched_at": "2026-11-18T19:42:25.158078",
   "headlines": [
     {
-      "title": "Michael Saylor says Strategy wants to be the world\u2019s most valuable company, with Bitcoin as the engine",
+      "title": "Anthropic targets November 19 Nasdaq debut at valuation above $1 trillion",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
-      "publishedAt": "2026-11-16T19:45:11Z"
+      "url": "https://cryptobriefing.com/anthropic-ipo-november-19-trillion-valuation/",
+      "publishedAt": "2026-11-17T19:14:43Z"
     },
     {
-      "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market",
-      "publishedAt": "2026-11-16T18:36:44Z"
+      "title": "Feast mode, minus the fuss: affordable Thanksgiving meal deals across all five boroughs, for under $100",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/17/lifestyle/solo-thanksgiving-in-nyc-gobble-on-your-own-terms/",
+      "publishedAt": "2026-11-17T18:11:41Z"
     },
     {
-      "title": "Why the wheels are falling off the AI investment boom",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-11-17/wheels-falling-off-ai-investment-boom-nvidia-anthropic/107392122",
-      "publishedAt": "2026-11-16T18:00:00Z"
+      "title": "Hyperliquid averages record 65,161 daily traders in Q3 2026",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/hyperliquid-record-daily-traders-q3-2026/",
+      "publishedAt": "2026-11-17T17:49:29Z"
     },
     {
-      "title": "1987 Toyota Corolla FX16 GT-S at No Reserve",
-      "source": "Bringatrailer.com",
-      "url": "https://bringatrailer.com/listing/1987-toyota-corolla-fx-16-gt-s-2/",
-      "publishedAt": "2026-11-16T17:50:44Z"
+      "title": "Christopher Waller Wants Fed Money Beneath Tokenized Markets, Not in Every Trade",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/regulation/christopher-waller-tokenized-assets-central-bank-money/",
+      "publishedAt": "2026-11-17T17:09:25Z"
     },
     {
-      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "publishedAt": "2026-11-16T17:18:53Z"
+      "title": "If a Stock Market Crash Is Coming, Here\u2019s the Most Important Move Warren Buffett Would Make Right Now",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a3d910178f66a63c",
+      "publishedAt": "2026-11-17T16:52:13Z"
     },
     {
-      "title": "Warsh, Opening Remarks",
+      "title": "I visited London\u2019s viral GTA 6 merch pop-up, where shoppers waited for hours and scrambled to buy whatever was left",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/gta-6-pop-up-london-long-line-merch-sold-out-2026-11",
+      "publishedAt": "2026-11-17T16:31:08Z"
+    },
+    {
+      "title": "Anthropic IPO: Planning to invest from India? Check why IPO allotment may be difficult and what you can do instead",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/anthropic-ipo-planning-to-invest-from-india-check-why-ipo-allotment-may-be-difficult-and-what-you-can-do-instead-11794931790357.html",
+      "publishedAt": "2026-11-17T16:16:11Z"
+    },
+    {
+      "title": "Wall Street mostly down at open, Dow drops 400 pts",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7874007f1a87bb51",
+      "publishedAt": "2026-11-17T14:46:04Z"
+    },
+    {
+      "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
       "source": "Federalreserve.gov",
-      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-      "publishedAt": "2026-11-16T17:00:00Z"
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+      "publishedAt": "2026-11-17T14:10:00Z"
     },
     {
-      "title": "RBI reiterates listing mandate for Tata Sons, seeks compliance with norms",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html",
-      "publishedAt": "2026-11-16T16:38:53Z"
+      "title": "ayentra added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/ayentra/",
+      "publishedAt": "2026-11-17T13:25:07Z"
     },
     {
-      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-stocks-in-us-strategic-petroleum-reserve-fall-to-lowest-level-since-1982/articleshow/135895909.cms",
-      "publishedAt": "2026-11-16T16:36:32Z"
+      "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
+      "publishedAt": "2026-11-17T13:11:40Z"
     },
     {
-      "title": "The AI boom hits its \u2018final stages\u2019 as Anthropic goes public and the jobless-growth economy delivers neither jobs nor growth",
+      "title": "KOSPI Sinks Below 5,000 for First Time in 9 Months as Foreigners Dump $1 Billion in Shares Amid AI Selloff",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/south-korea-kospi-falls-below-5000-1878783",
+      "publishedAt": "2026-11-17T11:29:28Z"
+    },
+    {
+      "title": "The Stock Market Is Primed for an Explosive Week. Nvidia and the Federal Reserve May Decide What Comes Next",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/14941a5fbd9f3efa",
+      "publishedAt": "2026-11-17T11:16:07Z"
+    },
+    {
+      "title": "Nvidia interim CEO Kress will need to deliver pristine Q3 numbers tonight (and face off internally against Jensen Huang\u2019s daughter Madison)",
       "source": "Fortune",
-      "url": "https://fortune.com/2026/11/16/ai-boom-final-stages-anthropic-ipo-jobless-growth-50000-jobs-a-month/",
-      "publishedAt": "2026-11-16T15:56:18Z"
+      "url": "https://fortune.com/2026/11/17/nvidia-q3-earnings-colette-kress-madison-huang/",
+      "publishedAt": "2026-11-17T11:04:13Z"
     },
     {
-      "title": "Eyeing financial conglomerate tag, plan to power up subsidiaries, says Bank of Baroda CEO",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/eyeing-financial-conglomerate-tag-plan-to-power-up-subsidiaries-says-bank-of-baroda-ceo/article71708510.ece",
-      "publishedAt": "2026-11-16T15:55:03Z"
-    },
-    {
-      "title": "Institutional governance cannot be compromised",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/institutional-governance-cannot-be-compromised/article71708819.ece",
-      "publishedAt": "2026-11-16T15:50:04Z"
-    },
-    {
-      "title": "The Imbiber\u2019s Guide to Victoria, British Columbia",
-      "source": "Imbibemagazine.com",
-      "url": "https://imbibemagazine.com/imbibers-guide-to-victoria-british-columbia/",
-      "publishedAt": "2026-11-16T15:22:02Z"
-    },
-    {
-      "title": "Eagles News: Patriots writer says A.J. Brown trade \u201ckeeps looking worse by the day\u201d",
-      "source": "Bleeding Green Nation",
-      "url": "https://www.bleedinggreennation.com/news/190431/eagles-news-patriots-writer-says-a-j-brown-trade-keeps-looking-worse-by-the-day",
-      "publishedAt": "2026-11-16T14:57:54Z"
-    },
-    {
-      "title": "Michael Hudson: US Wars on Russia and Iran Are Pushing the World Into a Great Depression",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/11/prof-michael-hudson-us-wars-on-russia-and-iran-are-pushing-the-world-into-a-great-depression.html",
-      "publishedAt": "2026-11-16T14:55:35Z"
+      "title": "The Stock Market\u2019s Looming \u201cGround Stop\u201d",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/post/the-stock-markets-looming-ground-stop",
+      "publishedAt": "2026-11-17T10:22:00Z"
     }
   ]
 }

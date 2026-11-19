@@ -1,135 +1,136 @@
 {
-  "overall_tone": "neutral",
+  "overall_tone": "positive",
   "counts": {
-    "positive": 0,
-    "negative": 4,
-    "neutral": 11
+    "positive": 7,
+    "negative": 3,
+    "neutral": 5
   },
   "summary_lines": [
-    "4 of 15 headlines lean negative today.",
-    "11 of 15 headlines are neutral/mixed today."
+    "7 of 15 headlines lean positive today.",
+    "3 of 15 headlines lean negative today.",
+    "5 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Anthropic targets November 19 Nasdaq debut at valuation above $1 trillion",
+      "title": "Vanguard lifts Metaplanet stake to 18 million shares worth $22 million",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/anthropic-ipo-november-19-trillion-valuation/",
-      "publishedAt": "2026-11-17T19:14:43Z",
+      "url": "https://cryptobriefing.com/vanguard-metaplanet-stake-22-million/",
+      "publishedAt": "2026-11-18T19:25:29Z",
+      "sentiment": "positive",
+      "score": 0.477
+    },
+    {
+      "title": "In first meeting since Sep 17, Tata Sons board to discuss listing next week",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/in-first-meeting-since-sep-17-tata-sons-board-to-discuss-listing-next-week-126111801431_1.html",
+      "publishedAt": "2026-11-18T18:35:02Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Feast mode, minus the fuss: affordable Thanksgiving meal deals across all five boroughs, for under $100",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/17/lifestyle/solo-thanksgiving-in-nyc-gobble-on-your-own-terms/",
-      "publishedAt": "2026-11-17T18:11:41Z",
+      "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "publishedAt": "2026-11-18T18:34:15Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Hyperliquid averages record 65,161 daily traders in Q3 2026",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hyperliquid-record-daily-traders-q3-2026/",
-      "publishedAt": "2026-11-17T17:49:29Z",
+      "title": "Who made the strawberry? 14 days of logs building a procedural fruit with agents",
+      "source": "Pages.dev",
+      "url": "https://strawberry-methodology.pages.dev/",
+      "publishedAt": "2026-11-18T18:00:18Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Christopher Waller Wants Fed Money Beneath Tokenized Markets, Not in Every Trade",
+      "title": "Citi Trims Its Bitcoin Target to $99,532, Which Still Sits 57% Above the Market",
       "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/regulation/christopher-waller-tokenized-assets-central-bank-money/",
-      "publishedAt": "2026-11-17T17:09:25Z",
+      "url": "https://www.dcforecasts.com/bitcoin-news/citi-bitcoin-target-99532-cut/",
+      "publishedAt": "2026-11-18T17:54:20Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "If a Stock Market Crash Is Coming, Here\u2019s the Most Important Move Warren Buffett Would Make Right Now",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a3d910178f66a63c",
-      "publishedAt": "2026-11-17T16:52:13Z",
-      "sentiment": "negative",
-      "score": -0.155
+      "title": "BI assures rate hike will not derail Indonesia economic growth",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/443599/bi-assures-rate-hike-will-not-derail-indonesia-economic-growth",
+      "publishedAt": "2026-11-18T15:23:53Z",
+      "sentiment": "positive",
+      "score": 0.699
     },
     {
-      "title": "I visited London\u2019s viral GTA 6 merch pop-up, where shoppers waited for hours and scrambled to buy whatever was left",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/gta-6-pop-up-london-long-line-merch-sold-out-2026-11",
-      "publishedAt": "2026-11-17T16:31:08Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Anthropic IPO: Planning to invest from India? Check why IPO allotment may be difficult and what you can do instead",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/anthropic-ipo-planning-to-invest-from-india-check-why-ipo-allotment-may-be-difficult-and-what-you-can-do-instead-11794931790357.html",
-      "publishedAt": "2026-11-17T16:16:11Z",
-      "sentiment": "negative",
-      "score": -0.361
-    },
-    {
-      "title": "Wall Street mostly down at open, Dow drops 400 pts",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7874007f1a87bb51",
-      "publishedAt": "2026-11-17T14:46:04Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
-      "source": "Federalreserve.gov",
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
-      "publishedAt": "2026-11-17T14:10:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "ayentra added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/ayentra/",
-      "publishedAt": "2026-11-17T13:25:07Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
-      "publishedAt": "2026-11-17T13:11:40Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "KOSPI Sinks Below 5,000 for First Time in 9 Months as Foreigners Dump $1 Billion in Shares Amid AI Selloff",
+      "title": "Gold Price Today Crashes Below $3,800 to Lowest Since September 2025 as Fed Hike Bets Lift Dollar; Silver Sags",
       "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/south-korea-kospi-falls-below-5000-1878783",
-      "publishedAt": "2026-11-17T11:29:28Z",
+      "url": "https://www.ibtimes.com.au/gold-price-falls-fed-rate-hike-bets-dollar-1878875",
+      "publishedAt": "2026-11-18T15:00:39Z",
       "sentiment": "negative",
-      "score": -0.103
+      "score": -0.382
     },
     {
-      "title": "The Stock Market Is Primed for an Explosive Week. Nvidia and the Federal Reserve May Decide What Comes Next",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/14941a5fbd9f3efa",
-      "publishedAt": "2026-11-17T11:16:07Z",
+      "title": "KOSPI Today Roars Back Above 5,000 as Nvidia Blowout Fires Up SK Hynix, Samsung Rally, Snaps 3-Day Losing Run",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/south-korea-kospi-rebounds-above-5000-nvidia-chip-stocks-1878873",
+      "publishedAt": "2026-11-18T14:59:53Z",
+      "sentiment": "negative",
+      "score": -0.382
+    },
+    {
+      "title": "Nvidia shares fall despite beating Q3 expectations, down 36% from peak",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nvidia-shares-fall-despite-beating-q3-expectations-down-36-from-peak/",
+      "publishedAt": "2026-11-18T14:44:55Z",
+      "sentiment": "positive",
+      "score": 0.569
+    },
+    {
+      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+      "publishedAt": "2026-11-18T14:20:58Z",
+      "sentiment": "positive",
+      "score": 0.44
+    },
+    {
+      "title": "Strive\u2019s trading value tops Jefferies at about $202 million a day",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strive-trading-value-surpasses-jefferies/",
+      "publishedAt": "2026-11-18T13:34:52Z",
+      "sentiment": "positive",
+      "score": 0.691
+    },
+    {
+      "title": "Nvidia projects 75% revenue growth for fiscal 2028 despite CEO change",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nvidia-projects-75-revenue-growth-for-fiscal-2028-despite-ceo-change/",
+      "publishedAt": "2026-11-18T13:34:37Z",
+      "sentiment": "positive",
+      "score": 0.382
+    },
+    {
+      "title": "Bitcoin Price Today: BTC Stuck Near $64,600 as Extreme Fear Grips Crypto Market Ahead of Fed Minutes Release",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/bitcoin-price-fed-minutes-extreme-fear-etf-flows-1878844",
+      "publishedAt": "2026-11-18T13:23:42Z",
+      "sentiment": "negative",
+      "score": -0.67
+    },
+    {
+      "title": "Profit-booking trims recent gains as SEBI margin rules rattle D-Street",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece",
+      "publishedAt": "2026-11-18T13:22:11Z",
+      "sentiment": "positive",
+      "score": 0.34
+    },
+    {
+      "title": "Stocks slip with Nvidia, dollar ticks higher",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/stocks-slip-nvidia-dollar-ticks-higher-6560946",
+      "publishedAt": "2026-11-18T12:52:33Z",
       "sentiment": "neutral",
       "score": 0.0
-    },
-    {
-      "title": "Nvidia interim CEO Kress will need to deliver pristine Q3 numbers tonight (and face off internally against Jensen Huang\u2019s daughter Madison)",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/17/nvidia-q3-earnings-colette-kress-madison-huang/",
-      "publishedAt": "2026-11-17T11:04:13Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "The Stock Market\u2019s Looming \u201cGround Stop\u201d",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/post/the-stock-markets-looming-ground-stop",
-      "publishedAt": "2026-11-17T10:22:00Z",
-      "sentiment": "negative",
-      "score": -0.128
     }
   ],
-  "fetched_at": "2026-11-18T19:42:25.158078"
+  "fetched_at": "2026-11-19T19:43:04.942340"
 }

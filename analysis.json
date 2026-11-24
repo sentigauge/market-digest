@@ -2,135 +2,135 @@
   "overall_tone": "positive",
   "counts": {
     "positive": 6,
-    "negative": 5,
-    "neutral": 4
+    "negative": 3,
+    "neutral": 6
   },
   "summary_lines": [
     "6 of 15 headlines lean positive today.",
-    "5 of 15 headlines lean negative today.",
-    "4 of 15 headlines are neutral/mixed today."
+    "3 of 15 headlines lean negative today.",
+    "6 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Scott Bessent: Don't Blame NVIDIA For Market Downturn, Blame Blue Tsunami",
-      "source": "Crooksandliars.com",
-      "url": "https://crooksandliars.com/2026/11/scott-bessent-dont-blame-nvidia-blame-blue",
-      "publishedAt": "2026-11-22T22:47:00Z",
-      "sentiment": "negative",
-      "score": -0.094
+      "title": "Michael Saylor says Strategy does not need a bailout",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/michael-saylor-strategy-no-bailout/",
+      "publishedAt": "2026-11-23T20:46:03Z",
+      "sentiment": "positive",
+      "score": 0.076
     },
     {
-      "title": "After a \u00a528 Billion Metaplanet Buyback, Shareholders Vote on Cutting Capital to \u00a51",
+      "title": "Black Friday Prepper Deals 2026: What\u2019s Worth Buying and What to Skip",
+      "source": "Thesurvivalmom.com",
+      "url": "https://thesurvivalmom.com/black-friday-prepper-deals/",
+      "publishedAt": "2026-11-23T20:43:06Z",
+      "sentiment": "positive",
+      "score": 0.226
+    },
+    {
+      "title": "Hyperscale Data Stock Now Hinges on a Michigan AI Site Its Bitcoin Helped Fund",
       "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/metaplanet-buyback-capital-reduction-vote/",
-      "publishedAt": "2026-11-22T19:33:51Z",
-      "sentiment": "negative",
-      "score": -0.128
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-with-margaret-brennan-nov-22-2026/",
-      "publishedAt": "2026-11-22T19:32:22Z",
+      "url": "https://www.dcforecasts.com/bitcoin-news/hyperscale-data-stock-last-bitcoin-michigan-ai-site/",
+      "publishedAt": "2026-11-23T20:17:07Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "RBI Act may show the way on Tata Sons listing amid regulatory uncertainty",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/companies/news/rbi-act-may-show-the-way-on-tata-sons-listing-amid-regulatory-uncertainty-126112200713_1.html",
-      "publishedAt": "2026-11-22T18:00:21Z",
+      "title": "Coffee Break: Dangerous Belief Systems Power the Pentagon & Anthropic",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/11/pentagon-hegseth-crec-doug-wilson-anthropic-alignment-control.html",
+      "publishedAt": "2026-11-23T19:00:21Z",
       "sentiment": "negative",
-      "score": -0.34
+      "score": -0.477
     },
     {
-      "title": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/",
-      "publishedAt": "2026-11-22T17:16:49Z",
-      "sentiment": "positive",
-      "score": 0.202
-    },
-    {
-      "title": "Fed decision, Broadcom earnings and a Micron deadline all converge in one trading session",
+      "title": "Retail investors turn bearish on Nvidia ahead of earnings report",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-broadcom-micron-december-9/",
-      "publishedAt": "2026-11-22T16:39:03Z",
+      "url": "https://cryptobriefing.com/retail-investors-turn-bearish-on-nvidia-ahead-of-earnings-report/",
+      "publishedAt": "2026-11-23T18:56:00Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Gold slides to lowest level since September 2025, silver crashes nearly 4%: What's driving the selloff?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-slides-to-lowest-level-since-september-2025-silver-crashes-nearly-4-whats-driving-the-selloff-11795361232751.html",
-      "publishedAt": "2026-11-22T15:46:10Z",
-      "sentiment": "negative",
-      "score": -0.382
-    },
-    {
-      "title": "Forecasting Sales for a Hemp Line Before Production Grows",
-      "source": "Socialmediaexplorer.com",
-      "url": "https://socialmediaexplorer.com/social-media-marketing/forecasting-sales-hemp-line-before-production-grows/",
-      "publishedAt": "2026-11-22T15:33:31Z",
+      "title": "I Came to Steamboat to Ski. I Stayed for Everything Else.",
+      "source": "Matadornetwork.com",
+      "url": "https://matadornetwork.com/read/steamboat-springs-off-the-slopes/",
+      "publishedAt": "2026-11-23T18:26:18Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Why Toyota Land Cruisers Have A Reputation For Being Nearly Indestructible",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2310746/why-toyota-land-cruisers-reputation-nearly-indestructible/",
-      "publishedAt": "2026-11-22T13:05:00Z",
-      "sentiment": "positive",
-      "score": 0.153
-    },
-    {
-      "title": "Investors hunt for a bottom as the US stock selloff deepens",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/investors-seek-bottom-us-stock-selloff/",
-      "publishedAt": "2026-11-22T12:39:13Z",
+      "title": "The AI bubble hasn't burst, but it has significantly deflated",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-11-24/ai-bubble-has-not-burst-but-it-has-significantly-deflated/107416578",
+      "publishedAt": "2026-11-23T18:00:00Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "Can markets ever be as free as economics textbooks say they should be?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/can-markets-ever-be-as-free-as-economics-textbooks-say-they-should-be-11795080821863.html",
-      "publishedAt": "2026-11-22T12:30:06Z",
-      "sentiment": "positive",
-      "score": 0.511
-    },
-    {
-      "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/fpi-crude-oil-global-trends-to-to-steer-markets-in-holiday-shortened-week-126112200353_1.html",
-      "publishedAt": "2026-11-22T09:47:11Z",
-      "sentiment": "negative",
-      "score": -0.572
-    },
-    {
-      "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163",
-      "publishedAt": "2026-11-22T09:00:00Z",
-      "sentiment": "positive",
-      "score": 0.421
-    },
-    {
-      "title": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a0e080021763d85c",
-      "publishedAt": "2026-11-22T04:49:36Z",
-      "sentiment": "positive",
-      "score": 0.421
-    },
-    {
-      "title": "Wall Street asks what can save AI trade after Anthropic wipeout",
+      "title": "Sebi proposes tighter tenure limits for exchange, depository chiefs; cuts PID age cap to 70",
       "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout/articleshow/136067463.cms",
-      "publishedAt": "2026-11-22T04:43:54Z",
+      "url": "https://m.economictimes.com/markets/stocks/news/sebi-proposes-tighter-tenure-limits-for-exchange-depository-chiefs-cuts-pid-age-cap-to-70/articleshow/136107106.cms",
+      "publishedAt": "2026-11-23T15:05:22Z",
+      "sentiment": "negative",
+      "score": -0.296
+    },
+    {
+      "title": "DeFi Development Corp. adds about 5,180 SOL, extending its buying streak to 11 weeks",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/defi-development-corp-adds-5180-sol/",
+      "publishedAt": "2026-11-23T14:37:09Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Nasdaq\u2019s AI-powered rally shows signs of cracking as Nvidia sits at the center of the storm",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nasdaq-ai-rally-cracks-nvidia-pressure/",
+      "publishedAt": "2026-11-23T14:07:15Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Solo Bitcoin Miner Claims $190K Block Reward With Tiny Hashpower Share",
+      "source": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/solo-bitcoin-miner-claims-190k-block-reward-with-tiny-hashpower-share/",
+      "publishedAt": "2026-11-23T14:04:20Z",
       "sentiment": "positive",
-      "score": 0.494
+      "score": 0.459
+    },
+    {
+      "title": "Rebounding Stock Futures Help Bitcoin Recover Above $61K",
+      "source": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/rebounding-stock-futures-help-bitcoin-recover-above-61k/",
+      "publishedAt": "2026-11-23T13:50:11Z",
+      "sentiment": "positive",
+      "score": 0.402
+    },
+    {
+      "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx",
+      "publishedAt": "2026-11-23T13:44:16Z",
+      "sentiment": "positive",
+      "score": 0.599
+    },
+    {
+      "title": "Travellers slam 'greedy O'Leary' as Ryanair changes policy for unreserved seats",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/ryan-seating-policy-change-7234979-Nov2026/",
+      "publishedAt": "2026-11-23T13:33:18Z",
+      "sentiment": "negative",
+      "score": -0.599
+    },
+    {
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses",
+      "publishedAt": "2026-11-23T13:31:01Z",
+      "sentiment": "positive",
+      "score": 0.296
     }
   ],
-  "fetched_at": "2026-11-23T23:00:15.959416"
+  "fetched_at": "2026-11-24T21:40:11.703056"
 }

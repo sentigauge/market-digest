@@ -1,136 +1,136 @@
 {
   "overall_tone": "positive",
   "counts": {
-    "positive": 6,
-    "negative": 3,
-    "neutral": 6
+    "positive": 5,
+    "negative": 5,
+    "neutral": 5
   },
   "summary_lines": [
-    "6 of 15 headlines lean positive today.",
-    "3 of 15 headlines lean negative today.",
-    "6 of 15 headlines are neutral/mixed today."
+    "5 of 15 headlines lean positive today.",
+    "5 of 15 headlines lean negative today.",
+    "5 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Michael Saylor says Strategy does not need a bailout",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/michael-saylor-strategy-no-bailout/",
-      "publishedAt": "2026-11-23T20:46:03Z",
+      "title": "Show HN: Libre Terminal \u2013 Free local financial terminal, no login or API keys",
+      "source": "Github.com",
+      "url": "https://github.com/samlazs/libre-terminal",
+      "publishedAt": "2026-11-24T19:33:03Z",
       "sentiment": "positive",
-      "score": 0.076
+      "score": 0.273
     },
     {
-      "title": "Black Friday Prepper Deals 2026: What\u2019s Worth Buying and What to Skip",
-      "source": "Thesurvivalmom.com",
-      "url": "https://thesurvivalmom.com/black-friday-prepper-deals/",
-      "publishedAt": "2026-11-23T20:43:06Z",
-      "sentiment": "positive",
-      "score": 0.226
-    },
-    {
-      "title": "Hyperscale Data Stock Now Hinges on a Michigan AI Site Its Bitcoin Helped Fund",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/hyperscale-data-stock-last-bitcoin-michigan-ai-site/",
-      "publishedAt": "2026-11-23T20:17:07Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Coffee Break: Dangerous Belief Systems Power the Pentagon & Anthropic",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/11/pentagon-hegseth-crec-doug-wilson-anthropic-alignment-control.html",
-      "publishedAt": "2026-11-23T19:00:21Z",
-      "sentiment": "negative",
-      "score": -0.477
-    },
-    {
-      "title": "Retail investors turn bearish on Nvidia ahead of earnings report",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/retail-investors-turn-bearish-on-nvidia-ahead-of-earnings-report/",
-      "publishedAt": "2026-11-23T18:56:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "I Came to Steamboat to Ski. I Stayed for Everything Else.",
-      "source": "Matadornetwork.com",
-      "url": "https://matadornetwork.com/read/steamboat-springs-off-the-slopes/",
-      "publishedAt": "2026-11-23T18:26:18Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "The AI bubble hasn't burst, but it has significantly deflated",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-11-24/ai-bubble-has-not-burst-but-it-has-significantly-deflated/107416578",
-      "publishedAt": "2026-11-23T18:00:00Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Sebi proposes tighter tenure limits for exchange, depository chiefs; cuts PID age cap to 70",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/sebi-proposes-tighter-tenure-limits-for-exchange-depository-chiefs-cuts-pid-age-cap-to-70/articleshow/136107106.cms",
-      "publishedAt": "2026-11-23T15:05:22Z",
-      "sentiment": "negative",
-      "score": -0.296
-    },
-    {
-      "title": "DeFi Development Corp. adds about 5,180 SOL, extending its buying streak to 11 weeks",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/defi-development-corp-adds-5180-sol/",
-      "publishedAt": "2026-11-23T14:37:09Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Nasdaq\u2019s AI-powered rally shows signs of cracking as Nvidia sits at the center of the storm",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/nasdaq-ai-rally-cracks-nvidia-pressure/",
-      "publishedAt": "2026-11-23T14:07:15Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "Solo Bitcoin Miner Claims $190K Block Reward With Tiny Hashpower Share",
-      "source": "Bitcoinfoundation.org",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/solo-bitcoin-miner-claims-190k-block-reward-with-tiny-hashpower-share/",
-      "publishedAt": "2026-11-23T14:04:20Z",
-      "sentiment": "positive",
-      "score": 0.459
-    },
-    {
-      "title": "Rebounding Stock Futures Help Bitcoin Recover Above $61K",
-      "source": "Bitcoinfoundation.org",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/rebounding-stock-futures-help-bitcoin-recover-above-61k/",
-      "publishedAt": "2026-11-23T13:50:11Z",
-      "sentiment": "positive",
-      "score": 0.402
-    },
-    {
-      "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx",
-      "publishedAt": "2026-11-23T13:44:16Z",
-      "sentiment": "positive",
-      "score": 0.599
-    },
-    {
-      "title": "Travellers slam 'greedy O'Leary' as Ryanair changes policy for unreserved seats",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/ryan-seating-policy-change-7234979-Nov2026/",
-      "publishedAt": "2026-11-23T13:33:18Z",
-      "sentiment": "negative",
-      "score": -0.599
-    },
-    {
-      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses",
-      "publishedAt": "2026-11-23T13:31:01Z",
+      "title": "European shares fall as tech rally fades after Jensen Huang jolt",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/11/24/european-shares-fall-as-tech-rally-fades-after-jensen-huang-jolt/",
+      "publishedAt": "2026-11-24T18:41:09Z",
       "sentiment": "positive",
       "score": 0.296
+    },
+    {
+      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+      "publishedAt": "2026-11-24T18:16:02Z",
+      "sentiment": "negative",
+      "score": -0.541
+    },
+    {
+      "title": "\u2018Too Big to Fail\u2019? Trump\u2019s Jensen Huang Rescue Seen as First Government Bailout of AI Industry",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-nvidia-jensen-huang-too-big-to-fail",
+      "publishedAt": "2026-11-24T16:57:14Z",
+      "sentiment": "positive",
+      "score": 0.44
+    },
+    {
+      "title": "Are Banks Open on Thanksgiving Day 2026? What to Know About Branches, ATMs, Deposits and Black Friday Hours",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/are-banks-open-thanksgiving-2026-1879303",
+      "publishedAt": "2026-11-24T15:20:56Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "RBI\u2019s climate challenge",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/opinion/rbis-climate-challenge/article71739436.ece",
+      "publishedAt": "2026-11-24T15:11:36Z",
+      "sentiment": "positive",
+      "score": 0.077
+    },
+    {
+      "title": "Goldman Sachs warns the stock rally could be a bull trap as credit lags",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/goldman-sachs-bull-trap-credit-warning/",
+      "publishedAt": "2026-11-24T15:07:29Z",
+      "sentiment": "negative",
+      "score": -0.382
+    },
+    {
+      "title": "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/24/bill-ackman-recession-inflation-federal-reserve-target/",
+      "publishedAt": "2026-11-24T14:59:06Z",
+      "sentiment": "negative",
+      "score": -0.494
+    },
+    {
+      "title": "fx-spot-dates added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/fx-spot-dates/",
+      "publishedAt": "2026-11-24T14:51:06Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "No Meaningful Distinction Between Public and Private",
+      "source": "Reason",
+      "url": "https://reason.com/2026/11/24/no-meaningful-distinction-between-public-and-private/",
+      "publishedAt": "2026-11-24T14:29:57Z",
+      "sentiment": "negative",
+      "score": -0.241
+    },
+    {
+      "title": "Eagles News: \u201cBehind the scenes, there\u2019s been excitement about Byron Young\u201d",
+      "source": "Bleeding Green Nation",
+      "url": "https://www.bleedinggreennation.com/news/191261/eagles-news-behind-the-scenes-theres-been-excitement-about-byron-young",
+      "publishedAt": "2026-11-24T14:27:54Z",
+      "sentiment": "positive",
+      "score": 0.494
+    },
+    {
+      "title": "RedStone supplies NAV feed and data stack for RealFi\u2019s stablecoins",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/redstone-nav-feed-realfi-stablecoins/",
+      "publishedAt": "2026-11-24T14:10:36Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
+      "publishedAt": "2026-11-24T13:07:49Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "How to Keep M&A Purchase Price and Earnout Disputes on the Fast Track and Out of Court",
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "url": "https://corpgov.law.harvard.edu/2026/11/24/how-to-keep-ma-purchase-price-and-earnout-disputes-on-the-fast-track-and-out-of-court/",
+      "publishedAt": "2026-11-24T12:30:22Z",
+      "sentiment": "negative",
+      "score": -0.273
+    },
+    {
+      "title": "Does the Nvidia-led rip mark the market bottom? Maybe not",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/does-the-nvidia-led-rip-mark-the-market-bottom-maybe-not.html",
+      "publishedAt": "2026-11-24T12:10:59Z",
+      "sentiment": "neutral",
+      "score": 0.0
     }
   ],
-  "fetched_at": "2026-11-24T21:40:11.703056"
+  "fetched_at": "2026-11-25T20:47:54.517541"
 }

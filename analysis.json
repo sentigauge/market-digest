@@ -1,136 +1,136 @@
 {
-  "overall_tone": "positive",
+  "overall_tone": "neutral",
   "counts": {
-    "positive": 5,
+    "positive": 4,
     "negative": 5,
-    "neutral": 5
+    "neutral": 6
   },
   "summary_lines": [
-    "5 of 15 headlines lean positive today.",
+    "4 of 15 headlines lean positive today.",
     "5 of 15 headlines lean negative today.",
-    "5 of 15 headlines are neutral/mixed today."
+    "6 of 15 headlines are neutral/mixed today."
   ],
   "headlines": [
     {
-      "title": "Show HN: Libre Terminal \u2013 Free local financial terminal, no login or API keys",
-      "source": "Github.com",
-      "url": "https://github.com/samlazs/libre-terminal",
-      "publishedAt": "2026-11-24T19:33:03Z",
-      "sentiment": "positive",
-      "score": 0.273
-    },
-    {
-      "title": "European shares fall as tech rally fades after Jensen Huang jolt",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/2026/11/24/european-shares-fall-as-tech-rally-fades-after-jensen-huang-jolt/",
-      "publishedAt": "2026-11-24T18:41:09Z",
-      "sentiment": "positive",
-      "score": 0.296
-    },
-    {
-      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-      "publishedAt": "2026-11-24T18:16:02Z",
-      "sentiment": "negative",
-      "score": -0.541
-    },
-    {
-      "title": "\u2018Too Big to Fail\u2019? Trump\u2019s Jensen Huang Rescue Seen as First Government Bailout of AI Industry",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/trump-nvidia-jensen-huang-too-big-to-fail",
-      "publishedAt": "2026-11-24T16:57:14Z",
-      "sentiment": "positive",
-      "score": 0.44
-    },
-    {
-      "title": "Are Banks Open on Thanksgiving Day 2026? What to Know About Branches, ATMs, Deposits and Black Friday Hours",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/are-banks-open-thanksgiving-2026-1879303",
-      "publishedAt": "2026-11-24T15:20:56Z",
+      "title": "RBI's net dollar purchases plunge to $6.9 billion in September from $43.2 billion in August",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/news/economy/finance/rbis-net-dollar-purchases-plunge-to-6-9-billion-in-september-from-43-2-billion-in-august/articleshow/136172212.cms",
+      "publishedAt": "2026-11-25T20:18:22Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "RBI\u2019s climate challenge",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/rbis-climate-challenge/article71739436.ece",
-      "publishedAt": "2026-11-24T15:11:36Z",
+      "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms",
+      "publishedAt": "2026-11-25T20:07:37Z",
       "sentiment": "positive",
-      "score": 0.077
+      "score": 0.382
     },
     {
-      "title": "Goldman Sachs warns the stock rally could be a bull trap as credit lags",
+      "title": "Bitcoin Could Take an NFT-Style Hit and Crash to $10,000 According to Bloomberg Analyst",
+      "source": "ZyCrypto",
+      "url": "https://zycrypto.com/bitcoin-could-take-an-nft-style-hit-and-crash-to-10000-according-to-bloomberg-analyst/",
+      "publishedAt": "2026-11-25T19:56:02Z",
+      "sentiment": "negative",
+      "score": -0.402
+    },
+    {
+      "title": "Nvidia nears first death cross since March 2025 amid stock decline",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/goldman-sachs-bull-trap-credit-warning/",
-      "publishedAt": "2026-11-24T15:07:29Z",
+      "url": "https://cryptobriefing.com/nvidia-nears-first-death-cross-since-march-2025-amid-stock-decline/",
+      "publishedAt": "2026-11-25T19:50:49Z",
       "sentiment": "negative",
-      "score": -0.382
+      "score": -0.599
     },
     {
-      "title": "Bill Ackman says the U.S. economy could be headed for another recession\u2014and is blaming Kevin Warsh\u2019s Fed",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/24/bill-ackman-recession-inflation-federal-reserve-target/",
-      "publishedAt": "2026-11-24T14:59:06Z",
+      "title": "Why are investors freaking out even as the U.S. economy surges?",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/",
+      "publishedAt": "2026-11-25T19:45:38Z",
       "sentiment": "negative",
-      "score": -0.494
+      "score": -0.421
     },
     {
-      "title": "fx-spot-dates added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/fx-spot-dates/",
-      "publishedAt": "2026-11-24T14:51:06Z",
+      "title": "Should You Wait For The 838-HP Electric BMW M3 Or Buy The Last Manual G80 M3? Here\u2019s What Each Gets You",
+      "source": "BMWBLOG",
+      "url": "https://www.bmwblog.com/2026/11/25/electric-bmw-m3-vs-gas-g80-m3/",
+      "publishedAt": "2026-11-25T19:32:12Z",
       "sentiment": "neutral",
       "score": 0.0
     },
     {
-      "title": "No Meaningful Distinction Between Public and Private",
-      "source": "Reason",
-      "url": "https://reason.com/2026/11/24/no-meaningful-distinction-between-public-and-private/",
-      "publishedAt": "2026-11-24T14:29:57Z",
-      "sentiment": "negative",
-      "score": -0.241
+      "title": "Chile Is Getting a Massive New National Park in 2027",
+      "source": "Matadornetwork.com",
+      "url": "https://matadornetwork.com/read/cape-froward-national-park/",
+      "publishedAt": "2026-11-25T19:24:27Z",
+      "sentiment": "neutral",
+      "score": 0.0
     },
     {
-      "title": "Eagles News: \u201cBehind the scenes, there\u2019s been excitement about Byron Young\u201d",
-      "source": "Bleeding Green Nation",
-      "url": "https://www.bleedinggreennation.com/news/191261/eagles-news-behind-the-scenes-theres-been-excitement-about-byron-young",
-      "publishedAt": "2026-11-24T14:27:54Z",
+      "title": "Seeing Sea Country: how Traditional Owners are leading the way in caring for our oceans",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/seeing-sea-country-how-traditional-owners-are-leading-the-way-in-caring-for-our-oceans-294478",
+      "publishedAt": "2026-11-25T19:08:16Z",
       "sentiment": "positive",
       "score": 0.494
     },
     {
-      "title": "RedStone supplies NAV feed and data stack for RealFi\u2019s stablecoins",
+      "title": "Strive CEO Matt Cole reports strong demand for Bitcoin-backed SATS preferred stock",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/redstone-nav-feed-realfi-stablecoins/",
-      "publishedAt": "2026-11-24T14:10:36Z",
-      "sentiment": "neutral",
-      "score": 0.0
+      "url": "https://cryptobriefing.com/strive-sats-preferred-stock-demand/",
+      "publishedAt": "2026-11-25T18:58:58Z",
+      "sentiment": "positive",
+      "score": 0.421
     },
     {
-      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-      "publishedAt": "2026-11-24T13:07:49Z",
-      "sentiment": "neutral",
-      "score": 0.0
-    },
-    {
-      "title": "How to Keep M&A Purchase Price and Earnout Disputes on the Fast Track and Out of Court",
-      "source": "Harvard School of Engineering and Applied Sciences",
-      "url": "https://corpgov.law.harvard.edu/2026/11/24/how-to-keep-ma-purchase-price-and-earnout-disputes-on-the-fast-track-and-out-of-court/",
-      "publishedAt": "2026-11-24T12:30:22Z",
+      "title": "The First Black Friday Was Nothing Like the Shopping Frenzy We Know Today",
+      "source": "Mental Floss",
+      "url": "https://www.mentalfloss.com/history/first-black-friday-nothing-like-shopping-frenzy-today",
+      "publishedAt": "2026-11-25T17:00:01Z",
       "sentiment": "negative",
-      "score": -0.273
+      "score": -0.528
     },
     {
-      "title": "Does the Nvidia-led rip mark the market bottom? Maybe not",
+      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/world-stocks-tumble-trump-tariffs-rattle-markets-ai-rally-fades-6580246",
+      "publishedAt": "2026-11-25T16:52:13Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "There are 5,100 newly minted Anthropic millionaires\u2014here\u2019s all the stuff they don\u2019t tell you about when you suddenly get rich",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/does-the-nvidia-led-rip-mark-the-market-bottom-maybe-not.html",
-      "publishedAt": "2026-11-24T12:10:59Z",
+      "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
+      "publishedAt": "2026-11-25T16:32:55Z",
+      "sentiment": "positive",
+      "score": 0.557
+    },
+    {
+      "title": "Is America on the Verge of an Economic Collapse? AI Stocks Plunge, Debt Worries Mount and Inflation Surges",
+      "source": "Offgridsurvival.com",
+      "url": "https://offgridsurvival.com/is-america-on-the-verge-of-an-economic-collapse-ai-stocks-plunge-debt-worries-mount-and-inflation-surges/",
+      "publishedAt": "2026-11-25T16:20:31Z",
+      "sentiment": "negative",
+      "score": -0.818
+    },
+    {
+      "title": "Indian investment in foreign capital hit $2 billion in H1FY26",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/indian-investment-in-foreign-capital-hit-2-billion-in-h1fy26/article71743668.ece",
+      "publishedAt": "2026-11-25T16:10:40Z",
+      "sentiment": "neutral",
+      "score": 0.0
+    },
+    {
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+      "publishedAt": "2026-11-25T16:07:35Z",
       "sentiment": "neutral",
       "score": 0.0
     }
   ],
-  "fetched_at": "2026-11-25T20:47:54.517541"
+  "fetched_at": "2026-11-26T20:39:51.968442"
 }
